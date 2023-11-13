@@ -34,7 +34,6 @@
                                     <div class="text-wrapper-2">Booking</div>
                                 </div>
                             </div>
-                            <img class="group-3" src="img/group-33836.png" />
                         </div>
                         <div class="overlap-2">
                             <div class="overlap-wrapper">
@@ -48,7 +47,7 @@
                             </div>
                             <div class="group-5">
                                 <div class="overlap-4">
-                                    <div class="tab-3"><img class="img" src="img/carbon-favorite-filled.png" /></div>
+                                    <div class="tab-3"><a href="/wishlist"><img class="img" src="img/carbon-favorite-filled.png" /></div>
                                     <div class="text-wrapper-4">Wishlist</div>
                                 </div>
                             </div>
@@ -156,7 +155,7 @@
                                     <p class="text-wrapper-13">
                                         Jl. Pantai Ria Kenjeran, Sukolilo Baru, Kec. Bulak, Surabaya, Jawa Timur 60122
                                     </p>
-                                    <img class="star-2" src="img/star-2.svg" />
+                                    <img class="star-2" src="img/star.svg" />
                                 </div>
                                 <img class="image-1" src="img/image-1.png" />
                             </div>
@@ -178,12 +177,10 @@
                 </div>
                 <div class="overlap-12">
                     <div class="text-wrapper-14">Upcoming Promo</div>
-                    <div class="promo"><img class="promo-variant" src="img/Rectangle-29.png" /></div>
+                    <div class="promo"><a href="/detail-promo"><img class="promo-variant" src="img/Rectangle-29.png" /></div>
                     <div class="promo-2"><img class="promo-variant" src="img/Rectangle-79.png" /></div>
-                    <div class="strip">
+                    <div class="strip"><a href="/more-promo">
                         <img class="line" src="img/strip3.png" />
-                        <img class="line-2" src="img/strip3.png" />
-                        <img class="line-3" src="img/strip3.png" />
                     </div>
                 </div>
             </div>

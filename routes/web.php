@@ -13,6 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+//auth
 Route::get('/', function () {
     return view('landing');
 });
@@ -26,6 +27,20 @@ Route::get('/signup', function () {
     return view('auth/signup');
 });
 
+// home
 Route::get('/home', function () {
     return view('home/home');
+});
+
+Route::get('/detail-promo', function () {
+    return view('home/detailpromo');
+});
+
+Route::get('/more-promo', function () {
+    return view('home/showpromo');
+});
+
+//wishlist
+Route::get('/wishlist', function () {
+    return view('wishlist/wishlist');
 });
