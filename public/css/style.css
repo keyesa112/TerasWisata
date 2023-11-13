@@ -116,12 +116,12 @@
 .LANDING-PAGE .plan-your-holidays {
   position: absolute;
   width: 296px;
-  top: 512px;
+  top: 520px;
   left: 46px;
   font-family: "Mulish-Regular", Helvetica;
-  font-weight: 400;
+  font-weight: 100;
   color: #ffffff;
-  font-size: 15px;
+  font-size: 13px;
   text-align: center;
   letter-spacing: 0;
   line-height: normal;
@@ -220,6 +220,10 @@
   line-height: normal;
 }
 
+.LANDING-PAGE .login-link {
+  color: #ffffff;
+}
+
 .LOGIN {
   display: flex;
   flex-direction: row;
@@ -256,7 +260,7 @@
   top: 356px;
   left: 241px;
   font-family: "Mulish-SemiBold", Helvetica;
-  font-weight: 600;
+  font-weight: 400;
   color: #ffffff;
   font-size: 13px;
   text-align: center;
@@ -267,7 +271,7 @@
 .LOGIN .div {
   position: absolute;
   width: 93px;
-  top: 380px;
+  top: 382px;
   left: 56px;
   font-family: "Mulish-SemiBold", Helvetica;
   font-weight: 600;
@@ -517,3 +521,1058 @@
   letter-spacing: 0;
   line-height: normal;
 }
+
+.LOGIN .signup-link {
+  color: #ffffff;
+  font-weight: bold;
+  /* Atau warna CSS lainnya */
+}
+
+.LOGIN .button-link {
+  color: #ffffff;
+  display: inline-block;
+  text-decoration: none; 
+  cursor: pointer;
+}
+
+.SIGN-UP {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.SIGN-UP .div {
+  background-color: #4788d7;
+  width: 390px;
+  height: 844px;
+  position: relative;
+}
+
+.SIGN-UP .overlap {
+  position: absolute;
+  width: 328px;
+  height: 58px;
+  top: 584px;
+  left: 31px;
+  border-radius: 25px;
+}
+
+.SIGN-UP .rectangle {
+  position: absolute;
+  width: 328px;
+  height: 58px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+.SIGN-UP .text-wrapper {
+  position: absolute;
+  width: 94px;
+  top: 15px;
+  left: 115px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #4788d7;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.SIGN-UP .have-an-account-sign {
+  position: absolute;
+  width: 235px;
+  top: 675px;
+  left: 83px;
+  font-family: "Mulish-Light", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.SIGN-UP .span {
+  font-weight: 300;
+}
+
+.SIGN-UP .text-wrapper-2 {
+  font-family: "Mulish-Bold", Helvetica;
+  font-weight: 700;
+}
+
+.SIGN-UP .text-wrapper-3 {
+  position: absolute;
+  width: 111px;
+  top: 148px;
+  left: 140px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.SIGN-UP .overlap-group {
+  position: absolute;
+  width: 318px;
+  height: 49px;
+  top: 228px;
+  left: 41px;
+  background-color: #89ccf9;
+  border-radius: 5px;
+}
+
+.SIGN-UP .text-wrapper-4 {
+  position: absolute;
+  width: 120px;
+  top: 15px;
+  left: 52px;
+  font-family: "Mulish-Medium", Helvetica;
+  font-weight: 500;
+  color: #928db2;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.SIGN-UP .person {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 8px;
+  left: 8px;
+}
+
+.SIGN-UP .overlap-group-2 {
+  position: absolute;
+  width: 318px;
+  height: 49px;
+  top: 313px;
+  left: 41px;
+  background-color: #89ccf9;
+  border-radius: 5px;
+}
+
+.SIGN-UP .email {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 11px;
+  left: 12px;
+}
+
+.SIGN-UP .overlap-2 {
+  position: absolute;
+  width: 318px;
+  height: 49px;
+  top: 397px;
+  left: 41px;
+  background-color: #89ccf9;
+  border-radius: 5px;
+}
+
+.SIGN-UP .text-wrapper-5 {
+  position: absolute;
+  width: 135px;
+  top: 17px;
+  left: 52px;
+  font-family: "Mulish-Medium", Helvetica;
+  font-weight: 500;
+  color: #928db2;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  }
+
+.SIGN-UP .key {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 14px;
+  left: 14px;
+}
+
+.SIGN-UP .overlap-3 {
+  position: absolute;
+  width: 318px;
+  height: 49px;
+  top: 483px;
+  left: 41px;
+  background-color: #89ccf9;
+  border-radius: 5px;
+}
+
+.SIGN-UP .text-wrapper-6 {
+  position: absolute;
+  width: 120px;
+  top: 15px;
+  left: 52px;
+  font-family: "Mulish-Medium", Helvetica;
+  font-weight: 500;
+  color: #928db2;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.SIGN-UP .img {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 11px;
+  left: 14px;
+}
+
+.SIGN-UP .text-wrapper-7 {
+  position: absolute;
+  width: 85px;
+  top: 197px;
+  left: 41px;
+  font-family: "Mulish-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.SIGN-UP .text-wrapper-8 {
+  position: absolute;
+  width: 47px;
+  top: 284px;
+  left: 41px;
+  font-family: "Mulish-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.SIGN-UP .text-wrapper-9 {
+  position: absolute;
+  width: 85px;
+  top: 367px;
+  left: 41px;
+  font-family: "Mulish-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.SIGN-UP .text-wrapper-10 {
+  position: absolute;
+  width: 85px;
+  top: 451px;
+  left: 41px;
+  font-family: "Mulish-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.HOME {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.HOME .div {
+  background-color: var(--main-1);
+  overflow: hidden;
+  width: 390px;
+  height: 844px;
+  position: relative;
+}
+
+.HOME .overlap {
+  position: absolute;
+  width: 392px;
+  height: 103px;
+  top: 741px;
+  left: -2px;
+}
+
+.HOME .rectangle {
+  position: absolute;
+  width: 390px;
+  height: 99px;
+  top: 4px;
+  left: 2px;
+  background-color: #ffffff;
+}
+
+.HOME .MENU-BAR {
+  position: absolute;
+  width: 392px;
+  height: 80px;
+  top: 0;
+  left: 0;
+}
+
+.HOME .overlap-group {
+  position: absolute;
+  width: 156px;
+  height: 80px;
+  top: 0;
+  left: 238px;
+}
+
+.HOME .group {
+  position: absolute;
+  width: 79px;
+  height: 80px;
+  top: 0;
+  left: 77px;
+}
+
+.HOME .overlap-group-2 {
+  position: relative;
+  width: 77px;
+  height: 80px;
+}
+
+.HOME .tab {
+  position: absolute;
+  width: 77px;
+  top: 0;
+  left: 0;
+  height: 80px;
+  background-color: #ffffff;
+}
+
+.HOME .img {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 29px;
+  left: 27px;
+}
+
+.HOME .booking {
+  top: 57px;
+  left: 16px;
+  font-family: "Mulish-Light", Helvetica;
+  color: #00000080;
+  position: absolute;
+  font-weight: 300;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.HOME .text-wrapper {
+  position: absolute;
+  width: 50px;
+  top: 55px;
+  left: 25px;
+  font-family: "Mulish-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.HOME .overlap-group-wrapper {
+  position: absolute;
+  width: 79px;
+  height: 80px;
+  top: 0;
+  left: 0;
+}
+
+.HOME .div-wrapper {
+  position: absolute;
+  width: 77px;
+  height: 80px;
+  top: 0;
+  left: 0;
+}
+
+.HOME .tab-2 {
+  position: relative;
+  height: 80px;
+  background-color: #ffffff;
+}
+
+.HOME .booking-2 {
+  top: 57px;
+  left: 16px;
+  font-family: "Poppins-Light", Helvetica;
+  color: #00000080;
+  position: absolute;
+  font-weight: 300;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.HOME .group-2 {
+  position: absolute;
+  width: 19px;
+  height: 18px;
+  top: 33px;
+  left: 30px;
+}
+
+.HOME .text-wrapper-2 {
+  width: 50px;
+  top: 55px;
+  left: 20px;
+  font-family: "Mulish-Light", Helvetica;
+  color: #000000;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 300;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.HOME .group-3 {
+  position: absolute;
+  width: 17px;
+  height: 17px;
+  top: 32px;
+  left: 108px;
+}
+
+.HOME .overlap-2 {
+  position: absolute;
+  width: 238px;
+  height: 80px;
+  top: 0;
+  left: 0;
+}
+
+.HOME .overlap-wrapper {
+  position: absolute;
+  width: 77px;
+  height: 80px;
+  top: 0;
+  left: 160px;
+}
+
+.HOME .overlap-3 {
+  position: relative;
+  height: 80px;
+}
+
+.HOME .group-4 {
+  position: absolute;
+  width: 52px;
+  height: 14px;
+  top: 55px;
+  left: 25px;
+}
+
+.HOME .text-wrapper-3 {
+  position: absolute;
+  width: 50px;
+  top: 0;
+  left: 0;
+  font-family: "Mulish-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.HOME .group-5 {
+  position: absolute;
+  width: 85px;
+  height: 80px;
+  top: 0;
+  left: 77px;
+}
+
+.HOME .overlap-4 {
+  position: relative;
+  width: 83px;
+  height: 80px;
+}
+
+.HOME .tab-3 {
+  position: absolute;
+  width: 83px;
+  top: 0;
+  left: 0;
+  height: 80px;
+  background-color: #ffffff;
+}
+
+.HOME .text-wrapper-4 {
+  position: absolute;
+  width: 50px;
+  top: 55px;
+  left: 17px;
+  font-family: "Mulish-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.HOME .overlap-5 {
+  position: relative;
+  width: 79px;
+  height: 80px;
+}
+
+.HOME .text-wrapper-5 {
+  position: absolute;
+  width: 50px;
+  top: 55px;
+  left: 24px;
+  font-family: "Mulish-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.HOME .group-wrapper {
+  height: 80px;
+}
+
+.HOME .group-6 {
+  width: 79px;
+  height: 80px;
+}
+
+.HOME .rectangle-2 {
+  position: absolute;
+  width: 84px;
+  height: 4px;
+  top: 0;
+  left: 0;
+  background-color: #fa0000;
+}
+
+.HOME .notif {
+  position: absolute;
+  width: 339px;
+  height: 104px;
+  top: 72px;
+  left: 25px;
+  background-color: #ffffffb2;
+  border-radius: 15px;
+}
+
+.HOME .overlap-6 {
+  position: absolute;
+  width: 20px;
+  height: 19px;
+  top: 9px;
+  left: 311px;
+  background-color: #d9d9d9;
+  border-radius: 10px/9.5px;
+  border: 0.5px solid;
+  border-color: #000000;
+}
+
+.HOME .text-wrapper-6 {
+  top: 2px;
+  left: 8px;
+  font-family: "Mulish-ExtraLight", Helvetica;
+  font-weight: 200;
+  font-size: 10px;
+  position: absolute;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.HOME .text-wrapper-7 {
+  position: absolute;
+  top: 13px;
+  left: 16px;
+  font-family: "Mulish-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.HOME .days-more-to-go-your {
+  position: absolute;
+  top: 44px;
+  left: 74px;
+  font-family: "Mulish-ExtraLight", Helvetica;
+  font-weight: 200;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.HOME .overlap-7 {
+  position: absolute;
+  width: 52px;
+  height: 51px;
+  top: 40px;
+  left: 16px;
+  background-color: #f9c202;
+  border-radius: 15px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.HOME .text-wrapper-8 {
+  position: absolute;
+  width: 25px;
+  top: 13px;
+  left: 20px;
+  font-family: "Mulish-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.HOME .frame {
+  position: absolute;
+  width: 363px;
+  height: 256px;
+  top: 195px;
+  left: 27px;
+  overflow-x: scroll;
+}
+
+.HOME .group-7 {
+  position: relative;
+  width: 691px;
+  height: 256px;
+}
+
+.HOME .group-variant {
+  position: absolute;
+  width: 133px;
+  height: 254px;
+  top: 2px;
+  left: 140px;
+  background-color: #ffffff;
+  border-radius: 15px;
+}
+
+.HOME .group-8 {
+  position: absolute;
+  width: 133px;
+  height: 65px;
+  top: 178px;
+  left: 7px;
+}
+
+.HOME .text-wrapper-9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Mulish-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.HOME .overlap-group-3 {
+  position: absolute;
+  width: 28px;
+  height: 10px;
+  top: 55px;
+  left: 13px;
+}
+
+.HOME .element {
+  top: 0;
+  left: 0;
+  font-family: "Mulish-Regular", Helvetica;
+  font-weight: 400;
+  font-size: 8px;
+  position: absolute;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.HOME .span {
+  font-family: "Mulish-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 8px;
+  letter-spacing: 0;
+}
+
+.HOME .text-wrapper-10 {
+  font-family: "Mulish-ExtraLight", Helvetica;
+  font-weight: 200;
+}
+
+.HOME .text {
+  top: 0;
+  left: 4px;
+  font-family: "Mulish-ExtraLight", Helvetica;
+  font-weight: 200;
+  font-size: 4px;
+  position: absolute;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.HOME .overlap-group-4 {
+  position: absolute;
+  width: 27px;
+  height: 9px;
+  top: 6px;
+  left: 96px;
+  background-color: #65c65e4c;
+  border-radius: 15px;
+}
+
+.HOME .text-wrapper-11 {
+  position: absolute;
+  top: 1px;
+  left: 3px;
+  font-family: "Mulish-Bold", Helvetica;
+  font-weight: 700;
+  color: #65c65e;
+  font-size: 5px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.HOME .p {
+  position: absolute;
+  width: 107px;
+  top: 21px;
+  left: 1px;
+  font-family: "Mulish-ExtraLight", Helvetica;
+  font-weight: 200;
+  color: #00000080;
+  font-size: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.HOME .star {
+  top: 56px;
+  left: 2px;
+  position: absolute;
+  width: 10px;
+  height: 9px;
+}
+
+.HOME .image {
+  height: 171px;
+  top: 0;
+  position: absolute;
+  width: 133px;
+  left: 0;
+  object-fit: cover;
+}
+
+.HOME .slideshow {
+  top: 0;
+  left: 280px;
+  background-color: #ffffff;
+  border-radius: 15px;
+  position: absolute;
+  width: 133px;
+  height: 254px;
+}
+
+.HOME .overlap-8 {
+  position: absolute;
+  width: 33px;
+  height: 10px;
+  top: 55px;
+  left: 13px;
+}
+
+.HOME .image-2 {
+  height: 172px;
+  top: -1px;
+  position: absolute;
+  width: 133px;
+  left: 0;
+  object-fit: cover;
+}
+
+.HOME .slideshow-2 {
+  top: 1px;
+  left: 0;
+  position: absolute;
+  width: 133px;
+  height: 254px;
+}
+
+.HOME .overlap-9 {
+  position: relative;
+  width: 143px;
+  height: 254px;
+}
+
+.HOME .group-9 {
+  position: absolute;
+  width: 133px;
+  height: 254px;
+  top: 0;
+  left: 0;
+}
+
+.HOME .rectangle-wrapper {
+  height: 254px;
+}
+
+.HOME .rectangle-3 {
+  width: 133px;
+  height: 254px;
+  background-color: #ffffff;
+  border-radius: 15px;
+}
+
+.HOME .group-10 {
+  position: absolute;
+  width: 143px;
+  height: 243px;
+  top: 0;
+  left: 0;
+}
+
+.HOME .overlap-group-5 {
+  position: absolute;
+  width: 133px;
+  height: 170px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/image-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.HOME .image-1 {
+  height: 172px;
+  top: -1px;
+  position: absolute;
+  width: 133px;
+  left: 0;
+  object-fit: cover;
+}
+
+.HOME .rectangle-4 {
+  position: absolute;
+  width: 14px;
+  height: 10px;
+  top: 160px;
+  left: 0;
+  background-color: #65c65e;
+}
+
+.HOME .rectangle-5 {
+  position: absolute;
+  width: 14px;
+  height: 10px;
+  top: 160px;
+  left: 119px;
+  background-color: #f68d1b;
+}
+
+.HOME .text-wrapper-12 {
+  position: absolute;
+  top: 178px;
+  left: 7px;
+  font-family: "Mulish-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.HOME .overlap-group-6 {
+  position: absolute;
+  width: 28px;
+  height: 10px;
+  top: 233px;
+  left: 20px;
+}
+
+.HOME .overlap-10 {
+  position: absolute;
+  width: 27px;
+  height: 9px;
+  top: 184px;
+  left: 103px;
+  background-color: #65c65e4c;
+  border-radius: 15px;
+}
+
+.HOME .text-wrapper-13 {
+  position: absolute;
+  width: 107px;
+  top: 199px;
+  left: 8px;
+  font-family: "Mulish-ExtraLight", Helvetica;
+  font-weight: 200;
+  color: #00000080;
+  font-size: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.HOME .star-2 {
+  top: 234px;
+  left: 9px;
+  position: absolute;
+  width: 10px;
+  height: 9px;
+}
+
+.HOME .slideshow-3 {
+  top: 2px;
+  left: 420px;
+  position: absolute;
+  width: 133px;
+  height: 254px;
+}
+
+.HOME .overlap-11 {
+  position: absolute;
+  width: 133px;
+  height: 170px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/image-1-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.HOME .slideshow-4 {
+  top: 2px;
+  left: 558px;
+  background-color: #ffffff;
+  border-radius: 15px;
+  position: absolute;
+  width: 133px;
+  height: 254px;
+}
+
+.HOME .overlap-12 {
+  position: absolute;
+  width: 329px;
+  height: 235px;
+  top: 469px;
+  left: 27px;
+  background-color: var(--grayscale-1);
+  border-radius: 15px;
+}
+
+.HOME .text-wrapper-14 {
+  position: absolute;
+  top: 23px;
+  left: 18px;
+  font-family: var(--headline-4-font-family);
+  font-weight: var(--headline-4-font-weight);
+  color: #000000;
+  font-size: var(--headline-4-font-size);
+  letter-spacing: var(--headline-4-letter-spacing);
+  line-height: var(--headline-4-line-height);
+  font-style: var(--headline-4-font-style);
+}
+
+.HOME .promo {
+  position: absolute;
+  width: 149px;
+  height: 151px;
+  top: 64px;
+  left: 13px;
+}
+
+.HOME .promo-variant {
+  height: 151px;
+  background-size: 100% 100%;
+}
+
+.HOME .promo-2 {
+  position: absolute;
+  width: 149px;
+  height: 151px;
+  top: 64px;
+  left: 168px;
+  background-image: url(./img/rectangle-79.png);
+  background-size: 100% 100%;
+}
+
+.HOME .strip {
+  position: absolute;
+  width: 50px;
+  height: 38px;
+  top: 14px;
+  left: 263px;
+  background-color: var(--grayscale-1);
+  border-radius: 15px;
+}
+
+.HOME .line {
+  top: 16px;
+  position: absolute;
+  width: 18px;
+  height: 1px;
+  left: 16px;
+  object-fit: cover;
+}
+
+.HOME .line-2 {
+  top: 19px;
+  position: absolute;
+  width: 18px;
+  height: 1px;
+  left: 16px;
+  object-fit: cover;
+}
+
+.HOME .line-3 {
+  top: 22px;
+  position: absolute;
+  width: 18px;
+  height: 1px;
+  left: 16px;
+  object-fit: cover;
+}
+

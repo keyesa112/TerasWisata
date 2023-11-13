@@ -15,12 +15,13 @@
                         <div class="text-wrapper-2">OR</div>
                         <div class="text-wrapper-3">sign in with</div>
                         <div class="overlap-group">
+                            <a href="/home" class="button-link">
                             <div class="rectangle"></div>
                             <div class="text-wrapper-4">Login</div>
                         </div>
                         <div class="rectangle-2"></div>
                         <p class="don-t-have-an">
-                            <span class="span">Don’t have an account?</span> <span class="text-wrapper-5"> Sign up</span>
+                            <span class="span">Don’t have an account?</span> <span class="text-wrapper-5"><a href="/signup" class="signup-link"> Sign up</span>
                         </p>
                         <div class="text-wrapper-6">Sign In</div>
                         <div class="email-wrapper"><img class="email" src="img/email.png" /></div>
