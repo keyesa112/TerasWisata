@@ -77,7 +77,7 @@
                             <div class="overlap-wrapper">
                                 <div class="overlap-7">
                                     <div class="tab">
-                                        <img class="img-2" src="img/ic-outline-table-restaurant.png" />
+                                        <a href="/maps"><img class="img-2" src="img/ic-outline-table-restaurant.png" />
                                         <div class="booking-2"></div>
                                     </div>
                                     <div class="div-wrapper"><div class="text-wrapper-10">Maps</div></div>
@@ -95,7 +95,7 @@
                                     <div class="tab"><img class="img-2" src="img/home.svg" /></div>
                                     <div class="overlap-group-wrapper">
                                         <div class="overlap-group-3">
-                                            <div class="tab"><img class="img-2" src="img/home.png" /></div>
+                                            <a href="/home"><div class="tab"><img class="img-2" src="img/home.png" /></div>
                                             <div class="text-wrapper-12">Home</div>
                                             <img class="img-2" src="img/home.png" />
                                         </div>

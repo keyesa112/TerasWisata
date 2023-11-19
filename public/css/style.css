@@ -2705,6 +2705,404 @@
   white-space: nowrap;
 }
 
+.PETA-MAPS {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.PETA-MAPS .overlap-wrapper {
+  background-color: #bce2ea;
+  overflow: hidden;
+  width: 390px;
+  height: 844px;
+}
+
+.PETA-MAPS .overlap {
+  position: relative;
+  width: 397px;
+  height: 844px;
+}
+
+.PETA-MAPS .mingcute-location {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 410px;
+  left: 183px;
+}
+
+.PETA-MAPS .iphone-pro-max {
+  position: absolute;
+  width: 390px;
+  height: 844px;
+  top: 0;
+  left: 0;
+}
+
+.PETA-MAPS .rectangle {
+  position: absolute;
+  width: 390px;
+  height: 98px;
+  top: 746px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.PETA-MAPS .MENU-BAR {
+  position: absolute;
+  width: 396px;
+  height: 80px;
+  top: 742px;
+  left: 1px;
+}
+
+.PETA-MAPS .overlap-group {
+  position: absolute;
+  width: 320px;
+  height: 80px;
+  top: 0;
+  left: 78px;
+}
+
+.PETA-MAPS .group {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  top: 0;
+  left: 240px;
+}
+
+.PETA-MAPS .div {
+  position: relative;
+  width: 78px;
+  height: 80px;
+}
+
+.PETA-MAPS .tab {
+  position: absolute;
+  width: 78px;
+  height: 80px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.PETA-MAPS .img {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 29px;
+  left: 27px;
+}
+
+.PETA-MAPS .booking {
+  top: 57px;
+  left: 16px;
+  font-family: "Mulish-Light", Helvetica;
+  color: #00000080;
+  position: absolute;
+  font-weight: 300;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PETA-MAPS .text-wrapper {
+  position: absolute;
+  width: 51px;
+  top: 55px;
+  left: 25px;
+  font-family: "Mulish-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PETA-MAPS .overlap-group-wrapper {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  top: 0;
+  left: 162px;
+}
+
+.PETA-MAPS .div-wrapper {
+  position: absolute;
+  width: 78px;
+  height: 80px;
+  top: 0;
+  left: 0;
+}
+
+.PETA-MAPS .tab-2 {
+  position: relative;
+  height: 80px;
+  background-color: #ffffff;
+}
+
+.PETA-MAPS .booking-2 {
+  top: 57px;
+  left: 16px;
+  font-family: "Poppins-Light", Helvetica;
+  color: #00000080;
+  position: absolute;
+  font-weight: 300;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PETA-MAPS .group-2 {
+  position: absolute;
+  width: 19px;
+  height: 18px;
+  top: 33px;
+  left: 30px;
+}
+
+.PETA-MAPS .text-wrapper-2 {
+  width: 51px;
+  top: 55px;
+  left: 20px;
+  font-family: "Mulish-Light", Helvetica;
+  color: #000000;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 300;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PETA-MAPS .group-3 {
+  position: absolute;
+  width: 78px;
+  height: 80px;
+  top: 0;
+  left: 84px;
+}
+
+.PETA-MAPS .overlap-2 {
+  position: relative;
+  height: 80px;
+}
+
+.PETA-MAPS .group-4 {
+  position: absolute;
+  width: 53px;
+  height: 14px;
+  top: 55px;
+  left: 25px;
+}
+
+.PETA-MAPS .text-wrapper-3 {
+  width: 51px;
+  top: 0;
+  left: 0;
+  font-family: "Mulish-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PETA-MAPS .group-5 {
+  position: absolute;
+  width: 86px;
+  height: 80px;
+  top: 0;
+  left: 0;
+}
+
+.PETA-MAPS .overlap-3 {
+  position: relative;
+  width: 84px;
+  height: 80px;
+}
+
+.PETA-MAPS .tab-3 {
+  position: absolute;
+  width: 84px;
+  top: 0;
+  left: 0;
+  height: 80px;
+  background-color: #ffffff;
+}
+
+.PETA-MAPS .text-wrapper-4 {
+  position: absolute;
+  width: 51px;
+  top: 55px;
+  left: 17px;
+  font-family: "Mulish-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PETA-MAPS .rectangle-2 {
+  position: absolute;
+  width: 85px;
+  height: 4px;
+  top: 0;
+  left: 78px;
+  background-color: #fa0000;
+}
+
+.PETA-MAPS .group-6 {
+  position: absolute;
+  width: 17px;
+  height: 17px;
+  top: 32px;
+  left: 271px;
+}
+
+.PETA-MAPS .overlap-4 {
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+
+.PETA-MAPS .group-7 {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  top: 0;
+  left: 0;
+}
+
+.PETA-MAPS .text-wrapper-5 {
+  font-family: "Mulish-Bold", Helvetica;
+  font-weight: 700;
+  position: absolute;
+  width: 51px;
+  top: 55px;
+  left: 24px;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PETA-MAPS .group-wrapper {
+  height: 80px;
+}
+
+.PETA-MAPS .group-8 {
+  width: 80px;
+  height: 80px;
+}
+
+.PETA-MAPS .text-wrapper-6 {
+  font-family: "Mulish-Light", Helvetica;
+  font-weight: 300;
+  position: absolute;
+  width: 51px;
+  top: 55px;
+  left: 24px;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PETA-MAPS .rectangle-3 {
+  position: absolute;
+  width: 390px;
+  height: 155px;
+  top: 0;
+  left: 0;
+  background-color: var(--main-2);
+}
+
+.PETA-MAPS .arrow {
+  position: absolute;
+  width: 28px;
+  height: 22px;
+  top: 53px;
+  left: 26px;
+}
+
+.PETA-MAPS .text-wrapper-7 {
+  top: 51px;
+  left: 65px;
+  font-family: "Mulish-SemiBold", Helvetica;
+  font-weight: 600;
+  color: var(--grayscale-1);
+  font-size: 20px;
+  text-align: center;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PETA-MAPS .find {
+  position: absolute;
+  width: 339px;
+  height: 77px;
+  top: 99px;
+  left: 27px;
+}
+
+.PETA-MAPS .overlap-5 {
+  position: relative;
+  height: 76px;
+}
+
+.PETA-MAPS .rectangle-4 {
+  position: absolute;
+  width: 339px;
+  height: 32px;
+  top: 0;
+  left: 0;
+  background-color: #ffffffb2;
+  border-radius: 15px;
+}
+
+.PETA-MAPS .text-wrapper-8 {
+  position: absolute;
+  width: 272px;
+  top: 9px;
+  left: 13px;
+  font-family: "Roboto-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 12px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PETA-MAPS .ellipse {
+  position: absolute;
+  width: 20px;
+  height: 19px;
+  top: 7px;
+  left: 306px;
+}
+
+.PETA-MAPS .rectangle-5 {
+  position: absolute;
+  width: 14px;
+  height: 13px;
+  top: 10px;
+  left: 309px;
+  object-fit: cover;
+}
+
 
 
 

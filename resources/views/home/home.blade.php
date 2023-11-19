@@ -39,7 +39,7 @@
                             <div class="overlap-wrapper">
                                 <div class="overlap-3">
                                     <div class="tab">
-                                        <img class="img" src="img/ic-outline-table-restaurant.png" />
+                                        <a href="/maps"><img class="img" src="img/ic-outline-table-restaurant.png" />
                                         <div class="booking-2"></div>
                                     </div>
                                     <div class="group-4"><div class="text-wrapper-3">Maps</div></div>

@@ -44,3 +44,8 @@ Route::get('/more-promo', function () {
 Route::get('/wishlist', function () {
     return view('wishlist/wishlist');
 });
+
+//maos
+Route::get('/maps', function () {
+    return view('maps/maps');
+});
