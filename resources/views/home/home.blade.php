@@ -30,7 +30,8 @@
                                             <div class="booking-2"></div>
                                         </div>
                                     </div>
-                                    <img class="group-2" src="img/group-33837.png" />
+                                    <a href="/booking">
+                                    <img class="group-2" src="img/group-33837.png" /> 
                                     <div class="text-wrapper-2">Booking</div>
                                 </div>
                             </div>

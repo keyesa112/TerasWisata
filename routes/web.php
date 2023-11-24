@@ -45,7 +45,47 @@ Route::get('/wishlist', function () {
     return view('wishlist/wishlist');
 });
 
-//maos
+//maps
 Route::get('/maps', function () {
     return view('maps/maps');
+});
+
+//booking
+Route::get('/booking', function () {
+    return view('booking/detailbooking');
+});
+
+Route::get('/detail-wisata', function () {
+    return view('booking/detailwisata');
+});
+
+Route::get('/booking-schedule', function () {
+    return view('booking/bookingschedule');
+});
+
+
+Route::get('/booking-invoice', function () {
+    return view('booking/invoice');
+});
+
+//payment
+Route::get('/payment-method', function () {
+    return view('payment/payment');
+});
+
+Route::get('/qris', function () {
+    return view('payment/qrisnya');
+});
+
+Route::get('/payment-success', function () {
+    return view('payment/sukses');
+});
+
+Route::get('/ticket', function () {
+    return view('payment/tiketmu');
+});
+
+//profile
+Route::get('/profile', function () {
+    return view('profile/account');
 });

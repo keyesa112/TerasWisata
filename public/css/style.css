@@ -2735,10 +2735,10 @@
 
 .PETA-MAPS .iphone-pro-max {
   position: absolute;
-  width: 390px;
-  height: 844px;
-  top: 0;
-  left: 0;
+  width: 100%;
+  height: 100%;
+  top: 500px;
+  left: 200px;
 }
 
 .PETA-MAPS .rectangle {
@@ -3103,6 +3103,3456 @@
   object-fit: cover;
 }
 
+.DETAIL-BOOKING {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.DETAIL-BOOKING .div {
+  background-color: #4788d7;
+  overflow: hidden;
+  width: 390px;
+  height: 844px;
+  position: relative;
+}
+
+.DETAIL-BOOKING .overlap {
+  position: absolute;
+  width: 390px;
+  height: 267px;
+  top: 0;
+  left: 0;
+}
+
+.DETAIL-BOOKING .rectangle {
+  position: absolute;
+  width: 390px;
+  height: 155px;
+  top: 0;
+  left: 0;
+  background-color: var(--main-2);
+}
+
+.DETAIL-BOOKING .rectangle-2 {
+  position: absolute;
+  width: 339px;
+  height: 32px;
+  top: 104px;
+  left: 27px;
+  background-color: #ffffffb2;
+  border-radius: 15px;
+}
+
+.DETAIL-BOOKING .text-wrapper {
+  position: absolute;
+  width: 272px;
+  top: 113px;
+  left: 40px;
+  font-family: "Roboto-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 12px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DETAIL-BOOKING .ellipse {
+  position: absolute;
+  width: 20px;
+  height: 19px;
+  top: 111px;
+  left: 333px;
+}
+
+.DETAIL-BOOKING .rectangle-3 {
+  position: absolute;
+  width: 34px;
+  height: 32px;
+  top: 48px;
+  left: 27px;
+}
+
+.DETAIL-BOOKING .arrow {
+  position: absolute;
+  width: 25px;
+  height: 18px;
+  top: 54px;
+  left: 27px;
+}
+
+.DETAIL-BOOKING .img {
+  position: absolute;
+  width: 14px;
+  height: 13px;
+  top: 114px;
+  left: 336px;
+  object-fit: cover;
+}
+
+.DETAIL-BOOKING .rectangle-4 {
+  position: absolute;
+  width: 77px;
+  height: 72px;
+  top: 195px;
+  left: 27px;
+}
+
+.DETAIL-BOOKING .WISATA {
+  position: absolute;
+  width: 331px;
+  height: 88px;
+  top: 179px;
+  left: 31px;
+  background-color: var(--accent-1);
+  border-radius: 10px;
+}
+
+.DETAIL-BOOKING .overlap-group {
+  position: absolute;
+  width: 88px;
+  height: 88px;
+  top: 0;
+  left: 0;
+  background-color: var(--accents-6);
+  border-radius: 10px 0px 0px 10px;
+}
+
+.DETAIL-BOOKING .rectangle-5 {
+  position: absolute;
+  width: 67px;
+  height: 61px;
+  top: 14px;
+  left: 11px;
+  object-fit: cover;
+}
+
+.DETAIL-BOOKING .line {
+  width: 1px;
+  height: 88px;
+  top: 0;
+  left: 87px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DETAIL-BOOKING .overlap-group-2 {
+  position: absolute;
+  width: 167px;
+  height: 34px;
+  top: 27px;
+  left: 94px;
+}
+
+.DETAIL-BOOKING .text-wrapper-2 {
+  position: absolute;
+  width: 93px;
+  top: 0;
+  left: 0;
+  font-family: "Roboto-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DETAIL-BOOKING .text-wrapper-3 {
+  position: absolute;
+  width: 161px;
+  height: 23px;
+  top: 11px;
+  left: 6px;
+  font-family: "Roboto-Thin", Helvetica;
+  font-weight: 100;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DETAIL-BOOKING .vector {
+  position: absolute;
+  width: 16px;
+  height: 14px;
+  top: 34px;
+  left: 293px;
+}
+
+.DETAIL-BOOKING .text-wrapper-4 {
+  position: absolute;
+  top: 51px;
+  left: 63px;
+  font-family: "Mulish-SemiBold", Helvetica;
+  font-weight: 600;
+  color: var(--grayscale-1);
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DETAIL-BOOKING .rectangle-6 {
+  position: absolute;
+  width: 186px;
+  height: 151px;
+  top: 534px;
+  left: 394px;
+  background-color: #d9d9d9;
+  border-radius: 15px;
+}
+
+.DETAIL-BOOKING .rectangle-7 {
+  position: absolute;
+  width: 133px;
+  height: 254px;
+  top: 195px;
+  left: 394px;
+  background-color: #ffffff;
+  border-radius: 15px;
+}
+
+.DETAIL-BOOKING .overlap-2 {
+  position: absolute;
+  width: 396px;
+  height: 102px;
+  top: 740px;
+  left: 0;
+}
+
+.DETAIL-BOOKING .line-2 {
+  width: 390px;
+  height: 1px;
+  top: 101px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DETAIL-BOOKING .rectangle-8 {
+  position: absolute;
+  width: 390px;
+  height: 102px;
+  top: 4px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.DETAIL-BOOKING .MENU-BAR {
+  position: absolute;
+  width: 396px;
+  height: 80px;
+  top: px;
+  left: 1px;
+}
+
+.DETAIL-BOOKING .overlap-3 {
+  position: absolute;
+  width: 320px;
+  height: 80px;
+  top: 0;
+  left: 78px;
+}
+
+.DETAIL-BOOKING .group {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  top: 0;
+  left: 240px;
+}
+
+.DETAIL-BOOKING .overlap-group-3 {
+  position: relative;
+  width: 78px;
+  height: 80px;
+}
+
+.DETAIL-BOOKING .tab {
+  position: absolute;
+  width: 78px;
+  height: 80px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.DETAIL-BOOKING .img-2 {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 29px;
+  left: 27px;
+}
+
+.DETAIL-BOOKING .booking {
+  top: 57px;
+  left: 16px;
+  font-family: "Mulish-Light", Helvetica;
+  font-weight: 300;
+  color: #00000080;
+  position: absolute;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DETAIL-BOOKING .text-wrapper-5 {
+  position: absolute;
+  width: 51px;
+  top: 55px;
+  left: 25px;
+  font-family: "Mulish-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DETAIL-BOOKING .overlap-wrapper {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  top: 0;
+  left: 162px;
+}
+
+.DETAIL-BOOKING .div-wrapper {
+  position: absolute;
+  width: 78px;
+  height: 80px;
+  top: 0;
+  left: 0;
+}
+
+.DETAIL-BOOKING .tab-2 {
+  position: relative;
+  height: 80px;
+  background-color: #ffffff;
+}
+
+.DETAIL-BOOKING .booking-2 {
+  position: absolute;
+  top: 57px;
+  left: 16px;
+  font-family: "Poppins-Light", Helvetica;
+  font-weight: 300;
+  color: #00000080;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DETAIL-BOOKING .group-2 {
+  position: absolute;
+  width: 19px;
+  height: 18px;
+  top: 33px;
+  left: 30px;
+}
+
+.DETAIL-BOOKING .text-wrapper-6 {
+  width: 51px;
+  top: 55px;
+  left: 20px;
+  font-family: "Mulish-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  white-space: nowrap;
+  position: absolute;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DETAIL-BOOKING .overlap-group-wrapper {
+  position: absolute;
+  width: 78px;
+  height: 80px;
+  top: 0;
+  left: 84px;
+}
+
+.DETAIL-BOOKING .overlap-4 {
+  position: relative;
+  height: 80px;
+}
+
+.DETAIL-BOOKING .group-3 {
+  position: absolute;
+  width: 53px;
+  height: 14px;
+  top: 55px;
+  left: 25px;
+}
+
+.DETAIL-BOOKING .text-wrapper-7 {
+  position: absolute;
+  width: 51px;
+  top: 0;
+  left: 0;
+  font-family: "Mulish-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DETAIL-BOOKING .group-4 {
+  position: absolute;
+  width: 86px;
+  height: 80px;
+  top: 0;
+  left: 0;
+}
+
+.DETAIL-BOOKING .overlap-5 {
+  position: relative;
+  width: 84px;
+  height: 80px;
+}
+
+.DETAIL-BOOKING .tab-3 {
+  position: absolute;
+  width: 84px;
+  top: 0;
+  left: 0;
+  height: 80px;
+  background-color: #ffffff;
+}
+
+.DETAIL-BOOKING .text-wrapper-8 {
+  position: absolute;
+  width: 51px;
+  top: 55px;
+  left: 17px;
+  font-family: "Mulish-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DETAIL-BOOKING .rectangle-9 {
+  position: absolute;
+  width: 85px;
+  height: 4px;
+  top: 0;
+  left: 161px;
+}
+
+.DETAIL-BOOKING .group-5 {
+  position: absolute;
+  width: 17px;
+  height: 17px;
+  top: 32px;
+  left: 271px;
+}
+
+.DETAIL-BOOKING .overlap-6 {
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+
+.DETAIL-BOOKING .group-6 {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  top: 0;
+  left: 0;
+}
+
+.DETAIL-BOOKING .text-wrapper-9 {
+  position: absolute;
+  width: 51px;
+  top: 55px;
+  left: 24px;
+  font-family: "Mulish-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DETAIL-BOOKING .group-wrapper {
+  height: 80px;
+}
+
+.DETAIL-BOOKING .group-7 {
+  width: 80px;
+  height: 80px;
+}
+
+.DETAIL-BOOKING .text-wrapper-10 {
+  position: absolute;
+  width: 51px;
+  top: 55px;
+  left: 24px;
+  font-family: "Mulish-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DETAIL-BOOKING .WISATA-2 {
+  top: 273px;
+  position: absolute;
+  width: 331px;
+  height: 88px;
+  left: 31px;
+  background-color: var(--accent-1);
+  border-radius: 10px;
+}
+
+.DETAIL-BOOKING .rectangle-10 {
+  position: absolute;
+  width: 67px;
+  height: 62px;
+  top: 13px;
+  left: 10px;
+  object-fit: cover;
+}
+
+.DETAIL-BOOKING .overlap-7 {
+  position: absolute;
+  width: 124px;
+  height: 30px;
+  top: 27px;
+  left: 100px;
+}
+
+.DETAIL-BOOKING .text-wrapper-11 {
+  position: absolute;
+  width: 104px;
+  top: 0;
+  left: 0;
+  font-family: "Roboto-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DETAIL-BOOKING .text-wrapper-12 {
+  position: absolute;
+  height: 16px;
+  top: 14px;
+  left: 0;
+  font-family: "Roboto-Thin", Helvetica;
+  font-weight: 100;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DETAIL-BOOKING .WISATA-3 {
+  top: 367px;
+  position: absolute;
+  width: 331px;
+  height: 88px;
+  left: 31px;
+  background-color: var(--accent-1);
+  border-radius: 10px;
+}
+
+.DETAIL-BOOKING .rectangle-11 {
+  position: absolute;
+  width: 67px;
+  height: 61px;
+  top: 13px;
+  left: 10px;
+  object-fit: cover;
+}
+
+.DETAIL-BOOKING .overlap-8 {
+  position: absolute;
+  width: 173px;
+  height: 34px;
+  top: 27px;
+  left: 89px;
+}
+
+.DETAIL-BOOKING .text-wrapper-13 {
+  position: absolute;
+  width: 161px;
+  height: 23px;
+  top: 11px;
+  left: 11px;
+  font-family: "Roboto-Thin", Helvetica;
+  font-weight: 100;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DETAIL-BOOKING .WISATA-4 {
+  top: 461px;
+  position: absolute;
+  width: 331px;
+  height: 88px;
+  left: 31px;
+  background-color: var(--accent-1);
+  border-radius: 10px;
+}
+
+.DETAIL-BOOKING .overlap-9 {
+  position: absolute;
+  width: 163px;
+  height: 34px;
+  top: 27px;
+  left: 99px;
+}
+
+.DETAIL-BOOKING .text-wrapper-14 {
+  position: absolute;
+  width: 161px;
+  height: 23px;
+  top: 11px;
+  left: 1px;
+  font-family: "Roboto-Thin", Helvetica;
+  font-weight: 100;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DETAIL-BOOKING .WISATA-5 {
+  top: 555px;
+  position: absolute;
+  width: 331px;
+  height: 88px;
+  left: 31px;
+  background-color: var(--accent-1);
+  border-radius: 10px;
+}
+
+.DETAIL-BOOKING .overlap-10 {
+  position: absolute;
+  width: 162px;
+  height: 35px;
+  top: 26px;
+  left: 100px;
+}
+
+.DETAIL-BOOKING .text-wrapper-15 {
+  position: absolute;
+  width: 133px;
+  top: 0;
+  left: 0;
+  font-family: "Roboto-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DETAIL-BOOKING .text-wrapper-16 {
+  position: absolute;
+  width: 161px;
+  height: 23px;
+  top: 12px;
+  left: 0;
+  font-family: "Roboto-Thin", Helvetica;
+  font-weight: 100;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
 
 
+.DETAIL-WISATA {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
 
+.DETAIL-WISATA .div {
+  background-color: #4788d7;
+  overflow: hidden;
+  width: 390px;
+  height: 844px;
+  position: relative;
+}
+
+.DETAIL-WISATA .overlap {
+  position: absolute;
+  width: 709px;
+  height: 601px;
+  top: 93px;
+  left: -129px;
+}
+
+.DETAIL-WISATA .overlap-group {
+  position: absolute;
+  width: 339px;
+  height: 104px;
+  top: 0;
+  left: 156px;
+  background-color: var(--accent-1);
+  border-radius: 10px;
+}
+
+.DETAIL-WISATA .seperti-area-taman {
+  position: absolute;
+  width: 305px;
+  top: 10px;
+  left: 17px;
+  font-family: var(--subtitle-2-font-family);
+  font-weight: var(--subtitle-2-font-weight);
+  color: #000000;
+  font-size: var(--subtitle-2-font-size);
+  text-align: justify;
+  letter-spacing: var(--subtitle-2-letter-spacing);
+  line-height: var(--subtitle-2-line-height);
+  font-style: var(--subtitle-2-font-style);
+}
+
+.DETAIL-WISATA .text-wrapper {
+  font-family: var(--subtitle-2-font-family);
+  font-weight: var(--subtitle-2-font-weight);
+  color: #000000;
+  font-size: var(--subtitle-2-font-size);
+  letter-spacing: var(--subtitle-2-letter-spacing);
+  font-style: var(--subtitle-2-font-style);
+  line-height: var(--subtitle-2-line-height);
+}
+
+.DETAIL-WISATA .rectangle {
+  position: absolute;
+  width: 339px;
+  height: 137px;
+  top: 464px;
+  left: 156px;
+  background-color: var(--main-3);
+  border-radius: 10px;
+}
+
+.DETAIL-WISATA .overlap-2 {
+  position: absolute;
+  width: 709px;
+  height: 490px;
+  top: 102px;
+  left: 0;
+}
+
+.DETAIL-WISATA .button {
+  position: relative;
+  width: 100px;
+  height: 34px;
+  left: 400px;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  box-sizing: border-box;
+}
+
+.DETAIL-WISATA .button .text-wrapper-8{
+  position: absolute;
+  top: 10px;
+  left: 45px;
+  font-family: var(--text-extrabold-font-family);
+  font-weight: var(--text-extrabold-font-weight);
+  color: var(--main-1);
+  font-size: var(--text-extrabold-font-size);
+  text-align: center;
+  letter-spacing: var(--text-extrabold-letter-spacing);
+  line-height: var(--text-extrabold-line-height);
+  font-style: var(--text-extrabold-font-style);
+}
+
+
+.DETAIL-WISATA .rectangle-2 {
+  position: absolute;
+  width: 186px;
+  height: 151px;
+  top: 339px;
+  left: 523px;
+  background-color: #d9d9d9;
+  border-radius: 15px;
+}
+
+.DETAIL-WISATA .rectangle-3 {
+  position: absolute;
+  width: 133px;
+  height: 254px;
+  top: 0;
+  left: 523px;
+  background-color: #ffffff;
+  border-radius: 15px;
+}
+
+.DETAIL-WISATA .text-wrapper-2 {
+  position: absolute;
+  top: 336px;
+  left: 158px;
+  font-family: var(--text-extrabold-font-family);
+  font-weight: var(--text-extrabold-font-weight);
+  color: var(--grayscale-1);
+  font-size: var(--text-extrabold-font-size);
+  letter-spacing: var(--text-extrabold-letter-spacing);
+  line-height: var(--text-extrabold-line-height);
+  font-style: var(--text-extrabold-font-style);
+}
+
+.DETAIL-WISATA .group {
+  position: absolute;
+  width: 645px;
+  height: 270px;
+  top: 82px;
+  left: 0;
+}
+
+.DETAIL-WISATA .MENU-BAR-slideshow {
+  position: absolute;
+  width: 208px;
+  height: 210px;
+  top: 0;
+  left: 385px;
+}
+
+
+.DETAIL-WISATA .MENU-BAR-slideshow-2 {
+  position: absolute;
+  width: 208px;
+  height: 210px;
+  top: 0;
+  left: 65px;
+}
+
+.DETAIL-WISATA .overlap-3 {
+  position: absolute;
+  width: 432px;
+  height: 269px;
+  top: 1px;
+  left: 0;
+}
+
+.DETAIL-WISATA .group-2 {
+  position: absolute;
+  width: 275px;
+  height: 269px;
+  top: 0;
+  left: 157px;
+}
+
+.DETAIL-WISATA .rectangle-wrapper {
+  position: absolute;
+  width: 203px;
+  height: 209px;
+  top: 0;
+  left: 66px;
+  background-image: url(./img/image-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.DETAIL-WISATA .rectangle-4 {
+  position: relative;
+  width: 16px;
+  height: 11px;
+  top: 180px;
+  left: 42px;
+  background-color: #f68d1b;
+}
+
+.DETAIL-WISATA .element {
+  position: absolute;
+  width: 76px;
+  top: 206px;
+  left: 158px;
+  font-family: "Mulish-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--grayscale-1);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DETAIL-WISATA .span {
+  font-family: "Mulish-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+}
+
+.DETAIL-WISATA .text-wrapper-3 {
+  font-family: "Mulish-ExtraLight", Helvetica;
+  font-weight: 200;
+}
+
+.DETAIL-WISATA .text {
+  position: absolute;
+  width: 1px;
+  top: 263px;
+  left: 0;
+  font-family: "Mulish-ExtraLight", Helvetica;
+  font-weight: 200;
+  color: #000000;
+  font-size: 4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DETAIL-WISATA .text-wrapper-4 {
+  position: absolute;
+  width: 5px;
+  top: 209px;
+  left: 94px;
+  font-family: "Mulish-Bold", Helvetica;
+  font-weight: 700;
+  color: #65c65e;
+  font-size: 5px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DETAIL-WISATA .star {
+  position: absolute;
+  width: 25px;
+  height: 21px;
+  top: 214px;
+  left: 124px;
+}
+
+.DETAIL-WISATA .img {
+  position: absolute;
+  width: 214px;
+  height: 209px;
+  top: 0;
+  left: 0;
+}
+
+.DETAIL-WISATA .button {
+  position: absolute;
+  width: 98px;
+  height: 34px;
+  top: 121px;
+  left: 275px;
+  background-image: url(./img/rectangle-38.svg);
+  background-size: 100% 100%;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.DETAIL-WISATA .text-wrapper-5 {
+  position: absolute;
+  top: 7px;
+  left: 28px;
+  font-family: var(--text-extrabold-font-family);
+  font-weight: var(--text-extrabold-font-weight);
+  color: var(--main-1);
+  font-size: var(--text-extrabold-font-size);
+  text-align: center;
+  letter-spacing: var(--text-extrabold-letter-spacing);
+  line-height: var(--text-extrabold-line-height);
+  font-style: var(--text-extrabold-font-style);
+}
+
+.DETAIL-WISATA .text-wrapper-6 {
+  position: absolute;
+  top: 52px;
+  left: 76px;
+  font-family: "Mulish-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DETAIL-WISATA .overlap-4 {
+  position: absolute;
+  width: 34px;
+  height: 32px;
+  top: 48px;
+  left: 27px;
+}
+
+.DETAIL-WISATA .rectangle-5 {
+  position: absolute;
+  width: 34px;
+  height: 32px;
+  top: 0;
+  left: 0;
+  background-color: #4788d7;
+}
+
+.DETAIL-WISATA .arrow {
+  position: absolute;
+  width: 25px;
+  height: 18px;
+  top: 5px;
+  left: 9px;
+}
+
+.DETAIL-WISATA .div-wrapper {
+    position: relative;
+    width: 185px;
+    height: 41px;
+    top: 720px;
+    left: 101px;
+    background-color: #ffffff;
+    border-radius: 25px;
+    box-sizing: border-box;
+    border: none;
+}
+
+.DETAIL-WISATA .text-wrapper-7 {
+  position: absolute;
+  width: 99px;
+  top: 12px;
+  left: 43px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #4788d7;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DETAIL-WISATA .button {
+  position: relative;
+  width: 130px;
+  height: 41px;
+  top: 125px;
+  left: 260px;
+  background-color: #ffffff;
+  border-radius: 25px;
+  box-sizing: border-box;
+  border: none;
+}
+
+.DETAIL-WISATA .button .text-wrapper-8 {
+  position: absolute;
+  width: 99px;
+  top: 12px;
+  left: 16px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #4788d7;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+.book-sched {
+  background-color: #4788d7;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.book-sched .div {
+  background-color: var(--main-1);
+  overflow: hidden;
+  width: 390px;
+  height: 844px;
+  position: relative;
+}
+
+.book-sched .overlap {
+  position: absolute;
+  width: 458px;
+  height: 88px;
+  top: 0;
+  left: 0;
+  background-color: #539cdf66;
+}
+
+.book-sched .text-wrapper {
+  position: absolute;
+  top: 30px;
+  left: 61px;
+  font-family: "Mulish-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000b2;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.book-sched .back {
+  position: absolute;
+  width: 78px;
+  height: 60px;
+  top: 14px;
+  left: 9px;
+}
+
+.book-sched .overlap-group {
+  position: absolute;
+  width: 331px;
+  height: 88px;
+  top: 118px;
+  left: 29px;
+  border-radius: 10px;
+}
+
+.book-sched .WISATA {
+  position: absolute;
+  width: 331px;
+  height: 88px;
+  top: 0;
+  left: 0;
+  background-color: var(--accent-1);
+  border-radius: 10px;
+}
+
+.book-sched .overlap-group-2 {
+  position: absolute;
+  width: 88px;
+  height: 88px;
+  top: 0;
+  left: 0;
+  background-color: var(--accents-6);
+  border-radius: 10px 0px 0px 10px;
+}
+
+.book-sched .line {
+  position: absolute;
+  width: 1px;
+  height: 88px;
+  top: 0;
+  left: 87px;
+  object-fit: cover;
+}
+
+.book-sched .rectangle {
+  position: absolute;
+  width: 67px;
+  height: 61px;
+  top: 13px;
+  left: 10px;
+  object-fit: cover;
+}
+
+.book-sched .overlap-2 {
+  position: absolute;
+  width: 173px;
+  height: 34px;
+  top: 27px;
+  left: 89px;
+}
+
+.book-sched .text-wrapper-2 {
+  position: absolute;
+  width: 86px;
+  top: 0;
+  left: 0;
+  font-family: "Roboto-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.book-sched .text-wrapper-3 {
+  position: absolute;
+  width: 161px;
+  height: 23px;
+  top: 11px;
+  left: 11px;
+  font-family: "Roboto-Thin", Helvetica;
+  font-weight: 100;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.book-sched .mingcute-ticket-line {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 28px;
+  left: 288px;
+}
+
+.INVOICE {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.INVOICE .div {
+  background-color: var(--main-1);
+  width: 390px;
+  height: 844px;
+  position: relative;
+}
+
+.INVOICE .overlap {
+  position: absolute;
+  width: 351px;
+  height: 386px;
+  top: 131px;
+  left: 8px;
+}
+
+.INVOICE .rectangle {
+  position: absolute;
+  width: 331px;
+  height: 386px;
+  top: 0;
+  left: 20px;
+  background-color: #549cdf;
+  border-radius: 10px;
+}
+
+.INVOICE .rectangle-2 {
+  position: absolute;
+  width: 307px;
+  height: 61px;
+  top: 312px;
+  left: 33px;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+}
+
+.INVOICE .total-BAYAR {
+  position: absolute;
+  top: 330px;
+  left: 47px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.INVOICE .text-wrapper {
+  position: absolute;
+  top: 330px;
+  left: 236px;
+  font-family: var(--subtitle-1-font-family);
+  font-weight: var(--subtitle-1-font-weight);
+  color: #000000;
+  font-size: var(--subtitle-1-font-size);
+  letter-spacing: var(--subtitle-1-letter-spacing);
+  line-height: var(--subtitle-1-line-height);
+  font-style: var(--subtitle-1-font-style);
+}
+
+.INVOICE .kode-BOOKING {
+  position: absolute;
+  top: 140px;
+  left: 45px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.INVOICE .span {
+  font-weight: 800;
+  top: 100px;
+}
+
+.INVOICE .text-wrapper-2 {
+  font-family: var(--subtitle-1-font-family);
+  font-size: var(--subtitle-1-font-size);
+  font-style: var(--subtitle-1-font-style);
+  font-weight: var(--subtitle-1-font-weight);
+  letter-spacing: var(--subtitle-1-letter-spacing);
+  line-height: var(--subtitle-1-line-height);
+}
+
+.INVOICE .rectangle-3 {
+  position: absolute;
+  width: 307px;
+  height: 61px;
+  top: 11px;
+  left: 30px;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+}
+
+.INVOICE .i-NVOICE {
+  position: absolute;
+  top: 21px;
+  left: 176px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.INVOICE .text-wrapper-3 {
+  position: absolute;
+  top: 41px;
+  left: 176px;
+  font-family: var(--subtitle-1-font-family);
+  font-weight: var(--subtitle-1-font-weight);
+  color: #000000;
+  font-size: var(--subtitle-1-font-size);
+  letter-spacing: var(--subtitle-1-letter-spacing);
+  line-height: var(--subtitle-1-line-height);
+  font-style: var(--subtitle-1-font-style);
+}
+
+.INVOICE .group {
+  position: absolute;
+  width: 150px;
+  height: 41px;
+  top: 19px;
+  left: 0;
+}
+
+.INVOICE .overlap-group {
+  position: relative;
+  width: 146px;
+  height: 41px;
+}
+
+.INVOICE .text-wrapper-4 {
+  position: absolute;
+  top: 0;
+  left: 81px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: var(--grayscale-9);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.INVOICE .text-wrapper-5 {
+  position: absolute;
+  top: 15px;
+  left: 81px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: var(--grayscale-9);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.INVOICE .group-2 {
+  position: absolute;
+  width: 37px;
+  height: 37px;
+  top: 4px;
+  left: 40px;
+  background-color: #ffffff;
+  border-radius: 18.5px;
+}
+
+.INVOICE .desain-tanpa-judul {
+  position: absolute;
+  width: 88px;
+  height: 34px;
+  top: 7px;
+  left: 0;
+}
+
+.INVOICE .rectangle-4 {
+  position: absolute;
+  width: 304px;
+  height: 222px;
+  top: 81px;
+  left: 33px;
+  background-color: var(--grayscale-1);
+  border-radius: 10px;
+}
+
+.INVOICE .kode-BOOKING-ypkaa {
+  position: absolute;
+  top: 160px;
+  left: 44px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.INVOICE .line {
+  position: absolute;
+  width: 304px;
+  height: 1px;
+  top: 165px;
+  left: 33px;
+  object-fit: cover;
+}
+
+.INVOICE .img {
+  position: absolute;
+  width: 67px;
+  height: 61px;
+  top: 91px;
+  left: 44px;
+  object-fit: cover;
+}
+
+.INVOICE .text-wrapper-6 {
+  position: absolute;
+  width: 86px;
+  top: 110px;
+  left: 117px;
+  font-family: "Roboto-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.INVOICE .text-wrapper-7 {
+  position: absolute;
+  width: 161px;
+  height: 23px;
+  top: 123px;
+  left: 122px;
+  font-family: "Roboto-Thin", Helvetica;
+  font-weight: 100;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.INVOICE .text-wrapper-8 {
+  position: absolute;
+  top: 230px;
+  left: 45px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.INVOICE .waktu-am {
+  position: absolute;
+  top: 203px;
+  left: 45px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.INVOICE .arrow {
+  position: absolute;
+  width: 28px;
+  height: 22px;
+  top: 53px;
+  left: 26px;
+}
+
+.INVOICE .text-wrapper-9 {
+  position: absolute;
+  top: 51px;
+  left: 64px;
+  font-family: "Mulish-SemiBold", Helvetica;
+  font-weight: 600;
+  color: var(--grayscale-1);
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.INVOICE .button {
+  position: absolute;
+  width: 185px;
+  height: 41px;
+  top: 716px;
+  left: 112px;
+  background-color: #ffffff;
+  border-radius: 25px;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.INVOICE .text-wrapper-10 {
+  position: absolute;
+  width: 69px;
+  top: 7px;
+  left: 58px;
+  font-family: var(--headline-5-font-family);
+  font-weight: var(--headline-5-font-weight);
+  color: #4788d7;
+  font-size: var(--headline-5-font-size);
+  text-align: center;
+  letter-spacing: var(--headline-5-letter-spacing);
+  line-height: var(--headline-5-line-height);
+  font-style: var(--headline-5-font-style);
+}
+
+.INVOICE .div-wrapper-10 {
+  position: relative;
+  width: 185px;
+  height: 41px;
+  top: 720px;
+  left: 101px;
+  background-color: #ffffff;
+  border-radius: 25px;
+  box-sizing: border-box;
+  border: none;
+}
+
+.INVOICE.text-wrapper-10 {
+position: absolute;
+width: 99px;
+top: 18px;
+left: 43px;
+font-family: "Mulish-ExtraBold", Helvetica;
+font-weight: 800;
+color: #4788d7;
+font-size: 15px;
+text-align: center;
+letter-spacing: 0;
+line-height: normal;
+}
+.iphone-pro-max {
+    position: absolute;
+    width: 400px;
+    height: 900px;
+    background-color: #4788d7;
+    overflow: hidden;
+    top: 403px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.iphone-pro-max .overlap-group {
+    position: absolute;
+    width: 458px;
+    height: 88px;
+    top: 52px;
+    left: -14px;
+    background-color: var(--accents-5);
+}
+
+.iphone-pro-max .text-wrapper {
+    position: absolute;
+    top: 31px;
+    left: 77px;
+    font-family: "Mulish-SemiBold", Helvetica;
+    font-weight: 600;
+    color: var(--grayscale-1);
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.iphone-pro-max .arrow {
+    position: absolute;
+    width: 28px;
+    height: 22px;
+    top: 33px;
+    left: 38px;
+}
+
+.iphone-pro-max .paymentt {
+    position: absolute;
+    width: 331px;
+    height: 66px;
+    top: 168px;
+    left: 34px;
+    background-color: var(--accent-1);
+    border-radius: 10px;
+}
+
+.iphone-pro-max .div {
+    position: absolute;
+    width: 126px;
+    top: 26px;
+    left: 56px;
+    font-family: var(--text-extrabold-font-family);
+    font-weight: var(--text-extrabold-font-weight);
+    color: #000000;
+    font-size: var(--text-extrabold-font-size);
+    letter-spacing: var(--text-extrabold-letter-spacing);
+    line-height: var(--text-extrabold-line-height);
+    font-style: var(--text-extrabold-font-style);
+}
+
+.iphone-pro-max .group {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 19px;
+    left: 16px;
+}
+
+.iphone-pro-max .paymentt-2 {
+    top: 241px;
+    position: absolute;
+    width: 331px;
+    height: 66px;
+    left: 34px;
+    background-color: var(--accent-1);
+    border-radius: 10px;
+}
+
+.iphone-pro-max .arcticons-dana {
+    position: absolute;
+    width: 36px;
+    height: 32px;
+    top: 17px;
+    left: 11px;
+}
+
+.iphone-pro-max .paymentt-3 {
+    top: 314px;
+    position: absolute;
+    width: 331px;
+    height: 66px;
+    left: 34px;
+    background-color: var(--accent-1);
+    border-radius: 10px;
+}
+
+.iphone-pro-max .arcticons-shopeepay {
+    position: absolute;
+    width: 38px;
+    height: 40px;
+    top: 13px;
+    left: 11px;
+}
+
+.qrismu {
+  position: absolute;
+  width: 400px;
+  height: 900px;
+  background-color: #4788d7;
+  overflow: hidden;
+  top: 403px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.qrismu .overlap {
+  position: absolute;
+  width: 458px;
+  height: 88px;
+  top: 52px;
+  left: -25px;
+  background-color: #539cdf66;
+}
+
+.qrismu .text-wrapper {
+  position: absolute;
+  top: 31px;
+  left: 91px;
+  font-family: "Mulish-SemiBold", Helvetica;
+  font-weight: 600;
+  color: var(--grayscale-1);
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.qrismu .arrow {
+  position: absolute;
+  width: 28px;
+  height: 22px;
+  top: 34px;
+  left: 50px;
+}
+
+.qrismu .overlap-group {
+  position: absolute;
+  width: 331px;
+  height: 541px;
+  top: 199px;
+  left: 34px;
+  background-color: #549cdf;
+  border-radius: 10px;
+}
+
+.qrismu .div {
+  position: absolute;
+  width: 220px;
+  height: 38px;
+  top: 26px;
+  left: 54px;
+}
+
+.qrismu .text-wrapper-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: var(--headline-5-font-family);
+  font-weight: var(--headline-5-font-weight);
+  color: #ffffff;
+  font-size: var(--headline-5-font-size);
+  text-align: center;
+  letter-spacing: var(--headline-5-letter-spacing);
+  line-height: var(--headline-5-line-height);
+  font-style: var(--headline-5-font-style);
+}
+
+.qrismu .text-wrapper-3 {
+  position: absolute;
+  top: 19px;
+  left: 52px;
+  font-family: var(--subtitle-1-font-family);
+  font-weight: var(--subtitle-1-font-weight);
+  color: #ffffff;
+  font-size: var(--subtitle-1-font-size);
+  text-align: center;
+  letter-spacing: var(--subtitle-1-letter-spacing);
+  line-height: var(--subtitle-1-line-height);
+  font-style: var(--subtitle-1-font-style);
+}
+
+.qrismu .text-wrapper-4 {
+  position: absolute;
+  top: 76px;
+  left: 105px;
+  font-family: var(--headline-4-font-family);
+  font-weight: var(--headline-4-font-weight);
+  color: #ffffff;
+  font-size: var(--headline-4-font-size);
+  text-align: center;
+  letter-spacing: var(--headline-4-letter-spacing);
+  line-height: var(--headline-4-line-height);
+  font-style: var(--headline-4-font-style);
+}
+
+.qrismu .p {
+  position: absolute;
+  top: 410px;
+  left: 54px;
+  font-family: var(--subtitle-2-font-family);
+  font-weight: var(--subtitle-2-font-weight);
+  color: #ffffff;
+  font-size: var(--subtitle-2-font-size);
+  text-align: center;
+  letter-spacing: var(--subtitle-2-letter-spacing);
+  line-height: var(--subtitle-2-line-height);
+  font-style: var(--subtitle-2-font-style);
+}
+
+.qrismu .menerima-pembayaran {
+  position: absolute;
+  width: 285px;
+  top: 459px;
+  left: 26px;
+  font-family: var(--subtitle-1-font-family);
+  font-weight: var(--subtitle-1-font-weight);
+  color: #ffffff;
+  font-size: var(--subtitle-1-font-size);
+  text-align: center;
+  letter-spacing: var(--subtitle-1-letter-spacing);
+  line-height: var(--subtitle-1-line-height);
+  font-style: var(--subtitle-1-font-style);
+}
+
+.qrismu .wpf-qrcode-wrapper {
+  position: absolute;
+  width: 283px;
+  height: 278px;
+  top: 121px;
+  left: 27px;
+  background-color: var(--grayscale-1);
+  border-radius: 10px;
+}
+
+.qrismu .wpf-qrcode {
+  position: absolute;
+  width: 225px;
+  height: 227px;
+  top: 21px;
+  left: 27px;
+}
+
+.qrismu .button {
+  position: relative;
+  width: 185px;
+  height: 41px;
+  top: 780px;
+  left: 101px;
+  background-color: #ffffff;
+  border-radius: 25px;
+  box-sizing: border-box;
+  border: none;
+}
+
+.qrismu .text-wrapper-5 {
+  position: absolute;
+  width: 99px;
+  top: 8px;
+  left: 43px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #4788d7;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PAYMENT-SUKSES {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.PAYMENT-SUKSES .SUKSES-wrapper {
+  background-color: var(--main-1);
+  width: 390px;
+  height: 844px;
+}
+
+.PAYMENT-SUKSES .SUKSES {
+  position: relative;
+  width: 248px;
+  height: 350px;
+  top: 247px;
+  left: 71px;
+}
+
+.PAYMENT-SUKSES .group {
+  position: relative;
+  width: 252px;
+  height: 350px;
+  left: -2px;
+}
+
+.PAYMENT-SUKSES .centang-verifiy {
+  position: absolute;
+  width: 248px;
+  height: 247px;
+  top: 0;
+  left: 2px;
+  object-fit: cover;
+}
+
+.PAYMENT-SUKSES .your-payment-have {
+  position: absolute;
+  top: 85%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 100%;
+  max-width: 300px; 
+}
+
+.tiketmu {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.tiketmu .div {
+  background-color: var(--main-1);
+  overflow: hidden;
+  width: 390px;
+  height: 844px;
+  position: relative;
+}
+
+.tiketmu .overlap {
+  position: absolute;
+  width: 458px;
+  height: 88px;
+  top: 0;
+  left: 0;
+  background-color: #539cdf66;
+}
+
+.tiketmu .text-wrapper {
+  position: absolute;
+  top: 30px;
+  left: 67px;
+  font-family: "Mulish-SemiBold", Helvetica;
+  font-weight: 600;
+  color: var(--grayscale-1);
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tiketmu .arrow {
+  position: absolute;
+  width: 28px;
+  height: 22px;
+  top: 33px;
+  left: 26px;
+}
+
+.tiketmu .frame {
+  position: absolute;
+  width: 694px;
+  height: 634px;
+  top: 131px;
+  left: 8px;
+  overflow-x: scroll;
+}
+
+.tiketmu .overlap-group {
+  position: relative;
+  width: 694px;
+  height: 634px;
+}
+
+.tiketmu .group {
+  position: absolute;
+  width: 365px;
+  height: 634px;
+  top: 0;
+  left: 0;
+}
+
+.tiketmu .overlap-2 {
+  position: relative;
+  width: 351px;
+  height: 634px;
+}
+
+.tiketmu .rectangle {
+  position: absolute;
+  width: 331px;
+  height: 634px;
+  top: 0;
+  left: 20px;
+  background-color: #549cdf;
+  border-radius: 10px;
+}
+
+.tiketmu .rectangle-2 {
+  position: absolute;
+  width: 307px;
+  height: 61px;
+  top: 558px;
+  left: 30px;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+}
+
+.tiketmu .total-BAYAR {
+  position: absolute;
+  top: 577px;
+  left: 44px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tiketmu .text-wrapper-2 {
+  position: absolute;
+  top: 577px;
+  left: 233px;
+  font-family: var(--subtitle-1-font-family);
+  font-weight: var(--subtitle-1-font-weight);
+  color: #000000;
+  font-size: var(--subtitle-1-font-size);
+  letter-spacing: var(--subtitle-1-letter-spacing);
+  line-height: var(--subtitle-1-line-height);
+  font-style: var(--subtitle-1-font-style);
+}
+
+.tiketmu .rectangle-3 {
+  position: absolute;
+  width: 307px;
+  height: 61px;
+  top: 11px;
+  left: 30px;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+}
+
+.tiketmu .i-NVOICE {
+  position: absolute;
+  top: 22px;
+  left: 176px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tiketmu .text-wrapper-3 {
+  position: absolute;
+  top: 42px;
+  left: 176px;
+  font-family: var(--subtitle-1-font-family);
+  font-weight: var(--subtitle-1-font-weight);
+  color: #000000;
+  font-size: var(--subtitle-1-font-size);
+  letter-spacing: var(--subtitle-1-letter-spacing);
+  line-height: var(--subtitle-1-line-height);
+  font-style: var(--subtitle-1-font-style);
+}
+
+.tiketmu .overlap-group-wrapper {
+  position: absolute;
+  width: 150px;
+  height: 41px;
+  top: 19px;
+  left: 0;
+}
+
+.tiketmu .overlap-group-2 {
+  position: relative;
+  width: 146px;
+  height: 41px;
+}
+
+.tiketmu .text-wrapper-4 {
+  position: absolute;
+  top: 5px;
+  left: 81px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: var(--grayscale-9);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tiketmu .text-wrapper-5 {
+  position: absolute;
+  top: 18px;
+  left: 81px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: var(--grayscale-9);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tiketmu .group-2 {
+  position: absolute;
+  width: 37px;
+  height: 37px;
+  top: 4px;
+  left: 40px;
+  background-color: #ffffff;
+  border-radius: 18.5px;
+}
+
+.tiketmu .desain-tanpa-judul {
+  position: absolute;
+  width: 88px;
+  height: 34px;
+  top: 7px;
+  left: 0;
+}
+
+.tiketmu .rectangle-4 {
+  position: absolute;
+  width: 304px;
+  height: 222px;
+  top: 81px;
+  left: 33px;
+  background-color: var(--grayscale-1);
+  border-radius: 10px;
+}
+
+.tiketmu .rectangle-5 {
+  position: absolute;
+  width: 304px;
+  height: 470px;
+  top: 81px;
+  left: 33px;
+  background-color: var(--grayscale-1);
+  border-radius: 10px;
+}
+
+.tiketmu .wpf-qrcode {
+  position: absolute;
+  width: 225px;
+  height: 227px;
+  top: 281px;
+  left: 70px;
+}
+
+.tiketmu .line {
+  position: absolute;
+  width: 304px;
+  height: 1px;
+  top: 165px;
+  left: 33px;
+  object-fit: cover;
+}
+
+.tiketmu .img {
+  position: absolute;
+  width: 67px;
+  height: 61px;
+  top: 91px;
+  left: 44px;
+  object-fit: cover;
+}
+
+.tiketmu .text-wrapper-6 {
+  position: absolute;
+  width: 86px;
+  top: 108px;
+  left: 117px;
+  font-family: "Roboto-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tiketmu .text-wrapper-7 {
+  position: absolute;
+  width: 161px;
+  height: 23px;
+  top: 120px;
+  left: 122px;
+  font-family: "Roboto-Thin", Helvetica;
+  font-weight: 100;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tiketmu .group-3 {
+  position: absolute;
+  width: 226px;
+  height: 75px;
+  top: 177px;
+  left: 44px;
+}
+
+.tiketmu .kode-BOOKING {
+  position: absolute;
+  top: -20px;
+  left: 0;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tiketmu .span {
+  font-weight: 800;
+}
+
+.tiketmu .text-wrapper-8 {
+  font-family: var(--subtitle-1-font-family);
+  font-size: var(--subtitle-1-font-size);
+  font-style: var(--subtitle-1-font-style);
+  font-weight: var(--subtitle-1-font-weight);
+  letter-spacing: var(--subtitle-1-letter-spacing);
+  line-height: var(--subtitle-1-line-height);
+}
+
+.tiketmu .text-wrapper-9 {
+  position: absolute;
+  top: 54px;
+  left: 1px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.tiketmu .waktu-am {
+  position: absolute;
+  top: 27px;
+  left: 1px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.tiketmu .PAID {
+  top: 104px;
+  left: 279px;
+  position: absolute;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: var(--accent-3);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tiketmu .group-wrapper {
+  position: absolute;
+  width: 351px;
+  height: 634px;
+  top: 0;
+  left: 343px;
+}
+
+.tiketmu .overlap-wrapper {
+  width: 365px;
+  height: 634px;
+}
+
+.tiketmu .PAID-2 {
+  top: 99px;
+  left: 278px;
+  position: absolute;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: var(--accent-3);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.akunmu {
+  position: relative;
+  width: 400px;
+  height: 906px;
+  background-color: #4788d7;
+  overflow: hidden;
+}
+
+.akunmu .overlap {
+  position: absolute;
+  width: 458px;
+  height: 146px;
+  top: 51px;
+  left: -14px;
+}
+
+.akunmu .rectangle {
+  width: 458px;
+  height: 88px;
+  background-color: #539cdf66;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.akunmu .ellipse {
+  position: absolute;
+  width: 97px;
+  height: 99px;
+  top: 47px;
+  left: 165px;
+  object-fit: cover;
+}
+
+.akunmu .back {
+  position: absolute;
+  width: 92px;
+  height: 60px;
+  top: 9px;
+  left: 23px;
+  background-color: #4788d74c;
+}
+
+.akunmu .arrow {
+  position: absolute;
+  width: 36px;
+  height: 29px;
+  top: 15px;
+  left: 4px;
+}
+
+.akunmu .overlap-group {
+  position: absolute;
+  width: 292px;
+  height: 36px;
+  top: 531px;
+  left: 49px;
+  border-radius: 15px;
+}
+
+.akunmu .div {
+  width: 292px;
+  height: 36px;
+  background-color: var(--grayscale-1);
+  border-radius: 15px;
+  border: 1px solid;
+  border-color: #000000;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.akunmu .text-wrapper {
+  position: absolute;
+  top: 6px;
+  left: 18px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: var(--grayscale-9);
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.akunmu .line {
+  top: 275px;
+  position: absolute;
+  width: 268px;
+  height: 1px;
+  left: 64px;
+  object-fit: cover;
+}
+
+.akunmu .img {
+  top: 329px;
+  position: absolute;
+  width: 268px;
+  height: 1px;
+  left: 64px;
+  object-fit: cover;
+}
+
+.akunmu .line-2 {
+  top: 383px;
+  position: absolute;
+  width: 268px;
+  height: 1px;
+  left: 64px;
+  object-fit: cover;
+}
+
+.akunmu .line-3 {
+  top: 437px;
+  position: absolute;
+  width: 268px;
+  height: 1px;
+  left: 64px;
+  object-fit: cover;
+}
+
+.akunmu .line-4 {
+  top: 491px;
+  position: absolute;
+  width: 268px;
+  height: 1px;
+  left: 64px;
+  object-fit: cover;
+}
+
+.akunmu .text-wrapper-2 {
+  position: absolute;
+  top: 254px;
+  left: 64px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.akunmu .text-wrapper-3 {
+  position: absolute;
+  top: 417px;
+  left: 64px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.akunmu .p {
+  position: absolute;
+  top: 362px;
+  left: 64px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.akunmu .text-wrapper-4 {
+  position: absolute;
+  top: 308px;
+  left: 64px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.akunmu .text-wrapper-5 {
+  position: absolute;
+  top: 469px;
+  left: 64px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.akunmu .button {
+  top: 759px;
+  left: 106px;
+  background-color: #ffffff;
+  border-radius: 25px;
+  position: absolute;
+  width: 185px;
+  height: 41px;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.akunmu .text-wrapper-6 {
+  position: absolute;
+  width: 99px;
+  top: 4px;
+  left: 43px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #4788d7;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.akunmu .overlap-group-wrapper {
+  top: 699px;
+  left: 104px;
+  position: absolute;
+  width: 185px;
+  height: 41px;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.akunmu .overlap-group-2 {
+  position: relative;
+  height: 41px;
+  border-radius: 25px;
+}
+
+.akunmu .rectangle-2 {
+  width: 185px;
+  height: 41px;
+  background-color: #ffffff;
+  border-radius: 25px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.akunmu .text-wrapper-7 {
+  position: absolute;
+  width: 69px;
+  top: 5px;
+  left: 58px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #4788d7;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+.tiket {
+  background-color: #4788d7;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.tiket .div {
+  background-color: var(--main-1);
+  overflow: hidden;
+  width: 390px;
+  height: 844px;
+  position: relative;
+}
+
+.tiket .overlap {
+  position: absolute;
+  width: 458px;
+  height: 88px;
+  top: 0;
+  left: 0;
+  background-color: #539cdf66;
+}
+
+.tiket .text-wrapper {
+  position: absolute;
+  top: 30px;
+  left: 58px;
+  font-family: "Mulish-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000b2;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tiket .back {
+  position: absolute;
+  width: 78px;
+  height: 60px;
+  top: 14px;
+  left: 9px;
+}
+
+.tiket .frame {
+  position: absolute;
+  width: 694px;
+  height: 634px;
+  top: 131px;
+  left: 8px;
+  overflow-x: scroll;
+}
+
+.tiket .overlap-group {
+  position: relative;
+  width: 694px;
+  height: 634px;
+}
+
+.tiket .group {
+  position: absolute;
+  width: 365px;
+  height: 634px;
+  top: 0;
+  left: 0;
+}
+
+.tiket .overlap-2 {
+  position: relative;
+  width: 351px;
+  height: 634px;
+}
+
+.tiket .rectangle {
+  position: absolute;
+  width: 331px;
+  height: 634px;
+  top: 0;
+  left: 20px;
+  background-color: #549cdf;
+  border-radius: 10px;
+}
+
+.tiket .rectangle-2 {
+  position: absolute;
+  width: 307px;
+  height: 61px;
+  top: 558px;
+  left: 30px;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+}
+
+.tiket .total-BAYAR {
+  position: absolute;
+  top: 577px;
+  left: 44px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tiket .text-wrapper-2 {
+  position: absolute;
+  top: 577px;
+  left: 233px;
+  font-family: var(--subtitle-1-font-family);
+  font-weight: var(--subtitle-1-font-weight);
+  color: #000000;
+  font-size: var(--subtitle-1-font-size);
+  letter-spacing: var(--subtitle-1-letter-spacing);
+  line-height: var(--subtitle-1-line-height);
+  font-style: var(--subtitle-1-font-style);
+}
+
+.tiket .rectangle-3 {
+  position: absolute;
+  width: 307px;
+  height: 61px;
+  top: 11px;
+  left: 30px;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+}
+
+.tiket .i-NVOICE {
+  position: absolute;
+  top: 22px;
+  left: 176px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tiket .text-wrapper-3 {
+  position: absolute;
+  top: 42px;
+  left: 176px;
+  font-family: var(--subtitle-1-font-family);
+  font-weight: var(--subtitle-1-font-weight);
+  color: #000000;
+  font-size: var(--subtitle-1-font-size);
+  letter-spacing: var(--subtitle-1-letter-spacing);
+  line-height: var(--subtitle-1-line-height);
+  font-style: var(--subtitle-1-font-style);
+}
+
+.tiket .overlap-group-wrapper {
+  position: absolute;
+  width: 150px;
+  height: 41px;
+  top: 19px;
+  left: 0;
+}
+
+.tiket .overlap-group-2 {
+  position: relative;
+  width: 146px;
+  height: 41px;
+}
+
+.tiket .text-wrapper-4 {
+  position: absolute;
+  top: 0;
+  left: 81px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: var(--grayscale-9);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tiket .text-wrapper-5 {
+  position: absolute;
+  top: 15px;
+  left: 81px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: var(--grayscale-9);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tiket .group-2 {
+  position: absolute;
+  width: 37px;
+  height: 37px;
+  top: 4px;
+  left: 40px;
+  background-color: #ffffff;
+  border-radius: 18.5px;
+}
+
+.tiket .desain-tanpa-judul {
+  position: absolute;
+  width: 88px;
+  height: 34px;
+  top: 7px;
+  left: 0;
+}
+
+.tiket .rectangle-4 {
+  position: absolute;
+  width: 304px;
+  height: 222px;
+  top: 81px;
+  left: 33px;
+  background-color: var(--grayscale-1);
+  border-radius: 10px;
+}
+
+.tiket .rectangle-5 {
+  position: absolute;
+  width: 304px;
+  height: 470px;
+  top: 81px;
+  left: 33px;
+  background-color: var(--grayscale-1);
+  border-radius: 10px;
+}
+
+.tiket .wpf-qrcode {
+  position: absolute;
+  width: 225px;
+  height: 227px;
+  top: 281px;
+  left: 70px;
+}
+
+.tiket .line {
+  position: absolute;
+  width: 304px;
+  height: 1px;
+  top: 166px;
+  left: 33px;
+  object-fit: cover;
+}
+
+.tiket .img {
+  position: absolute;
+  width: 67px;
+  height: 61px;
+  top: 91px;
+  left: 44px;
+  object-fit: cover;
+}
+
+.tiket .text-wrapper-6 {
+  position: absolute;
+  width: 86px;
+  top: 105px;
+  left: 111px;
+  font-family: "Roboto-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tiket .text-wrapper-7 {
+  position: absolute;
+  width: 161px;
+  height: 23px;
+  top: 116px;
+  left: 122px;
+  font-family: "Roboto-Thin", Helvetica;
+  font-weight: 100;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tiket .group-3 {
+  position: absolute;
+  width: 226px;
+  height: 75px;
+  top: 177px;
+  left: 44px;
+}
+
+.tiket .kode-BOOKING {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tiket .span {
+  font-weight: 800;
+}
+
+.tiket .text-wrapper-8 {
+  font-family: var(--subtitle-1-font-family);
+  font-size: var(--subtitle-1-font-size);
+  font-style: var(--subtitle-1-font-style);
+  font-weight: var(--subtitle-1-font-weight);
+  letter-spacing: var(--subtitle-1-letter-spacing);
+  line-height: var(--subtitle-1-line-height);
+}
+
+.tiket .text-wrapper-9 {
+  position: absolute;
+  top: 54px;
+  left: 1px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.tiket .waktu-am {
+  position: absolute;
+  top: 27px;
+  left: 1px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.tiket .PAID {
+  top: 104px;
+  left: 279px;
+  position: absolute;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: var(--accent-3);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tiket .group-wrapper {
+  position: absolute;
+  width: 351px;
+  height: 634px;
+  top: 0;
+  left: 343px;
+}
+
+.tiket .overlap-wrapper {
+  width: 365px;
+  height: 634px;
+}
+
+.tiket .PAID-2 {
+  top: 99px;
+  left: 278px;
+  position: absolute;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: var(--accent-3);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.booking-schedule {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.booking-schedule .overlap-wrapper {
+  background-color: #4788d7;
+  width: 390px;
+  height: 844px;
+}
+
+.booking-schedule .overlap {
+  position: relative;
+  height: 844px;
+  background-image: url(./img/iphone-14-pro-max-7.png);
+  background-size: 100% 100%;
+}
+
+.booking-schedule .button {
+  position: absolute;
+  width: 185px;
+  height: 41px;
+  top: 719px;
+  left: 103px;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.booking-schedule .overlap-group {
+  position: relative;
+  height: 41px;
+  border-radius: 25px;
+}
+
+.booking-schedule .rectangle {
+  position: absolute;
+  width: 185px;
+  height: 41px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+.booking-schedule .text-wrapper {
+  position: absolute;
+  width: 69px;
+  top: 5px;
+  left: 58px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #4788d7;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.booking-schedule .book {
+  position: absolute;
+  width: 317px;
+  height: 101px;
+  top: 402px;
+  left: 37px;
+  background-color: var(--accent-1);
+  border-radius: 8px;
+}
+
+.booking-schedule .div {
+  position: absolute;
+  width: 62px;
+  height: 91px;
+  top: 5px;
+  left: 5px;
+  background-color: #89ccfa;
+  border-radius: 8px;
+}
+
+.booking-schedule .text-wrapper-2 {
+  position: absolute;
+  top: 12px;
+  left: 10px;
+  font-family: "Roboto-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.booking-schedule .text-wrapper-3 {
+  top: 62px;
+  left: 25px;
+  font-family: "Roboto-Bold", Helvetica;
+  font-weight: 700;
+  color: #fff9f9;
+  font-size: 18px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.booking-schedule .text-wrapper-4 {
+  position: absolute;
+  top: 10px;
+  left: 85px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--grayscale-9);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.booking-schedule .text-wrapper-5 {
+  position: absolute;
+  top: 71px;
+  left: 85px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--grayscale-9);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.booking-schedule .time-am {
+  position: absolute;
+  top: 42px;
+  left: 85px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--grayscale-9);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.booking-schedule .overlap-2 {
+  position: absolute;
+  width: 355px;
+  height: 248px;
+  top: 127px;
+  left: 16px;
+  background-color: #549cdf;
+  border-radius: 10px;
+}
+
+.booking-schedule .overlap-3 {
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  top: 22px;
+  left: 56px;
+  border-radius: 10px;
+}
+
+.booking-schedule .rectangle-2 {
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  top: 0;
+  left: 0;
+  background-color: #89ccfa;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.booking-schedule .text-wrapper-6 {
+  width: 12px;
+  top: 4px;
+  left: 12px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.booking-schedule .rectangle-3 {
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  top: 80px;
+  left: 8px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.booking-schedule .rectangle-4 {
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  top: 80px;
+  left: 57px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.booking-schedule .rectangle-5 {
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  top: 80px;
+  left: 108px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.booking-schedule .rectangle-6 {
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  top: 80px;
+  left: 160px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.booking-schedule .rectangle-7 {
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  top: 80px;
+  left: 210px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.booking-schedule .rectangle-8 {
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  top: 80px;
+  left: 262px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.booking-schedule .rectangle-9 {
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  top: 80px;
+  left: 309px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.booking-schedule .rectangle-10 {
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  top: 138px;
+  left: 8px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+
+.booking-schedule .rectangle-11 {
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  top: 138px;
+  left: 56px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.booking-schedule .rectangle-12 {
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  top: 138px;
+  left: 108px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.booking-schedule .rectangle-13 {
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  top: 138px;
+  left: 160px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.booking-schedule .rectangle-14 {
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  top: 138px;
+  left: 210px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.booking-schedule .rectangle-15 {
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  top: 138px;
+  left: 309px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.booking-schedule .rectangle-16 {
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  top: 196px;
+  left: 8px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.booking-schedule .rectangle-17 {
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  top: 196px;
+  left: 56px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.booking-schedule .rectangle-18 {
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  top: 196px;
+  left: 108px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+
+.booking-schedule .rectangle-19 {
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  top: 138px;
+  left: 262px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.booking-schedule .div-wrapper {
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  top: 22px;
+  left: 108px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.booking-schedule .text-wrapper-7 {
+  position: absolute;
+  width: 12px;
+  top: 2px;
+  left: 10px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.booking-schedule .overlap-4 {
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  top: 22px;
+  left: 160px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.booking-schedule .text-wrapper-8 {
+  width: 12px;
+  top: 3px;
+  left: 9px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.booking-schedule .overlap-5 {
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  top: 22px;
+  left: 210px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.booking-schedule .text-wrapper-9 {
+  width: 12px;
+  top: 2px;
+  left: 9px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.booking-schedule .overlap-6 {
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  top: 22px;
+  left: 262px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.booking-schedule .overlap-7 {
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  top: 22px;
+  left: 309px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.booking-schedule .arrow {
+  position: absolute;
+  width: 28px;
+  height: 22px;
+  top: 53px;
+  left: 26px;
+}
+
+.booking-schedule .text-wrapper-10 {
+  position: absolute;
+  top: 51px;
+  left: 67px;
+  font-family: "Mulish-SemiBold", Helvetica;
+  font-weight: 600;
+  color: var(--grayscale-1);
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.booking-schedule .button{
+  position: relative;
+  width: 185px;
+  height: 41px;
+  top: 720px;
+  left: 101px;
+  background-color: #ffffff;
+  border-radius: 25px;
+  box-sizing: border-box;
+  border: none;
+}
+
+.booking-schedule .text-wrapper-11 {
+position: absolute;
+width: 99px;
+top: 10px;
+left: 43px;
+font-family: "Mulish-ExtraBold", Helvetica;
+font-weight: 800;
+color: #4788d7;
+font-size: 20px;
+text-align: center;
+letter-spacing: 0;
+line-height: normal;
+}

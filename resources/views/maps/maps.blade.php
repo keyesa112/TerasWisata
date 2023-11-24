@@ -27,6 +27,7 @@
                                 <div class="div">
                                     <div class="div-wrapper">
                                         <div class="tab-2">
+                                            <a href="/booking">
                                             <img class="img" src="img/group-33837.png" />
                                             <div class="booking-2"></div>
                                         </div>

@@ -66,6 +66,7 @@
                             <div class="overlap-group-wrapper">
                                 <div class="overlap-group-3">
                                     <div class="tab">
+                                        <a href="/booking">
                                         <img class="img-2" src="img/group-33837.png" />
                                         <div class="booking-2"></div>
                                     </div>
