@@ -3103,6 +3103,72 @@
   object-fit: cover;
 }
 
+.maps2 {
+  position: absolute;
+  width: 400px;
+  height: 900px;
+  background-color: #4788d7;
+  overflow: hidden;
+  top: 403px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.maps2 .overlap-group {
+  position: relative;
+  width: 400px;
+  height: 800px;
+  left: 1px;
+}
+
+.maps2 .rectangle {
+  height: 850px;
+  top: 52px;
+  object-fit: cover;
+  position: absolute;
+  width: 405px;
+  right:25px;
+  left: -2px
+}
+
+.maps2 .div {
+  height: 155px;
+  top: 0;
+  background-color: var(--main-2);
+  position: absolute;
+  width: 400px;
+  left: 0;
+}
+
+.maps2 .mingcute-location {
+  position: absolute;
+  width: 54px;
+  height: 54px;
+  top: 511px;
+  left: 327px;
+}
+
+.maps2 .arrow {
+  position: absolute;
+  width: 28px;
+  height: 22px;
+  top: 105px;
+  left: 26px;
+}
+
+.maps2 .text-wrapper {
+  position: absolute;
+  top: 103px;
+  left: 63px;
+  font-family: "Mulish-SemiBold", Helvetica;
+  font-weight: 600;
+  color: var(--grayscale-1);
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
 .DETAIL-BOOKING {
   display: flex;
   flex-direction: row;
@@ -4165,7 +4231,6 @@
 
 
 .book-sched {
-  background-color: #4788d7;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -4190,12 +4255,12 @@
 }
 
 .book-sched .text-wrapper {
-  position: absolute;
-  top: 30px;
-  left: 61px;
+  top: 35px;
+  left: 70px;
   font-family: "Mulish-SemiBold", Helvetica;
   font-weight: 600;
-  color: #000000b2;
+  color: #ffffff;
+  position: absolute;
   font-size: 20px;
   text-align: center;
   letter-spacing: 0;
@@ -4204,10 +4269,10 @@
 
 .book-sched .back {
   position: absolute;
-  width: 78px;
-  height: 60px;
-  top: 14px;
-  left: 9px;
+  width: 36px;
+  height: 29px;
+  top: 31px;
+  left: 12px;
 }
 
 .book-sched .overlap-group {
@@ -4269,7 +4334,7 @@
   position: absolute;
   width: 86px;
   top: 0;
-  left: 0;
+  left: 6px;
   font-family: "Roboto-Bold", Helvetica;
   font-weight: 700;
   color: #000000;
@@ -5369,11 +5434,14 @@ line-height: normal;
 }
 
 .akunmu {
-  position: relative;
+  position: absolute;
   width: 400px;
-  height: 906px;
+  height: 900px;
   background-color: #4788d7;
   overflow: hidden;
+  top: 403px;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .akunmu .overlap {
@@ -5400,6 +5468,7 @@ line-height: normal;
   top: 47px;
   left: 165px;
   object-fit: cover;
+  color: #000000;
 }
 
 .akunmu .back {
@@ -5415,9 +5484,23 @@ line-height: normal;
   position: absolute;
   width: 36px;
   height: 29px;
-  top: 15px;
-  left: 4px;
+  top: 31px;
+  left: 12px;
 }
+
+.akunmu .image {
+  width: 32px;
+  height: 26px;
+}
+
+.akunmu .image .pensil-removebg {
+  position: fixed;
+  width: 32px;
+  height: 26px;
+  top: 140px;
+  left: 185px;
+}
+
 
 .akunmu .overlap-group {
   position: absolute;
@@ -5526,7 +5609,7 @@ line-height: normal;
 
 .akunmu .p {
   position: absolute;
-  top: 362px;
+  top: 350px;
   left: 64px;
   font-family: "Mulish-ExtraBold", Helvetica;
   font-weight: 800;
@@ -5602,8 +5685,20 @@ line-height: normal;
 
 .akunmu .overlap-group-2 {
   position: relative;
+  top: 700px;
+  left: -90px;
   height: 41px;
   border-radius: 25px;
+}
+
+.akunmu .overlap-group-3 {
+  position: relative;
+  top: 730px;
+  left: 100px;
+  height: 41px;
+  border-radius: 25px;
+  width: 185px;
+  background-color: #ffffff;
 }
 
 .akunmu .rectangle-2 {
@@ -5630,6 +5725,228 @@ line-height: normal;
   line-height: normal;
 }
 
+.detilaccount {
+  position: absolute;
+  width: 400px;
+  height: 900px;
+  background-color: #4788d7;
+  overflow: hidden;
+  top: 403px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.detilaccount .overlap-group {
+  position: absolute;
+  width: 458px;
+  height: 88px;
+  top: 51px;
+  left: 3px;
+}
+
+.detilaccount .rectangle {
+  position: absolute;
+  width: 92px;
+  height: 60px;
+  top: 16px;
+  left: 8px;
+  background-color: var(--main-1);
+}
+
+.detilaccount .arrow {
+  position: absolute;
+  width: 36px;
+  height: 29px;
+  top: 31px;
+  left: 12px;
+  z-index: 1;
+}
+
+.detilaccount .div {
+  position: absolute;
+  width: 458px;
+  height: 88px;
+  top: 0;
+  left: 0;
+  background-color: #539cdf66;
+}
+
+.detilaccount .text-wrapper {
+  top: 35px;
+  left: 70px;
+  font-family: "Mulish-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  position: absolute;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.detilaccount .overlap {
+  position: absolute;
+  width: 400px;
+  height: 225px;
+  top: 700px;
+  left: 0px;
+  background-color: #539cdf66;
+  border-radius: 50px;
+}
+
+.detilaccount .text-wrapper-2 {
+  top: 21px;
+  left: 19px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  position: absolute;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.detilaccount .camera-icon-wrapper {
+  position: absolute;
+  width: 66px;
+  height: 65px;
+  top: 73px;
+  left: 51px;
+  background-image: url(./img/ellipse-22.svg);
+  background-size: 100% 100%;
+  z-index: 1;
+}
+
+.detilaccount .camera-icon {
+  position: absolute;
+  width: 51px;
+  height: 52px;
+  top: 6px;
+  left: 7px;
+  object-fit: cover;
+  z-index: 2;
+}
+
+.detilaccount .box {
+  position: absolute;
+  width: 66px;
+  height: 65px;
+}
+
+.detilaccount .box .ellipse {
+  position: fixed;
+  width: 66px;
+  height: 65px;
+  top: 770px;
+  left: 50px;
+}
+
+.detilaccount .trash-removebg-wrapper {
+  position: absolute;
+  width: 66px;
+  height: 65px;
+  top: 73px;
+  left: 283px;
+  background-image: url(./img/ellipse-25.svg);
+  background-size: 100% 100%;
+  z-index: 1;
+}
+
+.detilaccount .trash-removebg {
+  position: absolute;
+  width: 46px;
+  height: 45px;
+  top: 11px;
+  left: 10px;
+  object-fit: cover;
+  z-index: 2;
+}
+
+.detilaccount .box .ellipse-2 {
+  position: fixed;
+  width: 66px;
+  height: 65px;
+  top: 770px;
+  left: 283px;
+}
+
+.detilaccount .glery-removebg-wrapper {
+  position: absolute;
+  width: 66px;
+  height: 65px;
+  top: 73px;
+  left: 167px;
+  background-image: url(./img/ellipse-26.svg);
+  background-size: 100% 100%;
+  z-index: 1;
+}
+
+.detilaccount .glery-removebg {
+  position: absolute;
+  width: 46px;
+  height: 44px;
+  top: 12px;
+  left: 10px;
+  object-fit: cover;
+  z-index: 2;
+}
+
+.detilaccount .box .ellipse-3 {
+  position: fixed;
+  width: 66px;
+  height: 65px;
+  top: 770px;
+  left: 168px;
+}
+
+.detilaccount .text-wrapper-3 {
+  position: absolute;
+  top: 142px;
+  left: 58px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.detilaccount .text-wrapper-4 {
+  position: absolute;
+  top: 142px;
+  left: 177px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.detilaccount .text-wrapper-5 {
+  position: absolute;
+  top: 142px;
+  left: 291px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.detilaccount .img {
+  position: absolute;
+  width: 285px;
+  height: 316px;
+  top: 253px;
+  left: 57px;
+  object-fit: cover;
+}
 
 .tiket {
   background-color: #4788d7;

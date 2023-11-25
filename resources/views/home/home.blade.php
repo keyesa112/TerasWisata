@@ -18,6 +18,7 @@
                                         <img class="img" src="img/Group-33836.jpg" />
                                         <div class="booking"></div>
                                     </div>
+                                    <a href="/profile">
                                     <img class="img" src="img/Group-33836.jpg" />
                                     <div class="text-wrapper">Profile</div>
                                 </div>
@@ -114,6 +115,7 @@
                             <img class="image-2" src="img/image-3.png" />
                         </div>
                         <div class="slideshow-2">
+                            <a href="/detail-wisata">
                             <div class="overlap-9">
                                 <div class="group-9">
                                     <div class="rectangle-wrapper"><div class="rectangle-3"></div></div>

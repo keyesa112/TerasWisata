@@ -48,6 +48,7 @@
                                 <div class="overlap-group-3">
                                     <div class="div-wrapper">
                                         <div class="tab-2">
+                                            <a href="/profile">
                                             <img class="img-2" src="img/Group-33837.png" />
                                             <div class="booking-2"></div>
                                         </div>
@@ -109,6 +110,7 @@
                         <div class="text-wrapper-11">Tiga Warna Beach</div>
                         <div class="text-wrapper-12">Pacitan, Jawa Timur</div>
                     </div>
+                    <a href="/wishlist">
                     <img class="vector" src="img/carbon-favorite-filled.png" />
                 </div>
                 <div class="WISATA-3">
@@ -121,6 +123,7 @@
                         <div class="text-wrapper-2">Kenjeran Park</div>
                         <div class="text-wrapper-13">Surabaya, Jawa Timur</div>
                     </div>
+                    <a href="/wishlist">
                     <img class="vector" src="img/carbon-favorite-filled.png" />
                 </div>
                 <div class="WISATA-4">
@@ -131,6 +134,7 @@
                         <div class="text-wrapper-2">Kebun Binatang</div>
                         <div class="text-wrapper-14">Surabaya, Jawa Timur</div>
                     </div>
+                    <a href="/wishlist">
                     <img class="vector" src="img/carbon-favorite-filled.png" />
                 </div>
                 <div class="WISATA-5">
@@ -141,6 +145,7 @@
                         <div class="text-wrapper-15">Batu Night Spectaculer</div>
                         <div class="text-wrapper-16">Batu, Jawa Timur</div>
                     </div>
+                    <a href="/wishlist">
                     <img class="vector" src="img/carbon-favorite-filled.png" />
                 </div>
             </div>

@@ -8,6 +8,7 @@
     <body>
         <div class="qrismu">
             <div class="overlap">
+                <a href="/payment-method">
                 <div class="text-wrapper">Kode QRIS</div>
                 <img class="arrow" src="img/arrow-3.svg" />
             </div>

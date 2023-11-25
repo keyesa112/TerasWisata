@@ -37,7 +37,7 @@
                             </div>
                         </div>
                     </div>
-                    <button class="button"><a href="/maps"><div class="text-wrapper-8">Maps</div></button>
+                    <button class="button"><a href="/maps-kenjeran"><div class="text-wrapper-8">Maps</div></button>
                 </div>
                 <div class="text-wrapper-6">Kenjeran Park</div>
                 <div class="overlap-4">

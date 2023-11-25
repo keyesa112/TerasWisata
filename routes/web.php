@@ -50,6 +50,10 @@ Route::get('/maps', function () {
     return view('maps/maps');
 });
 
+Route::get('/maps-kenjeran', function () {
+    return view('maps/maps2');
+});
+
 //booking
 Route::get('/booking', function () {
     return view('booking/detailbooking');
@@ -88,4 +92,16 @@ Route::get('/ticket', function () {
 //profile
 Route::get('/profile', function () {
     return view('profile/account');
+});
+
+Route::get('/detail-profile', function () {
+    return view('profile/detilaccount');
+});
+
+Route::get('/booking-list', function () {
+    return view('profile/booksched');
+});
+
+Route::get('/profile-saved', function () {
+    return view('profile/sukses');
 });

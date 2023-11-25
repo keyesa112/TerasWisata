@@ -41,6 +41,7 @@
                     <img class="vector" src="img/vector.svg" />
                 </div>
                 <div class="WISATA-3">
+                    <a href="/detail-wisata">
                     <div class="overlap-group">
                         <img class="line" src="img/line-88-3.svg" /> <img class="rectangle-7" src="img/rectangle-112.png" />
                     </div>
@@ -57,6 +58,7 @@
                             <div class="group">
                                 <div class="overlap-group-3">
                                     <div class="tab">
+                                        <a href="/profile">
                                         <img class="img-3" src="img/group-33836.jpg" />
                                         <div class="booking"></div>
                                     </div>
