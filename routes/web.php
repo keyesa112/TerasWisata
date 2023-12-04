@@ -151,3 +151,14 @@ Route::get('/detil-pembeli-tiket', function () {
     return view('admin/detil-pembeli-tiket');
 });
 
+Route::get('/invoice', function () {
+    return view('admin/invoice');
+});
+
+Route::get('/petaadmin', function () {
+    return view('admin/petaadmin');
+});
+
+Route::get('/mapsadmin', function () {
+    return view('admin/mapsadmin');
+});

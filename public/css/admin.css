@@ -72,7 +72,7 @@
 .home-admin .img {
     position: absolute;
     width: 24px;
-    height: 24px;
+    height: 20px;
     top: 29px;
     left: 27px;
 }
@@ -307,10 +307,11 @@
 
 .home-admin .rectangle-2 {
     position: absolute;
-    width: 82px;
+    width: 84px;
     height: 4px;
     top: 0;
-    left: 3px;
+    left: 0;
+    background-color: #fa0000;
 }
 
 .home-admin .frame {
@@ -369,6 +370,18 @@
 }
 
 .home-admin .div-2 {
+    top: 7px;
+    left: 0;
+    font-family: "Mulish-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 8px;
+    position: absolute;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-admin .div-3 {
     top: 0;
     left: 0;
     font-family: "Mulish-Regular", Helvetica;
@@ -430,14 +443,13 @@
 
 .home-admin .text-wrapper-9 {
     position: absolute;
-    width: 161px;
-    height: 23px;
-    top: 38px;
-    left: 100px;
-    font-family: "Roboto-Thin", Helvetica;
-    font-weight: 100;
-    color: #000000;
-    font-size: 14px;
+    width: 107px;
+    top: 17px;
+    left: 0 px;
+    font-family: "Mulish-ExtraLight", Helvetica;
+    font-weight: 200;
+    color: #00000080;
+    font-size: 8px;
     letter-spacing: 0;
     line-height: normal;
 }
@@ -714,7 +726,7 @@
 
 .home-admin .days-more-to-go-your {
     position: absolute;
-    top: 44px;
+    top: 33px;
     left: 74px;
     font-family: "Mulish-ExtraLight", Helvetica;
     font-weight: 200;
@@ -737,7 +749,7 @@
 }
 
 .home-admin .text-wrapper-14 {
-    top: 51px;
+    top: 53px;
     left: 39px;
     font-family: "Mulish-Bold", Helvetica;
     font-weight: 700;
@@ -3242,6 +3254,1376 @@
     line-height: normal;
     white-space: nowrap;
 }
+
+.detil-pembeli-tiket {
+ 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .detil-pembeli-tiket .div {
+    background-color: #4788d7;
+    overflow: hidden;
+    width: 390px;
+    height: 844px;
+    position: relative;
+  }
+  
+  .detil-pembeli-tiket .overlap {
+    position: absolute;
+    width: 701px;
+    height: 165px;
+    top: 104px;
+    left: 25px;
+  }
+  
+  .detil-pembeli-tiket .rectangle {
+    position: absolute;
+    width: 365px;
+    height: 119px;
+    top: 27px;
+    left: 336px;
+    background-color: var(--main-2);
+  }
+  
+  .detil-pembeli-tiket .rectangle-2 {
+    position: absolute;
+    width: 339px;
+    height: 32px;
+    top: 2px;
+    left: 0;
+    background-color: #ffffffb2;
+    border-radius: 15px;
+  }
+  
+  .detil-pembeli-tiket .rectangle-3 {
+    position: absolute;
+    width: 191px;
+    height: 32px;
+    top: 0;
+    left: 2px;
+    background-color: #ffffffb2;
+    border-radius: 15px;
+  }
+  
+  .detil-pembeli-tiket .text-wrapper {
+    position: absolute;
+    width: 272px;
+    top: 9px;
+    left: 15px;
+    font-family: "Roboto-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 12px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detil-pembeli-tiket .text-wrapper-2 {
+    position: absolute;
+    top: 9px;
+    left: 226px;
+    font-family: "Mulish-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detil-pembeli-tiket .img {
+    position: absolute;
+    width: 14px;
+    height: 13px;
+    top: 10px;
+    left: 170px;
+    object-fit: cover;
+  }
+  
+  .detil-pembeli-tiket .rectangle-4 {
+    position: absolute;
+    width: 14px;
+    height: 13px;
+    top: 11px;
+    left: 300px;
+    object-fit: cover;
+  }
+  
+  .detil-pembeli-tiket .user {
+    position: absolute;
+    width: 331px;
+    height: 88px;
+    top: 77px;
+    left: 6px;
+    background-color: var(--accent-1);
+    border-radius: 10px;
+  }
+  
+  .detil-pembeli-tiket .div-2 {
+    position: absolute;
+    width: 88px;
+    height: 88px;
+    top: 0;
+    left: 0;
+    background-color: var(--accents-6);
+    border-radius: 10px 0px 0px 10px;
+  }
+  
+  .detil-pembeli-tiket .line {
+    width: 1px;
+    height: 88px;
+    top: 0;
+    left: 87px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .detil-pembeli-tiket .vector {
+    position: absolute;
+    width: 60px;
+    height: 58px;
+    top: 14px;
+    left: 11px;
+  }
+  
+  .detil-pembeli-tiket .overlap-group {
+    position: absolute;
+    width: 167px;
+    height: 34px;
+    top: 27px;
+    left: 94px;
+  }
+  
+  .detil-pembeli-tiket .text-wrapper-3 {
+    position: absolute;
+    width: 86px;
+    top: 0;
+    left: 0;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detil-pembeli-tiket .p {
+    position: absolute;
+    width: 161px;
+    height: 23px;
+    top: 11px;
+    left: 6px;
+    font-family: "Roboto-Thin", Helvetica;
+    font-weight: 100;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detil-pembeli-tiket .arrow {
+    position: absolute;
+    width: 25px;
+    height: 1px;
+    top: 57px;
+    left: 40px;
+  }
+  
+  .detil-pembeli-tiket .line-2 {
+    width: 390px;
+    height: 1px;
+    top: 849px;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .detil-pembeli-tiket .overlap-2 {
+    position: absolute;
+    width: 396px;
+    height: 91px;
+    top: 753px;
+    left: 0;
+  }
+  
+  .detil-pembeli-tiket .MENU-BAR {
+    position: absolute;
+    width: 396px;
+    height: 80px;
+    top: 0;
+    left: 0;
+  }
+  
+  .detil-pembeli-tiket .overlap-3 {
+    position: absolute;
+    width: 158px;
+    height: 80px;
+    top: 0;
+    left: 240px;
+  }
+  
+  .detil-pembeli-tiket .group {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 0;
+    left: 78px;
+  }
+  
+  .detil-pembeli-tiket .overlap-group-2 {
+    position: relative;
+    width: 78px;
+    height: 80px;
+  }
+  
+  .detil-pembeli-tiket .tab {
+    position: absolute;
+    width: 78px;
+    height: 80px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+  }
+  
+  .detil-pembeli-tiket .img-2 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 29px;
+    left: 27px;
+  }
+  
+  .detil-pembeli-tiket .booking {
+    top: 57px;
+    left: 16px;
+    font-family: "Mulish-Light", Helvetica;
+    font-weight: 300;
+    color: #00000080;
+    position: absolute;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detil-pembeli-tiket .text-wrapper-4 {
+    position: absolute;
+    width: 51px;
+    top: 55px;
+    left: 25px;
+    font-family: "Mulish-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .detil-pembeli-tiket .overlap-group-wrapper {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 0;
+    left: 0;
+  }
+  
+  .detil-pembeli-tiket .div-wrapper {
+    position: absolute;
+    width: 78px;
+    height: 80px;
+    top: 0;
+    left: 0;
+  }
+  
+  .detil-pembeli-tiket .tab-2 {
+    position: relative;
+    height: 80px;
+    background-color: #ffffff;
+  }
+  
+  .detil-pembeli-tiket .booking-2 {
+    position: absolute;
+    top: 57px;
+    left: 16px;
+    font-family: "Poppins-Light", Helvetica;
+    font-weight: 300;
+    color: #00000080;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detil-pembeli-tiket .group-2 {
+    position: absolute;
+    width: 19px;
+    height: 18px;
+    top: 33px;
+    left: 30px;
+  }
+  
+  .detil-pembeli-tiket .text-wrapper-5 {
+    width: 51px;
+    top: 55px;
+    left: 20px;
+    font-family: "Mulish-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    white-space: nowrap;
+    position: absolute;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detil-pembeli-tiket .group-3 {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    top: 32px;
+    left: 109px;
+  }
+  
+  .detil-pembeli-tiket .rectangle-5 {
+    position: absolute;
+    width: 85px;
+    height: 4px;
+    top: 0;
+    left: 0;
+  }
+  
+  .detil-pembeli-tiket .overlap-wrapper {
+    position: absolute;
+    width: 78px;
+    height: 80px;
+    top: 0;
+    left: 162px;
+  }
+  
+  .detil-pembeli-tiket .overlap-4 {
+    position: relative;
+    height: 80px;
+  }
+  
+  .detil-pembeli-tiket .group-4 {
+    position: absolute;
+    width: 53px;
+    height: 14px;
+    top: 55px;
+    left: 25px;
+  }
+  
+  .detil-pembeli-tiket .text-wrapper-6 {
+    position: absolute;
+    width: 51px;
+    top: 0;
+    left: 0;
+    font-family: "Mulish-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .detil-pembeli-tiket .overlap-5 {
+    position: relative;
+    width: 80px;
+    height: 80px;
+  }
+  
+  .detil-pembeli-tiket .text-wrapper-7 {
+    position: absolute;
+    width: 51px;
+    top: 55px;
+    left: 24px;
+    font-family: "Mulish-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .detil-pembeli-tiket .group-wrapper {
+    height: 80px;
+  }
+  
+  .detil-pembeli-tiket .group-5 {
+    width: 80px;
+    height: 80px;
+  }
+  
+  .detil-pembeli-tiket .text-wrapper-8 {
+    position: absolute;
+    width: 51px;
+    top: 55px;
+    left: 24px;
+    font-family: "Mulish-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .detil-pembeli-tiket .group-6 {
+    position: absolute;
+    width: 84px;
+    height: 80px;
+    top: 0;
+    left: 78px;
+  }
+  
+  .detil-pembeli-tiket .group-7 {
+    position: absolute;
+    width: 84px;
+    height: 80px;
+    top: 0;
+    left: 0;
+  }
+  
+  .detil-pembeli-tiket .group-8 {
+    width: 86px;
+    height: 80px;
+  }
+  
+  .detil-pembeli-tiket .overlap-group-3 {
+    width: 84px;
+    position: relative;
+    height: 80px;
+  }
+  
+  .detil-pembeli-tiket .tab-3 {
+    position: absolute;
+    width: 84px;
+    top: 0;
+    left: 0;
+    height: 80px;
+    background-color: #ffffff;
+  }
+  
+  .detil-pembeli-tiket .text-wrapper-9 {
+    position: absolute;
+    width: 51px;
+    top: 55px;
+    left: 29px;
+    font-family: "Mulish-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .detil-pembeli-tiket .vector-2 {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    top: 35px;
+    left: 34px;
+  }
+  
+  .detil-pembeli-tiket .rectangle-6 {
+    position: absolute;
+    width: 390px;
+    height: 23px;
+    top: 68px;
+    left: 0;
+    background-color: #ffffff;
+  }
+  
+  .detil-pembeli-tiket .user-2 {
+    top: 275px;
+    position: absolute;
+    width: 331px;
+    height: 88px;
+    left: 31px;
+    background-color: var(--accent-1);
+    border-radius: 10px;
+  }
+  
+  .detil-pembeli-tiket .overlap-6 {
+    position: absolute;
+    width: 162px;
+    height: 33px;
+    top: 28px;
+    left: 100px;
+  }
+  
+  .detil-pembeli-tiket .text-wrapper-10 {
+    top: 10px;
+    left: 0;
+    position: absolute;
+    width: 161px;
+    height: 23px;
+    font-family: "Roboto-Thin", Helvetica;
+    font-weight: 100;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detil-pembeli-tiket .user-3 {
+    top: 369px;
+    position: absolute;
+    width: 331px;
+    height: 88px;
+    left: 31px;
+    background-color: var(--accent-1);
+    border-radius: 10px;
+  }
+  
+  .detil-pembeli-tiket .overlap-7 {
+    position: absolute;
+    width: 171px;
+    height: 33px;
+    top: 28px;
+    left: 91px;
+  }
+  
+  .detil-pembeli-tiket .text-wrapper-11 {
+    top: 10px;
+    left: 9px;
+    position: absolute;
+    width: 161px;
+    height: 23px;
+    font-family: "Roboto-Thin", Helvetica;
+    font-weight: 100;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detil-pembeli-tiket .user-4 {
+    top: 461px;
+    position: absolute;
+    width: 331px;
+    height: 88px;
+    left: 31px;
+    background-color: var(--accent-1);
+    border-radius: 10px;
+  }
+  
+  .detil-pembeli-tiket .overlap-8 {
+    position: relative;
+    width: 262px;
+    height: 88px;
+  }
+  
+  .detil-pembeli-tiket .text-wrapper-12 {
+    position: absolute;
+    width: 86px;
+    top: 28px;
+    left: 78px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detil-pembeli-tiket .text-wrapper-13 {
+    top: 38px;
+    left: 100px;
+    position: absolute;
+    width: 161px;
+    height: 23px;
+    font-family: "Roboto-Thin", Helvetica;
+    font-weight: 100;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detil-pembeli-tiket .text-wrapper-14 {
+    position: absolute;
+    top: 43px;
+    left: 80px;
+    font-family: "Mulish-SemiBold", Helvetica;
+    font-weight: 600;
+    color: var(--grayscale-1);
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .INVOICE {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .INVOICE .div {
+    background-color: var(--main-1);
+    width: 390px;
+    height: 844px;
+    position: relative;
+  }
+  
+  .INVOICE .overlap {
+    position: absolute;
+    width: 351px;
+    height: 386px;
+    top: 131px;
+    left: 8px;
+  }
+  
+  .INVOICE .rectangle {
+    position: absolute;
+    width: 331px;
+    height: 386px;
+    top: 0;
+    left: 20px;
+    background-color: #549cdf;
+    border-radius: 10px;
+  }
+  
+  .INVOICE .rectangle-2 {
+    position: absolute;
+    width: 307px;
+    height: 61px;
+    top: 312px;
+    left: 33px;
+    background-color: #d9d9d9;
+    border-radius: 10px;
+  }
+  
+  .INVOICE .total-BAYAR {
+    position: absolute;
+    top: 330px;
+    left: 47px;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .INVOICE .text-wrapper {
+    position: absolute;
+    top: 330px;
+    left: 236px;
+    font-family: var(--subtitle-1-font-family);
+    font-weight: var(--subtitle-1-font-weight);
+    color: #000000;
+    font-size: var(--subtitle-1-font-size);
+    letter-spacing: var(--subtitle-1-letter-spacing);
+    line-height: var(--subtitle-1-line-height);
+    font-style: var(--subtitle-1-font-style);
+  }
+  
+  .INVOICE .kode-BOOKING {
+    position: absolute;
+    top: 174px;
+    left: 45px;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .INVOICE .span {
+    font-weight: 800;
+  }
+  
+  .INVOICE .text-wrapper-2 {
+    font-family: var(--subtitle-1-font-family);
+    font-size: var(--subtitle-1-font-size);
+    font-style: var(--subtitle-1-font-style);
+    font-weight: var(--subtitle-1-font-weight);
+    letter-spacing: var(--subtitle-1-letter-spacing);
+    line-height: var(--subtitle-1-line-height);
+  }
+  
+  .INVOICE .rectangle-3 {
+    position: absolute;
+    width: 307px;
+    height: 61px;
+    top: 11px;
+    left: 30px;
+    background-color: #d9d9d9;
+    border-radius: 10px;
+  }
+  
+  .INVOICE .i-NVOICE {
+    position: absolute;
+    top: 21px;
+    left: 176px;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .INVOICE .text-wrapper-3 {
+    position: absolute;
+    top: 41px;
+    left: 176px;
+    font-family: var(--subtitle-1-font-family);
+    font-weight: var(--subtitle-1-font-weight);
+    color: #000000;
+    font-size: var(--subtitle-1-font-size);
+    letter-spacing: var(--subtitle-1-letter-spacing);
+    line-height: var(--subtitle-1-line-height);
+    font-style: var(--subtitle-1-font-style);
+  }
+  
+  .INVOICE .group {
+    position: absolute;
+    width: 150px;
+    height: 41px;
+    top: 19px;
+    left: 0;
+  }
+  
+  .INVOICE .overlap-group {
+    position: relative;
+    width: 146px;
+    height: 41px;
+  }
+  
+  .INVOICE .text-wrapper-4 {
+    position: absolute;
+    top: 0;
+    left: 81px;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: var(--grayscale-9);
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .INVOICE .text-wrapper-5 {
+    position: absolute;
+    top: 15px;
+    left: 81px;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: var(--grayscale-9);
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .INVOICE .group-2 {
+    position: absolute;
+    width: 37px;
+    height: 37px;
+    top: 4px;
+    left: 40px;
+    background-color: #ffffff;
+    border-radius: 18.5px;
+  }
+  
+  .INVOICE .desain-tanpa-judul {
+    position: absolute;
+    width: 88px;
+    height: 34px;
+    top: 7px;
+    left: 0;
+  }
+  
+  .INVOICE .rectangle-4 {
+    position: absolute;
+    width: 304px;
+    height: 222px;
+    top: 81px;
+    left: 33px;
+    background-color: var(--grayscale-1);
+    border-radius: 10px;
+  }
+  
+  .INVOICE .kode-BOOKING-ypkaa {
+    position: absolute;
+    top: 160px;
+    left: 44px;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .INVOICE .line {
+    position: absolute;
+    width: 304px;
+    height: 1px;
+    top: 165px;
+    left: 33px;
+    object-fit: cover;
+  }
+  
+  .INVOICE .img {
+    position: absolute;
+    width: 67px;
+    height: 61px;
+    top: 91px;
+    left: 44px;
+    object-fit: cover;
+  }
+  
+  .INVOICE .text-wrapper-6 {
+    position: absolute;
+    width: 86px;
+    top: 104px;
+    left: 111px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .INVOICE .text-wrapper-7 {
+    position: absolute;
+    width: 161px;
+    height: 23px;
+    top: 115px;
+    left: 122px;
+    font-family: "Roboto-Thin", Helvetica;
+    font-weight: 100;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .INVOICE .text-wrapper-8 {
+    position: absolute;
+    top: 230px;
+    left: 45px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .INVOICE .waktu-pm {
+    position: absolute;
+    top: 203px;
+    left: 45px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .INVOICE .arrow {
+    position: absolute;
+    width: 28px;
+    height: 22px;
+    top: 53px;
+    left: 26px;
+  }
+  
+  .INVOICE .text-wrapper-9 {
+    position: absolute;
+    top: 51px;
+    left: 64px;
+    font-family: "Mulish-SemiBold", Helvetica;
+    font-weight: 600;
+    color: var(--grayscale-1);
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .maps2 {
+    position: absolute;
+    width: 400px;
+    height: 900px;
+    background-color: #4788d7;
+    overflow: hidden;
+    top: 403px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .maps2 .overlap-group {
+    position: relative;
+    width: 400px;
+    height: 800px;
+    left: 1px;
+  }
+  
+  .maps2 .rectangle {
+    height: 850px;
+    top: 52px;
+    object-fit: cover;
+    position: absolute;
+    width: 405px;
+    right:25px;
+    left: -2px
+  }
+  
+  .maps2 .div {
+    height: 155px;
+    top: 0;
+    background-color: var(--main-2);
+    position: absolute;
+    width: 400px;
+    left: 0;
+  }
+  
+  .maps2 .mingcute-location {
+    position: absolute;
+    width: 54px;
+    height: 54px;
+    top: 511px;
+    left: 327px;
+  }
+  
+  .maps2 .arrow {
+    position: absolute;
+    width: 28px;
+    height: 22px;
+    top: 105px;
+    left: 26px;
+  }
+  
+  .maps2 .text-wrapper {
+    position: absolute;
+    top: 103px;
+    left: 63px;
+    font-family: "Mulish-SemiBold", Helvetica;
+    font-weight: 600;
+    color: var(--grayscale-1);
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .PETA-MAPS {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.PETA-MAPS .overlap-wrapper {
+  background-color: #bce2ea;
+  overflow: hidden;
+  width: 390px;
+  height: 844px;
+}
+
+.PETA-MAPS .overlap {
+  position: relative;
+  width: 397px;
+  height: 844px;
+}
+
+.PETA-MAPS .mingcute-location {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 410px;
+  left: 183px;
+}
+
+.PETA-MAPS .iphone-pro-max {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+}
+
+.PETA-MAPS .rectangle {
+  position: absolute;
+  width: 390px;
+  height: 98px;
+  top: 746px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.PETA-MAPS .MENU-BAR {
+  position: absolute;
+  width: 396px;
+  height: 80px;
+  top: 742px;
+  left: 1px;
+}
+
+.PETA-MAPS .overlap-group {
+  position: absolute;
+  width: 320px;
+  height: 80px;
+  top: 0;
+  left: 78px;
+}
+
+.PETA-MAPS .group {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  top: 0;
+  left: 240px;
+}
+
+.PETA-MAPS .div {
+  position: relative;
+  width: 78px;
+  height: 80px;
+}
+
+.PETA-MAPS .tab {
+  position: absolute;
+  width: 78px;
+  height: 80px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.PETA-MAPS .img {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 29px;
+  left: 27px;
+}
+
+.PETA-MAPS .booking {
+  top: 57px;
+  left: 16px;
+  font-family: "Mulish-Light", Helvetica;
+  color: #00000080;
+  position: absolute;
+  font-weight: 300;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PETA-MAPS .text-wrapper {
+  position: absolute;
+  width: 51px;
+  top: 55px;
+  left: 25px;
+  font-family: "Mulish-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PETA-MAPS .overlap-group-wrapper {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  top: 0;
+  left: 162px;
+}
+
+.PETA-MAPS .div-wrapper {
+  position: absolute;
+  width: 78px;
+  height: 80px;
+  top: 0;
+  left: 0;
+}
+
+.PETA-MAPS .tab-2 {
+  position: relative;
+  height: 80px;
+  background-color: #ffffff;
+}
+
+.PETA-MAPS .booking-2 {
+  top: 57px;
+  left: 16px;
+  font-family: "Poppins-Light", Helvetica;
+  color: #00000080;
+  position: absolute;
+  font-weight: 300;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PETA-MAPS .group-2 {
+  position: absolute;
+  width: 19px;
+  height: 18px;
+  top: 33px;
+  left: 30px;
+}
+
+.PETA-MAPS .text-wrapper-2 {
+  width: 51px;
+  top: 55px;
+  left: 20px;
+  font-family: "Mulish-Light", Helvetica;
+  color: #000000;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 300;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PETA-MAPS .group-3 {
+  position: absolute;
+  width: 78px;
+  height: 80px;
+  top: 0;
+  left: 84px;
+}
+
+.PETA-MAPS .overlap-2 {
+  position: relative;
+  height: 80px;
+}
+
+.PETA-MAPS .group-4 {
+  position: absolute;
+  width: 53px;
+  height: 14px;
+  top: 55px;
+  left: 25px;
+}
+
+.PETA-MAPS .text-wrapper-3 {
+  width: 51px;
+  top: 0;
+  left: 0;
+  font-family: "Mulish-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PETA-MAPS .group-5 {
+  position: absolute;
+  width: 86px;
+  height: 80px;
+  top: 0;
+  left: 0;
+}
+
+.PETA-MAPS .overlap-3 {
+  position: relative;
+  width: 84px;
+  height: 80px;
+}
+
+.PETA-MAPS .tab-3 {
+  position: absolute;
+  width: 84px;
+  top: 0;
+  left: 0;
+  height: 80px;
+  background-color: #ffffff;
+}
+
+.PETA-MAPS .text-wrapper-4 {
+  position: absolute;
+  width: 51px;
+  top: 55px;
+  left: 17px;
+  font-family: "Mulish-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PETA-MAPS .rectangle-2 {
+  position: absolute;
+  width: 85px;
+  height: 4px;
+  top: 0;
+  left: 78px;
+  background-color: #fa0000;
+}
+
+.PETA-MAPS .group-6 {
+  position: absolute;
+  width: 17px;
+  height: 17px;
+  top: 32px;
+  left: 271px;
+}
+
+.PETA-MAPS .overlap-4 {
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+
+.PETA-MAPS .group-7 {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  top: 0;
+  left: 0;
+}
+
+.PETA-MAPS .text-wrapper-5 {
+  font-family: "Mulish-Bold", Helvetica;
+  font-weight: 700;
+  position: absolute;
+  width: 51px;
+  top: 55px;
+  left: 24px;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PETA-MAPS .group-wrapper {
+  height: 80px;
+}
+
+.PETA-MAPS .group-8 {
+  width: 80px;
+  height: 80px;
+}
+
+.PETA-MAPS .text-wrapper-6 {
+  font-family: "Mulish-Light", Helvetica;
+  font-weight: 300;
+  position: absolute;
+  width: 51px;
+  top: 55px;
+  left: 24px;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PETA-MAPS .rectangle-3 {
+  position: absolute;
+  width: 390px;
+  height: 155px;
+  top: 0;
+  left: 0;
+  background-color: var(--main-2);
+}
+
+.PETA-MAPS .arrow {
+  position: absolute;
+  width: 28px;
+  height: 22px;
+  top: 53px;
+  left: 26px;
+}
+
+.PETA-MAPS .text-wrapper-7 {
+  top: 51px;
+  left: 65px;
+  font-family: "Mulish-SemiBold", Helvetica;
+  font-weight: 600;
+  color: var(--grayscale-1);
+  font-size: 20px;
+  text-align: center;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PETA-MAPS .find {
+  position: absolute;
+  width: 339px;
+  height: 77px;
+  top: 99px;
+  left: 27px;
+}
+
+.PETA-MAPS .overlap-5 {
+  position: relative;
+  height: 76px;
+}
+
+.PETA-MAPS .rectangle-4 {
+  position: absolute;
+  width: 339px;
+  height: 32px;
+  top: 0;
+  left: 0;
+  background-color: #ffffffb2;
+  border-radius: 15px;
+}
+
+.PETA-MAPS .text-wrapper-8 {
+  position: absolute;
+  width: 272px;
+  top: 9px;
+  left: 13px;
+  font-family: "Roboto-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 12px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PETA-MAPS .ellipse {
+  position: absolute;
+  width: 20px;
+  height: 19px;
+  top: 7px;
+  left: 306px;
+}
+
+.PETA-MAPS .rectangle-5 {
+  position: absolute;
+  width: 14px;
+  height: 13px;
+  top: 10px;
+  left: 309px;
+  object-fit: cover;
+}
+  
+  
 
 
 

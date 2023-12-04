@@ -15,7 +15,7 @@
                             <div class="group">
                                 <div class="overlap-group-2">
                                     <div class="tab">
-                                        <img class="img" src="img/Group-33836.png" />
+                                        <img class="img" src="img/Group-33836.jpg" />
                                         <div class="booking"></div>
                                     </div>
                                     <div class="text-wrapper">Profile</div>
@@ -25,7 +25,6 @@
                                 <div class="overlap-group-2">
                                     <div class="div-wrapper">
                                         <div class="tab-2">
-                                            <img class="img" src="img/image.png" />
                                             <div class="booking-2"></div>
                                         </div>
                                     </div>
@@ -37,7 +36,7 @@
                         <div class="overlap-wrapper">
                             <div class="overlap-2">
                                 <div class="tab">
-                                    <img class="img" src="img/ic-outline-table-restaurant.svg" />
+                                    <img class="img" src="img/ic-outline-table-restaurant.png" />
                                     <div class="booking-2"></div>
                                 </div>
                                 <div class="group-4"><div class="text-wrapper-3">Maps</div></div>
@@ -46,20 +45,19 @@
                         <div class="overlap-3">
                             <div class="div-wrapper">
                                 <div class="overlap-4">
-                                    <div class="tab"><img class="img" src="img/home.svg" /></div>
+                                    <div class="tab"><img class="img" src="img/home.png" /></div>
                                     <div class="overlap-group-wrapper">
                                         <div class="overlap-group-2">
-                                            <div class="tab"><img class="img" src="img/home.svg" /></div>
+                                            <div class="tab"><img class="img" src="img/home.png" /></div>
                                             <div class="text-wrapper-4">Home</div>
-                                            <img class="img" src="img/home.svg" />
+                                            <img class="img" src="img/home.png" />
                                         </div>
                                     </div>
                                     <div class="div-wrapper">
                                         <div class="group-wrapper">
                                             <div class="group-5">
                                                 <div class="overlap-group-2">
-                                                    <div class="tab"><img class="img" src="img/home.svg" /></div>
-                                                    <img class="vector" src="img/vector-2.svg" />
+                                                    <div class="tab"><img class="img" src="img/home.png" /></div>
                                                     <div class="text-wrapper-4">Home</div>
                                                 </div>
                                             </div>
@@ -72,15 +70,14 @@
                                     <div class="group-7">
                                         <div class="group-8">
                                             <div class="overlap-group-3">
-                                                <div class="tab-3"><img class="img" src="img/carbon-favorite-filled.png" /></div>
+                                                <div class="tab-3"><img class="img" src="img/edit-1.svg" /></div>
                                                 <div class="text-wrapper-5">Edit</div>
                                             </div>
                                         </div>
                                     </div>
-                                    <img class="vector-2" src="img/vector.svg" />
                                 </div>
                             </div>
-                            <img class="rectangle-2" src="img/rectangle-22.svg" />
+                            <img class="rectangle-2">
                         </div>
                     </div>
                 </div>
@@ -90,7 +87,7 @@
                             <div class="group-10">
                                 <div class="text-wrapper-6">BonBin SBY</div>
                                 <div class="overlap-5">
-                                    <p class="div-2"><span class="span">4.0 </span> <span class="text-wrapper-7">(11)</span></p>
+                                    <p class="div-3"><span class="span">4.0 </span> <span class="text-wrapper-7">(11)</span></p>
                                     <div class="text"></div>
                                 </div>
                                 <div class="overlap-group-4"><div class="text-wrapper-8">25% OFF</div></div>
@@ -107,7 +104,7 @@
                                 </div>
                                 <div class="text-wrapper-10">Kenjeran Park</div>
                                 <div class="overlap-6">
-                                    <p class="div-2"><span class="span">5.0 </span> <span class="text-wrapper-7">(21)</span></p>
+                                    <p class="div-3"><span class="span">5.0 </span> <span class="text-wrapper-7">(21)</span></p>
                                     <div class="text"></div>
                                 </div>
                                 <div class="overlap-7"><div class="text-wrapper-8">20% OFF</div></div>
@@ -129,7 +126,8 @@
                             <img class="star" src="img/star.svg" />
                         </div>
                         <div class="overlap-8">
-                            <img class="line" src="img/line-70.svg" /> <img class="line-2" src="img/line-71.svg" />
+                            <img class="line" src="img/line.png" /> 
+                            <img class="line-2" src="img/line-2.png" />
                         </div>
                     </div>
                 </div>
