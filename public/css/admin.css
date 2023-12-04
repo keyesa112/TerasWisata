@@ -1,0 +1,3255 @@
+.home-admin {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.home-admin .div {
+    background-color: var(--main-1);
+    overflow: hidden;
+    width: 390px;
+    height: 844px;
+    position: relative;
+}
+
+.home-admin .overlap {
+    position: absolute;
+    width: 396px;
+    height: 99px;
+    top: 745px;
+    left: -3px;
+}
+
+.home-admin .rectangle {
+    position: absolute;
+    width: 390px;
+    height: 99px;
+    top: 0;
+    left: 3px;
+    background-color: #ffffff;
+}
+
+.home-admin .MENU-BAR {
+    position: absolute;
+    width: 396px;
+    height: 80px;
+    top: 0;
+    left: 0;
+}
+
+.home-admin .overlap-group {
+    position: absolute;
+    width: 158px;
+    height: 80px;
+    top: 0;
+    left: 240px;
+}
+
+.home-admin .group {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 0;
+    left: 78px;
+}
+
+.home-admin .overlap-group-2 {
+    position: relative;
+    width: 78px;
+    height: 80px;
+}
+
+.home-admin .tab {
+    position: absolute;
+    width: 78px;
+    top: 0;
+    left: 0;
+    height: 80px;
+    background-color: #ffffff;
+}
+
+.home-admin .img {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 29px;
+    left: 27px;
+}
+
+.home-admin .booking {
+    top: 57px;
+    left: 16px;
+    font-family: "Mulish-Light", Helvetica;
+    color: #00000080;
+    position: absolute;
+    font-weight: 300;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-admin .text-wrapper {
+    position: absolute;
+    width: 51px;
+    top: 55px;
+    left: 25px;
+    font-family: "Mulish-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.home-admin .overlap-group-wrapper {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 0;
+    left: 0;
+}
+
+.home-admin .div-wrapper {
+    position: absolute;
+    width: 78px;
+    height: 80px;
+    top: 0;
+    left: 0;
+}
+
+.home-admin .tab-2 {
+    position: relative;
+    height: 80px;
+    background-color: #ffffff;
+}
+
+.home-admin .booking-2 {
+    top: 57px;
+    left: 16px;
+    font-family: "Poppins-Light", Helvetica;
+    color: #00000080;
+    position: absolute;
+    font-weight: 300;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-admin .group-2 {
+    position: absolute;
+    width: 19px;
+    height: 18px;
+    top: 33px;
+    left: 30px;
+}
+
+.home-admin .text-wrapper-2 {
+    width: 51px;
+    top: 55px;
+    left: 20px;
+    font-family: "Mulish-Light", Helvetica;
+    color: #000000;
+    white-space: nowrap;
+    position: absolute;
+    font-weight: 300;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-admin .group-3 {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    top: 32px;
+    left: 109px;
+}
+
+.home-admin .overlap-wrapper {
+    position: absolute;
+    width: 78px;
+    height: 80px;
+    top: 0;
+    left: 162px;
+}
+
+.home-admin .overlap-2 {
+    position: relative;
+    height: 80px;
+}
+
+.home-admin .group-4 {
+    position: absolute;
+    width: 53px;
+    height: 14px;
+    top: 55px;
+    left: 25px;
+}
+
+.home-admin .text-wrapper-3 {
+    position: absolute;
+    width: 51px;
+    top: 0;
+    left: 0;
+    font-family: "Mulish-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.home-admin .overlap-3 {
+    position: absolute;
+    width: 162px;
+    height: 80px;
+    top: 0;
+    left: 0;
+}
+
+.home-admin .overlap-4 {
+    position: relative;
+    width: 80px;
+    height: 80px;
+}
+
+.home-admin .text-wrapper-4 {
+    position: absolute;
+    width: 51px;
+    top: 55px;
+    left: 24px;
+    font-family: "Mulish-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.home-admin .group-wrapper {
+    height: 80px;
+}
+
+.home-admin .group-5 {
+    width: 80px;
+    height: 80px;
+}
+
+.home-admin .vector {
+    position: absolute;
+    width: 20px;
+    height: 22px;
+    top: 30px;
+    left: 29px;
+}
+
+.home-admin .group-6 {
+    position: absolute;
+    width: 84px;
+    height: 80px;
+    top: 0;
+    left: 78px;
+}
+
+.home-admin .group-7 {
+    position: absolute;
+    width: 84px;
+    height: 80px;
+    top: 0;
+    left: 0;
+}
+
+.home-admin .group-8 {
+    width: 86px;
+    height: 80px;
+}
+
+.home-admin .overlap-group-3 {
+    position: relative;
+    width: 84px;
+    height: 80px;
+}
+
+.home-admin .tab-3 {
+    position: absolute;
+    width: 84px;
+    top: 0;
+    left: 0;
+    height: 80px;
+    background-color: #ffffff;
+}
+
+.home-admin .text-wrapper-5 {
+    position: absolute;
+    width: 51px;
+    top: 55px;
+    left: 29px;
+    font-family: "Mulish-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.home-admin .vector-2 {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 34px;
+    left: 33px;
+}
+
+.home-admin .rectangle-2 {
+    position: absolute;
+    width: 82px;
+    height: 4px;
+    top: 0;
+    left: 3px;
+}
+
+.home-admin .frame {
+    position: absolute;
+    width: 363px;
+    height: 256px;
+    top: 195px;
+    left: 27px;
+    overflow-x: scroll;
+}
+
+.home-admin .group-9 {
+    position: absolute;
+    width: 273px;
+    height: 255px;
+    top: 1px;
+    left: 0;
+}
+
+.home-admin .group-variant {
+    position: absolute;
+    width: 133px;
+    height: 254px;
+    top: 1px;
+    left: 140px;
+    background-color: #ffffff;
+    border-radius: 15px;
+}
+
+.home-admin .group-10 {
+    position: absolute;
+    width: 133px;
+    height: 65px;
+    top: 178px;
+    left: 7px;
+}
+
+.home-admin .text-wrapper-6 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Mulish-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-admin .overlap-5 {
+    position: absolute;
+    width: 28px;
+    height: 10px;
+    top: 55px;
+    left: 13px;
+}
+
+.home-admin .div-2 {
+    top: 0;
+    left: 0;
+    font-family: "Mulish-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 8px;
+    position: absolute;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-admin .span {
+    font-family: "Mulish-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 8px;
+    letter-spacing: 0;
+}
+
+.home-admin .text-wrapper-7 {
+    font-family: "Mulish-ExtraLight", Helvetica;
+    font-weight: 200;
+}
+
+.home-admin .text {
+    top: 0;
+    left: 4px;
+    font-family: "Mulish-ExtraLight", Helvetica;
+    font-weight: 200;
+    font-size: 4px;
+    position: absolute;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-admin .overlap-group-4 {
+    position: absolute;
+    width: 27px;
+    height: 9px;
+    top: 6px;
+    left: 96px;
+    background-color: #65c65e4c;
+    border-radius: 15px;
+}
+
+.home-admin .text-wrapper-8 {
+    position: absolute;
+    top: 1px;
+    left: 3px;
+    font-family: "Mulish-Bold", Helvetica;
+    font-weight: 700;
+    color: #65c65e;
+    font-size: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.home-admin .text-wrapper-9 {
+    position: absolute;
+    width: 161px;
+    height: 23px;
+    top: 38px;
+    left: 100px;
+    font-family: "Roboto-Thin", Helvetica;
+    font-weight: 100;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-admin .star {
+    top: 62px;
+    left: 2px;
+    position: absolute;
+    width: 10px;
+    height: 9px;
+}
+
+.home-admin .image {
+    position: absolute;
+    width: 133px;
+    height: 171px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+.home-admin .slideshow {
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 133px;
+    height: 254px;
+    background-color: #ffffff;
+    border-radius: 15px;
+}
+
+.home-admin .group-11 {
+    position: relative;
+    width: 143px;
+    height: 243px;
+}
+
+.home-admin .overlap-group-5 {
+    position: absolute;
+    width: 133px;
+    height: 170px;
+    top: 0;
+    left: 0;
+    background-image: url(./img/image-1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.home-admin .rectangle-3 {
+    position: absolute;
+    width: 14px;
+    height: 10px;
+    top: 160px;
+    left: 0;
+    background-color: #65c65e;
+}
+
+.home-admin .rectangle-4 {
+    position: absolute;
+    width: 14px;
+    height: 10px;
+    top: 160px;
+    left: 119px;
+    background-color: #f68d1b;
+}
+
+.home-admin .text-wrapper-10 {
+    position: absolute;
+    top: 178px;
+    left: 7px;
+    font-family: "Mulish-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-admin .overlap-6 {
+    position: absolute;
+    width: 28px;
+    height: 10px;
+    top: 233px;
+    left: 20px;
+}
+
+.home-admin .overlap-7 {
+    position: absolute;
+    width: 27px;
+    height: 9px;
+    top: 184px;
+    left: 103px;
+    background-color: #65c65e4c;
+    border-radius: 15px;
+}
+
+.home-admin .p {
+    position: absolute;
+    width: 107px;
+    top: 199px;
+    left: 8px;
+    font-family: "Mulish-ExtraLight", Helvetica;
+    font-weight: 200;
+    color: #00000080;
+    font-size: 8px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-admin .star-2 {
+    top: 240px;
+    left: 9px;
+    position: absolute;
+    width: 10px;
+    height: 9px;
+}
+
+.home-admin .slideshow-2 {
+    top: 2px;
+    left: 279px;
+    position: absolute;
+    width: 133px;
+    height: 254px;
+    background-color: #ffffff;
+    border-radius: 15px;
+}
+
+.home-admin .overlap-group-6 {
+    position: absolute;
+    width: 30px;
+    height: 10px;
+    top: 55px;
+    left: 13px;
+}
+
+.home-admin .overlap-8 {
+    position: absolute;
+    width: 94px;
+    height: 99px;
+    top: 47px;
+    left: 19px;
+    background-color: #d9d9d9;
+    border-radius: 47px/49.5px;
+}
+
+.home-admin .line {
+    width: 1px;
+    height: 50px;
+    top: 30px;
+    left: 47px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.home-admin .line-2 {
+    width: 47px;
+    height: 1px;
+    top: 55px;
+    left: 24px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.home-admin .overlap-9 {
+    position: absolute;
+    width: 329px;
+    height: 235px;
+    top: 469px;
+    left: 27px;
+    background-color: var(--grayscale-1);
+    border-radius: 15px;
+}
+
+.home-admin .text-wrapper-11 {
+    position: absolute;
+    top: 23px;
+    left: 18px;
+    font-family: var(--headline-4-font-family);
+    font-weight: var(--headline-4-font-weight);
+    color: #000000;
+    font-size: var(--headline-4-font-size);
+    letter-spacing: var(--headline-4-letter-spacing);
+    line-height: var(--headline-4-line-height);
+    font-style: var(--headline-4-font-style);
+}
+
+.home-admin .promo {
+    left: 13px;
+    background-image: url(./img/rectangle-29.png);
+    position: absolute;
+    width: 149px;
+    height: 151px;
+    top: 64px;
+    background-size: 100% 100%;
+}
+
+.home-admin .promo-2 {
+    left: 168px;
+    background-image: url(./img/rectangle-79.png);
+    position: absolute;
+    width: 149px;
+    height: 151px;
+    top: 64px;
+    background-size: 100% 100%;
+}
+
+.home-admin .basil-add-outline {
+    position: absolute;
+    width: 42px;
+    height: 40px;
+    top: 15px;
+    left: 279px;
+}
+
+.home-admin .notif {
+    top: 64px;
+    left: 27px;
+    position: absolute;
+    width: 339px;
+    height: 104px;
+}
+
+.home-admin .overlap-10 {
+    position: relative;
+    height: 104px;
+    border-radius: 15px;
+}
+
+.home-admin .notif-2 {
+    top: 0;
+    left: 0;
+    background-color: #ffffffb2;
+    border-radius: 15px;
+    position: absolute;
+    width: 339px;
+    height: 104px;
+}
+
+.home-admin .overlap-group-7 {
+    position: absolute;
+    width: 20px;
+    height: 19px;
+    top: 9px;
+    left: 311px;
+    background-color: #d9d9d9;
+    border-radius: 10px/9.5px;
+    border: 0.5px solid;
+    border-color: #000000;
+}
+
+.home-admin .text-wrapper-12 {
+    top: 2px;
+    left: 8px;
+    font-family: "Mulish-ExtraLight", Helvetica;
+    font-weight: 200;
+    font-size: 10px;
+    position: absolute;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-admin .text-wrapper-13 {
+    position: absolute;
+    top: 13px;
+    left: 16px;
+    font-family: "Mulish-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-admin .days-more-to-go-your {
+    position: absolute;
+    top: 44px;
+    left: 74px;
+    font-family: "Mulish-ExtraLight", Helvetica;
+    font-weight: 200;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-admin .rectangle-5 {
+    position: absolute;
+    width: 52px;
+    height: 51px;
+    top: 40px;
+    left: 16px;
+    background-color: #f9c202;
+    border-radius: 15px;
+    border: 1px solid;
+    border-color: #000000;
+}
+
+.home-admin .text-wrapper-14 {
+    top: 51px;
+    left: 39px;
+    font-family: "Mulish-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 22px;
+    position: absolute;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.tambah-wisata {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.tambah-wisata .div {
+    background-color: #4788d7;
+    overflow: hidden;
+    width: 390px;
+    height: 844px;
+    position: relative;
+}
+
+.tambah-wisata .overlap-group {
+    position: absolute;
+    width: 458px;
+    height: 88px;
+    top: -8px;
+    left: -25px;
+    background-color: #539cdf66;
+}
+
+.tambah-wisata .text-wrapper {
+    position: absolute;
+    top: 38px;
+    left: 101px;
+    font-family: "Mulish-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.tambah-wisata .arrow {
+    position: absolute;
+    width: 25px;
+    height: 1px;
+    top: 51px;
+    left: 58px;
+}
+
+.tambah-wisata .rectangle {
+    position: absolute;
+    width: 339px;
+    height: 137px;
+    top: 474px;
+    left: 26px;
+    background-color: var(--main-3);
+    border-radius: 10px;
+}
+
+.tambah-wisata .overlap {
+    position: absolute;
+    width: 339px;
+    height: 291px;
+    top: 140px;
+    left: 26px;
+    background-color: var(--main-3);
+    border-radius: 10px;
+}
+
+.tambah-wisata .rectangle-2 {
+    position: absolute;
+    width: 339px;
+    height: 75px;
+    top: 216px;
+    left: 0;
+    background-color: var(--accents-5);
+    border-radius: 0px 0px 10px 10px;
+}
+
+.tambah-wisata .rectangle-3 {
+    position: absolute;
+    width: 60px;
+    height: 58px;
+    top: 224px;
+    left: 7px;
+    background-color: var(--grayscale-1);
+    border-radius: 10px;
+}
+
+.tambah-wisata .rectangle-4 {
+    position: absolute;
+    width: 62px;
+    height: 58px;
+    top: 224px;
+    left: 72px;
+    background-color: var(--grayscale-1);
+    border-radius: 10px;
+}
+
+.tambah-wisata .img {
+    position: absolute;
+    width: 61px;
+    height: 58px;
+    top: 224px;
+    left: 139px;
+    object-fit: cover;
+}
+
+.tambah-wisata .rectangle-5 {
+    position: absolute;
+    width: 62px;
+    height: 58px;
+    top: 224px;
+    left: 205px;
+    object-fit: cover;
+}
+
+.tambah-wisata .rectangle-6 {
+    position: absolute;
+    width: 60px;
+    height: 58px;
+    top: 224px;
+    left: 272px;
+    object-fit: cover;
+}
+
+.tambah-wisata .solar-gallery-edit {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: 231px;
+    left: 15px;
+}
+
+.tambah-wisata .ph-camera-fill {
+    position: absolute;
+    width: 50px;
+    height: 46px;
+    top: 230px;
+    left: 78px;
+}
+
+.tambah-wisata .text-wrapper-2 {
+    position: absolute;
+    top: 109px;
+    left: 26px;
+    font-family: var(--text-extrabold-font-family);
+    font-weight: var(--text-extrabold-font-weight);
+    color: var(--grayscale-1);
+    font-size: var(--text-extrabold-font-size);
+    letter-spacing: var(--text-extrabold-letter-spacing);
+    line-height: var(--text-extrabold-line-height);
+    font-style: var(--text-extrabold-font-style);
+}
+
+.tambah-wisata .text-wrapper-3 {
+    position: absolute;
+    top: 448px;
+    left: 26px;
+    font-family: var(--text-extrabold-font-family);
+    font-weight: var(--text-extrabold-font-weight);
+    color: var(--grayscale-1);
+    font-size: var(--text-extrabold-font-size);
+    letter-spacing: var(--text-extrabold-letter-spacing);
+    line-height: var(--text-extrabold-line-height);
+    font-style: var(--text-extrabold-font-style);
+}
+
+.tambah-wisata .rectangle-7 {
+    position: absolute;
+    width: 339px;
+    height: 47px;
+    top: 649px;
+    left: 26px;
+    background-color: var(--main-3);
+    border-radius: 10px;
+}
+
+.tambah-wisata .text-wrapper-4 {
+    position: absolute;
+    top: 623px;
+    left: 26px;
+    font-family: var(--text-extrabold-font-family);
+    font-weight: var(--text-extrabold-font-weight);
+    color: var(--grayscale-1);
+    font-size: var(--text-extrabold-font-size);
+    letter-spacing: var(--text-extrabold-letter-spacing);
+    line-height: var(--text-extrabold-line-height);
+    font-style: var(--text-extrabold-font-style);
+}
+
+.tambah-wisata .button {
+    position: absolute;
+    width: 185px;
+    height: 41px;
+    top: 728px;
+    left: 98px;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    border-radius: 25px;
+    border: none;
+}
+
+.tambah-wisata .text-wrapper-5 {
+    position: absolute;
+    width: 69px;
+    top: 5px;
+    left: 58px;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #4788d7;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.tambah-promo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.tambah-promo .div {
+    background-color: #4788d7;
+    overflow: hidden;
+    width: 390px;
+    height: 844px;
+    position: relative;
+}
+
+.tambah-promo .overlap {
+    position: absolute;
+    width: 458px;
+    height: 88px;
+    top: -8px;
+    left: -25px;
+    background-color: #539cdf66;
+}
+
+.tambah-promo .text-wrapper {
+    position: absolute;
+    top: 38px;
+    left: 101px;
+    font-family: "Mulish-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.tambah-promo .arrow {
+    position: absolute;
+    width: 25px;
+    height: 1px;
+    top: 51px;
+    left: 58px;
+}
+
+.tambah-promo .rectangle {
+    position: absolute;
+    width: 339px;
+    height: 137px;
+    top: 474px;
+    left: 26px;
+    background-color: var(--main-3);
+    border-radius: 10px;
+}
+
+.tambah-promo .overlap-group {
+    position: absolute;
+    width: 339px;
+    height: 291px;
+    top: 140px;
+    left: 26px;
+    background-color: var(--main-3);
+    border-radius: 10px;
+}
+
+.tambah-promo .rectangle-2 {
+    position: absolute;
+    width: 339px;
+    height: 75px;
+    top: 216px;
+    left: 0;
+    background-color: var(--accents-5);
+    border-radius: 0px 0px 10px 10px;
+}
+
+.tambah-promo .rectangle-3 {
+    position: absolute;
+    width: 60px;
+    height: 58px;
+    top: 224px;
+    left: 7px;
+    background-color: var(--grayscale-1);
+    border-radius: 10px;
+}
+
+.tambah-promo .rectangle-4 {
+    position: absolute;
+    width: 62px;
+    height: 58px;
+    top: 224px;
+    left: 72px;
+    background-color: var(--grayscale-1);
+    border-radius: 10px;
+}
+
+.tambah-promo .img {
+    position: absolute;
+    width: 61px;
+    height: 58px;
+    top: 224px;
+    left: 139px;
+    object-fit: cover;
+}
+
+.tambah-promo .rectangle-5 {
+    position: absolute;
+    width: 62px;
+    height: 58px;
+    top: 224px;
+    left: 205px;
+    object-fit: cover;
+}
+
+.tambah-promo .rectangle-6 {
+    position: absolute;
+    width: 60px;
+    height: 58px;
+    top: 224px;
+    left: 272px;
+    object-fit: cover;
+}
+
+.tambah-promo .solar-gallery-edit {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: 231px;
+    left: 15px;
+}
+
+.tambah-promo .ph-camera-fill {
+    position: absolute;
+    width: 50px;
+    height: 46px;
+    top: 230px;
+    left: 78px;
+}
+
+.tambah-promo .text-wrapper-2 {
+    position: absolute;
+    top: 109px;
+    left: 26px;
+    font-family: var(--text-extrabold-font-family);
+    font-weight: var(--text-extrabold-font-weight);
+    color: var(--grayscale-1);
+    font-size: var(--text-extrabold-font-size);
+    letter-spacing: var(--text-extrabold-letter-spacing);
+    line-height: var(--text-extrabold-line-height);
+    font-style: var(--text-extrabold-font-style);
+}
+
+.tambah-promo .text-wrapper-3 {
+    position: absolute;
+    top: 448px;
+    left: 26px;
+    font-family: var(--text-extrabold-font-family);
+    font-weight: var(--text-extrabold-font-weight);
+    color: var(--grayscale-1);
+    font-size: var(--text-extrabold-font-size);
+    letter-spacing: var(--text-extrabold-letter-spacing);
+    line-height: var(--text-extrabold-line-height);
+    font-style: var(--text-extrabold-font-style);
+}
+
+.tambah-promo .button {
+
+    position: absolute;
+    width: 185px;
+    height: 41px;
+    top: 728px;
+    left: 98px;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    border-radius: 25px;
+    border: none;
+}
+
+
+.tambah-promo .text-wrapper-4 {
+    position: absolute;
+    width: 69px;
+    top: 5px;
+    left: 58px;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #4788d7;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.booking-schedule {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.booking-schedule .overlap-group-wrapper {
+    background-color: #bce2ea;
+    width: 390px;
+    height: 844px;
+}
+
+.booking-schedule .overlap-group {
+    position: relative;
+    height: 844px;
+    background-image: url(./img/iphone-14-pro-max-7.png);
+    background-size: 100% 100%;
+}
+
+.booking-schedule .overlap {
+    position: absolute;
+    width: 355px;
+    height: 248px;
+    top: 127px;
+    left: 16px;
+    background-color: #549cdf;
+    border-radius: 10px;
+}
+
+.booking-schedule .div-wrapper {
+    position: absolute;
+    width: 35px;
+    height: 36px;
+    top: 22px;
+    left: 56px;
+    background-color: #89ccfa;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.booking-schedule .text-wrapper {
+    position: absolute;
+    width: 12px;
+    top: 2px;
+    left: 10px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.booking-schedule .rectangle {
+    position: absolute;
+    width: 35px;
+    top: 80px;
+    left: 11px;
+    height: 36px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.booking-schedule .div {
+    position: absolute;
+    width: 35px;
+    top: 80px;
+    left: 59px;
+    height: 36px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.booking-schedule .rectangle-2 {
+    position: absolute;
+    width: 35px;
+    top: 80px;
+    left: 113px;
+    height: 36px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.booking-schedule .rectangle-3 {
+    position: absolute;
+    width: 35px;
+    top: 80px;
+    left: 164px;
+    height: 36px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.booking-schedule .rectangle-4 {
+    position: absolute;
+    width: 35px;
+    top: 80px;
+    left: 214px;
+    height: 36px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.booking-schedule .rectangle-5 {
+    position: absolute;
+    width: 35px;
+    top: 80px;
+    left: 266px;
+    height: 36px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.booking-schedule .rectangle-6 {
+    position: absolute;
+    width: 35px;
+    top: 80px;
+    left: 313px;
+    height: 36px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.booking-schedule .rectangle-7 {
+    position: absolute;
+    width: 35px;
+    top: 138px;
+    left: 11px;
+    height: 36px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.booking-schedule .rectangle-8 {
+    position: absolute;
+    width: 35px;
+    top: 138px;
+    left: 59px;
+    height: 36px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.booking-schedule .rectangle-9 {
+    position: absolute;
+    width: 35px;
+    top: 138px;
+    left: 113px;
+    height: 36px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.booking-schedule .rectangle-10 {
+    position: absolute;
+    width: 35px;
+    top: 138px;
+    left: 164px;
+    height: 36px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.booking-schedule .rectangle-11 {
+    position: absolute;
+    width: 35px;
+    top: 138px;
+    left: 214px;
+    height: 36px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.booking-schedule .rectangle-12 {
+    position: absolute;
+    width: 35px;
+    top: 138px;
+    left: 313px;
+    height: 36px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.booking-schedule .rectangle-13 {
+    position: absolute;
+    width: 35px;
+    top: 196px;
+    left: 8px;
+    height: 36px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.booking-schedule .rectangle-14 {
+    position: absolute;
+    width: 35px;
+    top: 196px;
+    left: 56px;
+    height: 36px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.booking-schedule .rectangle-wrapper {
+    position: absolute;
+    width: 35px;
+    height: 36px;
+    top: 196px;
+    left: 111px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #000000;
+}
+
+.booking-schedule .rectangle-15 {
+    position: relative;
+    top: -1px;
+    left: -1px;
+    height: 36px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.booking-schedule .rectangle-16 {
+    position: absolute;
+    width: 35px;
+    top: 138px;
+    left: 266px;
+    height: 36px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.booking-schedule .overlap-2 {
+    position: absolute;
+    width: 35px;
+    height: 36px;
+    top: 22px;
+    left: 113px;
+    background-color: var(--main-3);
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.booking-schedule .overlap-3 {
+    position: absolute;
+    width: 35px;
+    height: 36px;
+    top: 22px;
+    left: 164px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.booking-schedule .text-wrapper-2 {
+    top: 3px;
+    position: absolute;
+    width: 12px;
+    left: 9px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.booking-schedule .overlap-4 {
+    position: absolute;
+    width: 35px;
+    height: 36px;
+    top: 22px;
+    left: 214px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.booking-schedule .text-wrapper-3 {
+    top: 2px;
+    position: absolute;
+    width: 12px;
+    left: 9px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.booking-schedule .overlap-5 {
+    position: absolute;
+    width: 35px;
+    height: 36px;
+    top: 22px;
+    left: 266px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.booking-schedule .overlap-6 {
+    position: absolute;
+    width: 35px;
+    height: 36px;
+    top: 22px;
+    left: 313px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.booking-schedule .arrow {
+    position: absolute;
+    width: 28px;
+    height: 22px;
+    top: 53px;
+    left: 26px;
+}
+
+.booking-schedule .text-wrapper-4 {
+    position: absolute;
+    top: 51px;
+    left: 67px;
+    font-family: "Mulish-SemiBold", Helvetica;
+    font-weight: 600;
+    color: var(--grayscale-1);
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.book {
+    position: relative;
+    width: 317px;
+    height: 101px;
+    background-color: var(--accent-1);
+    border-radius: 8px;
+}
+
+.book .overlap-group {
+    position: absolute;
+    width: 62px;
+    height: 91px;
+    top: 5px;
+    left: 5px;
+    background-color: #89ccfa;
+    border-radius: 8px;
+}
+
+.book .text-wrapper {
+    position: absolute;
+    top: 12px;
+    left: 10px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.book .div {
+    position: absolute;
+    top: 62px;
+    left: 25px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #fff9f9;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.book .place-bromo-s {
+    position: absolute;
+    top: 10px;
+    left: 85px;
+    font-family: var(--subtitle-1-font-family);
+    font-weight: var(--subtitle-1-font-weight);
+    color: var(--grayscale-9);
+    font-size: var(--subtitle-1-font-size);
+    letter-spacing: var(--subtitle-1-letter-spacing);
+    line-height: var(--subtitle-1-line-height);
+    font-style: var(--subtitle-1-font-style);
+}
+
+.book .text-wrapper-2 {
+    position: absolute;
+    top: 71px;
+    left: 85px;
+    font-family: var(--subtitle-1-font-family);
+    font-weight: var(--subtitle-1-font-weight);
+    color: var(--grayscale-9);
+    font-size: var(--subtitle-1-font-size);
+    letter-spacing: var(--subtitle-1-letter-spacing);
+    line-height: var(--subtitle-1-line-height);
+    font-style: var(--subtitle-1-font-style);
+}
+
+.book .time-am {
+    position: absolute;
+    top: 42px;
+    left: 85px;
+    font-family: var(--subtitle-1-font-family);
+    font-weight: var(--subtitle-1-font-weight);
+    color: var(--grayscale-9);
+    font-size: var(--subtitle-1-font-size);
+    letter-spacing: var(--subtitle-1-letter-spacing);
+    line-height: var(--subtitle-1-line-height);
+    font-style: var(--subtitle-1-font-style);
+}
+
+.PETA {
+ 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.PETA .overlap-group-wrapper {
+    background-color: #bce2ea;
+    width: 390px;
+    height: 844px;
+}
+
+.PETA .overlap-group {
+    position: relative;
+    height: 896px;
+    top: -52px;
+}
+
+.PETA .iphone-pro-max {
+    position: absolute;
+    width: 390px;
+    height: 844px;
+    top: 52px;
+    left: 0;
+}
+
+.PETA .rectangle {
+    position: absolute;
+    width: 390px;
+    height: 155px;
+    top: 0;
+    left: 0;
+    background-color: var(--main-2);
+}
+
+.PETA .arrow {
+    position: absolute;
+    width: 28px;
+    height: 22px;
+    top: 105px;
+    left: 26px;
+}
+
+.PETA .text-wrapper {
+    position: absolute;
+    top: 102px;
+    left: 64px;
+    font-family: "Mulish-SemiBold", Helvetica;
+    font-weight: 600;
+    color: var(--grayscale-1);
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.verifikasi {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.verifikasi .iphone-pro-max-wrapper {
+    background-color: #bce2ea;
+    width: 390px;
+    height: 844px;
+    position: relative;
+}
+
+.verifikasi .iphone-pro-max {
+    position: absolute;
+    width: 390px;
+    height: 844px;
+    top: 0;
+    left: 0;
+}
+
+.detail-wisata {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.detail-wisata .div {
+    background-color: #4788d7;
+    overflow: hidden;
+    width: 390px;
+    height: 844px;
+    position: relative;
+}
+
+.detail-wisata .overlap {
+    position: absolute;
+    width: 390px;
+    height: 155px;
+    top: 0;
+    left: 0;
+    background-color: var(--main-2);
+}
+
+.detail-wisata .overlap-group {
+    position: absolute;
+    width: 339px;
+    height: 32px;
+    top: 104px;
+    left: 27px;
+    background-color: #ffffffb2;
+    border-radius: 15px;
+}
+
+.detail-wisata .ellipse {
+    position: absolute;
+    width: 20px;
+    height: 19px;
+    top: 7px;
+    left: 306px;
+}
+
+.detail-wisata .rectangle {
+    position: absolute;
+    width: 14px;
+    height: 13px;
+    top: 10px;
+    left: 309px;
+    object-fit: cover;
+}
+
+.detail-wisata .arrow {
+    position: absolute;
+    width: 25px;
+    height: 1px;
+    top: 64px;
+    left: 27px;
+}
+
+.detail-wisata .text-wrapper {
+    position: absolute;
+    top: 51px;
+    left: 76px;
+    font-family: "Mulish-SemiBold", Helvetica;
+    font-weight: 600;
+    color: var(--grayscale-1);
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.detail-wisata .rectangle-2 {
+    position: absolute;
+    width: 186px;
+    height: 151px;
+    top: 534px;
+    left: 394px;
+    background-color: #d9d9d9;
+    border-radius: 15px;
+}
+
+.detail-wisata .rectangle-3 {
+    position: absolute;
+    width: 133px;
+    height: 254px;
+    top: 195px;
+    left: 394px;
+    background-color: #ffffff;
+    border-radius: 15px;
+}
+
+.detail-wisata .overlap-2 {
+    position: absolute;
+    width: 396px;
+    height: 98px;
+    top: 752px;
+    left: 0;
+}
+
+.detail-wisata .line {
+    width: 390px;
+    height: 1px;
+    top: 97px;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+}
+
+.detail-wisata .rectangle-4 {
+    position: absolute;
+    width: 390px;
+    height: 98px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+}
+
+.detail-wisata .MENU-BAR {
+    position: absolute;
+    width: 396px;
+    height: 80px;
+    top: 0;
+    left: 0;
+    opacity: 0.57;
+}
+
+.detail-wisata .overlap-3 {
+    position: absolute;
+    width: 158px;
+    height: 80px;
+    top: 0;
+    left: 240px;
+}
+
+.detail-wisata .group {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 0;
+    left: 78px;
+}
+
+.detail-wisata .overlap-group-2 {
+    position: relative;
+    width: 78px;
+    height: 80px;
+}
+
+.detail-wisata .tab {
+    position: absolute;
+    width: 78px;
+    top: 0;
+    left: 0;
+    height: 80px;
+    background-color: #ffffff;
+}
+
+.detail-wisata .img {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 29px;
+    left: 27px;
+}
+
+.detail-wisata .booking {
+    top: 57px;
+    left: 16px;
+    font-family: "Mulish-Light", Helvetica;
+    color: #00000080;
+    position: absolute;
+    font-weight: 300;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.detail-wisata .text-wrapper-2 {
+    position: absolute;
+    width: 51px;
+    top: 55px;
+    left: 25px;
+    font-family: "Mulish-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.detail-wisata .overlap-group-wrapper {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 0;
+    left: 0;
+}
+
+.detail-wisata .div-wrapper {
+    position: absolute;
+    width: 78px;
+    height: 80px;
+    top: 0;
+    left: 0;
+}
+
+.detail-wisata .tab-2 {
+    position: relative;
+    height: 80px;
+    background-color: #ffffff;
+}
+
+.detail-wisata .booking-2 {
+    top: 57px;
+    left: 16px;
+    font-family: "Poppins-Light", Helvetica;
+    color: #00000080;
+    position: absolute;
+    font-weight: 300;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.detail-wisata .group-2 {
+    position: absolute;
+    width: 19px;
+    height: 18px;
+    top: 33px;
+    left: 30px;
+}
+
+.detail-wisata .text-wrapper-3 {
+    width: 51px;
+    top: 55px;
+    left: 20px;
+    font-family: "Mulish-Light", Helvetica;
+    color: #000000;
+    white-space: nowrap;
+    position: absolute;
+    font-weight: 300;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.detail-wisata .group-3 {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    top: 32px;
+    left: 109px;
+}
+
+.detail-wisata .overlap-4 {
+    position: absolute;
+    width: 162px;
+    height: 80px;
+    top: 0;
+    left: 78px;
+}
+
+.detail-wisata .overlap-wrapper {
+    position: absolute;
+    width: 78px;
+    height: 80px;
+    top: 0;
+    left: 84px;
+}
+
+.detail-wisata .overlap-5 {
+    position: relative;
+    height: 80px;
+}
+
+.detail-wisata .group-4 {
+    position: absolute;
+    width: 53px;
+    height: 14px;
+    top: 55px;
+    left: 25px;
+}
+
+.detail-wisata .text-wrapper-4 {
+    position: absolute;
+    width: 51px;
+    top: 0;
+    left: 0;
+    font-family: "Mulish-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.detail-wisata .group-5 {
+    position: absolute;
+    width: 84px;
+    height: 80px;
+    top: 0;
+    left: 0;
+}
+
+.detail-wisata .group-6 {
+    width: 86px;
+    height: 80px;
+}
+
+.detail-wisata .overlap-group-3 {
+    width: 84px;
+    position: relative;
+    height: 80px;
+}
+
+.detail-wisata .tab-3 {
+    position: absolute;
+    width: 84px;
+    top: 0;
+    left: 0;
+    height: 80px;
+    background-color: #ffffff;
+}
+
+.detail-wisata .text-wrapper-5 {
+    position: absolute;
+    width: 51px;
+    top: 55px;
+    left: 29px;
+    font-family: "Mulish-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.detail-wisata .vector {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    top: 35px;
+    left: 34px;
+}
+
+.detail-wisata .rectangle-5 {
+    position: absolute;
+    width: 85px;
+    height: 4px;
+    top: 0;
+    left: 0;
+}
+
+.detail-wisata .overlap-6 {
+    position: relative;
+    width: 80px;
+    height: 80px;
+}
+
+.detail-wisata .text-wrapper-6 {
+    font-family: "Mulish-Bold", Helvetica;
+    font-weight: 700;
+    position: absolute;
+    width: 51px;
+    top: 55px;
+    left: 24px;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.detail-wisata .group-wrapper {
+    height: 80px;
+}
+
+.detail-wisata .group-7 {
+    width: 80px;
+    height: 80px;
+}
+
+.detail-wisata .text-wrapper-7 {
+    font-family: "Mulish-Light", Helvetica;
+    font-weight: 300;
+    position: absolute;
+    width: 51px;
+    top: 55px;
+    left: 24px;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.detail-wisata .WISATA {
+    top: 179px;
+    background-color: var(--accent-1);
+    border-radius: 10px;
+    position: absolute;
+    width: 331px;
+    height: 88px;
+    left: 31px;
+}
+
+.detail-wisata .div-2 {
+    position: absolute;
+    width: 88px;
+    height: 88px;
+    top: 0;
+    left: 0;
+    background-color: var(--accents-6);
+    border-radius: 10px 0px 0px 10px;
+}
+
+.detail-wisata .rectangle-6 {
+    position: absolute;
+    width: 67px;
+    height: 61px;
+    top: 14px;
+    left: 11px;
+    object-fit: cover;
+}
+
+.detail-wisata .line-2 {
+    width: 1px;
+    height: 88px;
+    top: 0;
+    left: 87px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.detail-wisata .overlap-7 {
+    position: absolute;
+    width: 167px;
+    height: 34px;
+    top: 27px;
+    left: 94px;
+}
+
+.detail-wisata .text-wrapper-8 {
+    position: absolute;
+    top: 26px;
+    left: 100px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.detail-wisata .text-wrapper-9 {
+    position: absolute;
+    width: 161px;
+    height: 23px;
+    top: 11px;
+    left: 6px;
+    font-family: "Roboto-Thin", Helvetica;
+    font-weight: 100;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.detail-wisata .tabler-edit {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 31px;
+    left: 284px;
+}
+
+.detail-wisata .WISATA-2 {
+    top: 273px;
+    background-color: var(--accent-1);
+    border-radius: 10px;
+    position: absolute;
+    width: 331px;
+    height: 88px;
+    left: 31px;
+}
+
+.detail-wisata .rectangle-7 {
+    position: absolute;
+    width: 67px;
+    height: 62px;
+    top: 13px;
+    left: 10px;
+    object-fit: cover;
+}
+
+.detail-wisata .overlap-8 {
+    position: absolute;
+    width: 124px;
+    height: 30px;
+    top: 27px;
+    left: 100px;
+}
+
+.detail-wisata .text-wrapper-10 {
+    position: absolute;
+    height: 14px;
+    top: 0;
+    left: 0;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.detail-wisata .text-wrapper-11 {
+    position: absolute;
+    height: 16px;
+    top: 14px;
+    left: 0;
+    font-family: "Roboto-Thin", Helvetica;
+    font-weight: 100;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.detail-wisata .WISATA-3 {
+    top: 367px;
+    position: absolute;
+    width: 331px;
+    height: 88px;
+    left: 31px;
+}
+
+.detail-wisata .overlap-9 {
+    position: relative;
+    height: 88px;
+    border-radius: 10px;
+}
+
+.detail-wisata .tabler-edit-wrapper {
+    position: absolute;
+    width: 331px;
+    height: 88px;
+    top: 0;
+    left: 0;
+    background-color: var(--accent-1);
+    border-radius: 10px;
+}
+
+.detail-wisata .text-wrapper-12 {
+    position: absolute;
+    width: 86px;
+    top: 27px;
+    left: 89px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.detail-wisata .text-wrapper-13 {
+    position: absolute;
+    width: 161px;
+    height: 23px;
+    top: 38px;
+    left: 100px;
+    font-family: "Roboto-Thin", Helvetica;
+    font-weight: 100;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.detail-wisata .rectangle-8 {
+    position: absolute;
+    width: 67px;
+    height: 61px;
+    top: 13px;
+    left: 10px;
+    object-fit: cover;
+}
+
+.detail-wisata .WISATA-4 {
+    top: 461px;
+    background-color: var(--accent-1);
+    border-radius: 10px;
+    position: absolute;
+    width: 331px;
+    height: 88px;
+    left: 31px;
+}
+
+.detail-wisata .overlap-10 {
+    position: absolute;
+    width: 163px;
+    height: 34px;
+    top: 27px;
+    left: 99px;
+}
+
+.detail-wisata .text-wrapper-14 {
+    position: absolute;
+    width: 161px;
+    height: 23px;
+    top: 11px;
+    left: 1px;
+    font-family: "Roboto-Thin", Helvetica;
+    font-weight: 100;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.detail-wisata .WISATA-5 {
+    top: 555px;
+    position: absolute;
+    width: 331px;
+    height: 88px;
+    left: 31px;
+}
+
+.detail-wisata .text-wrapper-15 {
+    position: absolute;
+    top: 26px;
+    left: 100px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.edit-detail-wisata {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.edit-detail-wisata .div {
+    background-color: #4788d7;
+    overflow: hidden;
+    width: 390px;
+    height: 844px;
+    position: relative;
+}
+
+.edit-detail-wisata .overlap-group {
+    position: absolute;
+    width: 458px;
+    height: 88px;
+    top: -8px;
+    left: -25px;
+    background-color: #539cdf66;
+}
+
+.edit-detail-wisata .text-wrapper {
+    position: absolute;
+    top: 38px;
+    left: 101px;
+    font-family: "Mulish-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.edit-detail-wisata .arrow {
+    position: absolute;
+    width: 25px;
+    height: 1px;
+    top: 51px;
+    left: 58px;
+}
+
+.edit-detail-wisata .overlap {
+    position: absolute;
+    width: 339px;
+    height: 137px;
+    top: 474px;
+    left: 26px;
+    background-color: var(--main-3);
+    border-radius: 10px;
+}
+
+.edit-detail-wisata .seperti-area-taman {
+    position: absolute;
+    width: 305px;
+    top: 10px;
+    left: 12px;
+    font-family: var(--subtitle-2-font-family);
+    font-weight: var(--subtitle-2-font-weight);
+    color: #000000;
+    font-size: var(--subtitle-2-font-size);
+    text-align: justify;
+    letter-spacing: var(--subtitle-2-letter-spacing);
+    line-height: var(--subtitle-2-line-height);
+    font-style: var(--subtitle-2-font-style);
+}
+
+.edit-detail-wisata .span {
+    font-family: var(--subtitle-2-font-family);
+    font-weight: var(--subtitle-2-font-weight);
+    color: #000000;
+    font-size: var(--subtitle-2-font-size);
+    letter-spacing: var(--subtitle-2-letter-spacing);
+    font-style: var(--subtitle-2-font-style);
+    line-height: var(--subtitle-2-line-height);
+}
+
+.edit-detail-wisata .overlap-2 {
+    position: absolute;
+    width: 339px;
+    height: 291px;
+    top: 140px;
+    left: 26px;
+    background-image: url(./img/rectangle-35.svg);
+    background-size: 100% 100%;
+}
+
+.edit-detail-wisata .overlap-3 {
+    position: absolute;
+    width: 339px;
+    height: 75px;
+    top: 216px;
+    left: 0;
+    background-color: var(--accents-5);
+    border-radius: 0px 0px 10px 10px;
+}
+
+.edit-detail-wisata .solar-gallery-edit-wrapper {
+    position: absolute;
+    width: 60px;
+    height: 58px;
+    top: 8px;
+    left: 7px;
+    background-color: var(--grayscale-1);
+    border-radius: 10px;
+}
+
+.edit-detail-wisata .solar-gallery-edit {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: 7px;
+    left: 8px;
+}
+
+.edit-detail-wisata .ph-camera-fill-wrapper {
+    position: absolute;
+    width: 62px;
+    height: 58px;
+    top: 8px;
+    left: 72px;
+    background-color: var(--grayscale-1);
+    border-radius: 10px;
+}
+
+.edit-detail-wisata .ph-camera-fill {
+    position: absolute;
+    width: 50px;
+    height: 46px;
+    top: 6px;
+    left: 6px;
+}
+
+.edit-detail-wisata .rectangle {
+    width: 61px;
+    left: 139px;
+    position: absolute;
+    height: 58px;
+    top: 8px;
+    object-fit: cover;
+}
+
+.edit-detail-wisata .img {
+    width: 62px;
+    left: 205px;
+    position: absolute;
+    height: 58px;
+    top: 8px;
+    object-fit: cover;
+}
+
+.edit-detail-wisata .rectangle-2 {
+    width: 60px;
+    left: 272px;
+    position: absolute;
+    height: 58px;
+    top: 8px;
+    object-fit: cover;
+}
+
+.edit-detail-wisata .image {
+    position: absolute;
+    width: 317px;
+    height: 191px;
+    top: 14px;
+    left: 11px;
+    object-fit: cover;
+}
+
+.edit-detail-wisata .text-wrapper-2 {
+    position: absolute;
+    top: 109px;
+    left: 26px;
+    font-family: var(--text-extrabold-font-family);
+    font-weight: var(--text-extrabold-font-weight);
+    color: var(--grayscale-1);
+    font-size: var(--text-extrabold-font-size);
+    letter-spacing: var(--text-extrabold-letter-spacing);
+    line-height: var(--text-extrabold-line-height);
+    font-style: var(--text-extrabold-font-style);
+}
+
+.edit-detail-wisata .text-wrapper-3 {
+    position: absolute;
+    top: 448px;
+    left: 26px;
+    font-family: var(--text-extrabold-font-family);
+    font-weight: var(--text-extrabold-font-weight);
+    color: var(--grayscale-1);
+    font-size: var(--text-extrabold-font-size);
+    letter-spacing: var(--text-extrabold-letter-spacing);
+    line-height: var(--text-extrabold-line-height);
+    font-style: var(--text-extrabold-font-style);
+}
+
+.edit-detail-wisata .div-wrapper {
+    position: absolute;
+    width: 339px;
+    height: 47px;
+    top: 649px;
+    left: 26px;
+    background-color: var(--main-3);
+    border-radius: 10px;
+}
+
+.edit-detail-wisata .p {
+    position: absolute;
+    width: 327px;
+    height: 16px;
+    top: 2px;
+    left: 12px;
+    font-family: var(--subtitle-2-font-family);
+    font-weight: var(--subtitle-2-font-weight);
+    color: #000000;
+    font-size: var(--subtitle-2-font-size);
+    letter-spacing: var(--subtitle-2-letter-spacing);
+    line-height: var(--subtitle-2-line-height);
+    font-style: var(--subtitle-2-font-style);
+}
+
+.edit-detail-wisata .text-wrapper-4 {
+    position: absolute;
+    top: 623px;
+    left: 26px;
+    font-family: var(--text-extrabold-font-family);
+    font-weight: var(--text-extrabold-font-weight);
+    color: var(--grayscale-1);
+    font-size: var(--text-extrabold-font-size);
+    letter-spacing: var(--text-extrabold-letter-spacing);
+    line-height: var(--text-extrabold-line-height);
+    font-style: var(--text-extrabold-font-style);
+}
+
+.edit-detail-wisata .button {
+    position: absolute;
+    width: 185px;
+    height: 41px;
+    top: 728px;
+    left: 98px;
+    background-color: #ffffff;
+    border-radius: 25px;
+    all: unset;
+    box-sizing: border-box;
+}
+
+.edit-detail-wisata .text-wrapper-5 {
+    position: absolute;
+    width: 69px;
+    top: 5px;
+    left: 58px;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #4788d7;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.DETAIL-BOOKING {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.DETAIL-BOOKING .div {
+    background-color: #4788d7;
+    overflow: hidden;
+    width: 390px;
+    height: 844px;
+    position: relative;
+}
+
+.DETAIL-BOOKING .overlap {
+    position: absolute;
+    width: 390px;
+    height: 155px;
+    top: 0;
+    left: 0;
+    background-color: var(--main-2);
+}
+
+.DETAIL-BOOKING .overlap-group {
+    position: absolute;
+    width: 339px;
+    height: 32px;
+    top: 104px;
+    left: 27px;
+    background-color: #ffffffb2;
+    border-radius: 15px;
+}
+
+.DETAIL-BOOKING .ellipse {
+    position: absolute;
+    width: 20px;
+    height: 19px;
+    top: 7px;
+    left: 306px;
+}
+
+.DETAIL-BOOKING .rectangle {
+    position: absolute;
+    width: 14px;
+    height: 13px;
+    top: 10px;
+    left: 309px;
+    object-fit: cover;
+}
+
+.DETAIL-BOOKING .arrow {
+    position: absolute;
+    width: 25px;
+    height: 1px;
+    top: 64px;
+    left: 27px;
+}
+
+.DETAIL-BOOKING .text-wrapper {
+    position: absolute;
+    top: 51px;
+    left: 63px;
+    font-family: "Mulish-SemiBold", Helvetica;
+    font-weight: 600;
+    color: var(--grayscale-1);
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.DETAIL-BOOKING .overlap-2 {
+    position: absolute;
+    width: 396px;
+    height: 98px;
+    top: 752px;
+    left: 0;
+}
+
+.DETAIL-BOOKING .line {
+    width: 390px;
+    height: 1px;
+    top: 97px;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+}
+
+.DETAIL-BOOKING .rectangle-2 {
+    position: absolute;
+    width: 390px;
+    height: 98px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+}
+
+.DETAIL-BOOKING .MENU-BAR {
+    position: absolute;
+    width: 396px;
+    height: 80px;
+    top: 0;
+    left: 0;
+    opacity: 0.57;
+}
+
+.DETAIL-BOOKING .overlap-3 {
+    position: absolute;
+    width: 158px;
+    height: 80px;
+    top: 0;
+    left: 240px;
+}
+
+.DETAIL-BOOKING .group {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 0;
+    left: 78px;
+}
+
+.DETAIL-BOOKING .overlap-group-2 {
+    position: relative;
+    width: 78px;
+    height: 80px;
+}
+
+.DETAIL-BOOKING .tab {
+    position: absolute;
+    width: 78px;
+    height: 80px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+}
+
+.DETAIL-BOOKING .img {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 29px;
+    left: 27px;
+}
+
+.DETAIL-BOOKING .booking {
+    top: 57px;
+    left: 16px;
+    font-family: "Mulish-Light", Helvetica;
+    font-weight: 300;
+    color: #00000080;
+    position: absolute;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.DETAIL-BOOKING .text-wrapper-2 {
+    position: absolute;
+    width: 51px;
+    top: 55px;
+    left: 25px;
+    font-family: "Mulish-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.DETAIL-BOOKING .overlap-group-wrapper {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 0;
+    left: 0;
+}
+
+.DETAIL-BOOKING .div-wrapper {
+    position: absolute;
+    width: 78px;
+    height: 80px;
+    top: 0;
+    left: 0;
+}
+
+.DETAIL-BOOKING .tab-2 {
+    position: relative;
+    height: 80px;
+    background-color: #ffffff;
+}
+
+.DETAIL-BOOKING .booking-2 {
+    position: absolute;
+    top: 57px;
+    left: 16px;
+    font-family: "Poppins-Light", Helvetica;
+    font-weight: 300;
+    color: #00000080;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.DETAIL-BOOKING .group-2 {
+    position: absolute;
+    width: 19px;
+    height: 18px;
+    top: 33px;
+    left: 30px;
+}
+
+.DETAIL-BOOKING .text-wrapper-3 {
+    width: 51px;
+    top: 55px;
+    left: 20px;
+    font-family: "Mulish-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    white-space: nowrap;
+    position: absolute;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.DETAIL-BOOKING .group-3 {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    top: 32px;
+    left: 109px;
+}
+
+.DETAIL-BOOKING .rectangle-3 {
+    position: absolute;
+    width: 85px;
+    height: 4px;
+    top: 0;
+    left: 0;
+}
+
+.DETAIL-BOOKING .overlap-wrapper {
+    position: absolute;
+    width: 78px;
+    height: 80px;
+    top: 0;
+    left: 162px;
+}
+
+.DETAIL-BOOKING .overlap-4 {
+    position: relative;
+    height: 80px;
+}
+
+.DETAIL-BOOKING .group-4 {
+    position: absolute;
+    width: 53px;
+    height: 14px;
+    top: 55px;
+    left: 25px;
+}
+
+.DETAIL-BOOKING .text-wrapper-4 {
+    position: absolute;
+    width: 51px;
+    top: 0;
+    left: 0;
+    font-family: "Mulish-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.DETAIL-BOOKING .overlap-5 {
+    position: relative;
+    width: 80px;
+    height: 80px;
+}
+
+.DETAIL-BOOKING .text-wrapper-5 {
+    position: absolute;
+    width: 51px;
+    top: 55px;
+    left: 24px;
+    font-family: "Mulish-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.DETAIL-BOOKING .group-wrapper {
+    height: 80px;
+}
+
+.DETAIL-BOOKING .group-5 {
+    width: 80px;
+    height: 80px;
+}
+
+.DETAIL-BOOKING .text-wrapper-6 {
+    position: absolute;
+    width: 51px;
+    top: 55px;
+    left: 24px;
+    font-family: "Mulish-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.DETAIL-BOOKING .group-6 {
+    position: absolute;
+    width: 84px;
+    height: 80px;
+    top: 0;
+    left: 78px;
+}
+
+.DETAIL-BOOKING .group-7 {
+    position: absolute;
+    width: 84px;
+    height: 80px;
+    top: 0;
+    left: 0;
+}
+
+.DETAIL-BOOKING .group-8 {
+    width: 86px;
+    height: 80px;
+}
+
+.DETAIL-BOOKING .overlap-group-3 {
+    position: relative;
+    width: 84px;
+    height: 80px;
+}
+
+.DETAIL-BOOKING .tab-3 {
+    position: absolute;
+    width: 84px;
+    top: 0;
+    left: 0;
+    height: 80px;
+    background-color: #ffffff;
+}
+
+.DETAIL-BOOKING .text-wrapper-7 {
+    position: absolute;
+    width: 51px;
+    top: 55px;
+    left: 29px;
+    font-family: "Mulish-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.DETAIL-BOOKING .vector {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    top: 35px;
+    left: 34px;
+}
+
+.DETAIL-BOOKING .WISATA {
+    position: absolute;
+    width: 331px;
+    height: 88px;
+    top: 179px;
+    left: 31px;
+    background-color: var(--accent-1);
+    border-radius: 10px;
+}
+
+.DETAIL-BOOKING .div-2 {
+    position: absolute;
+    width: 88px;
+    height: 88px;
+    top: 0;
+    left: 0;
+    background-color: var(--accents-6);
+    border-radius: 10px 0px 0px 10px;
+}
+
+.DETAIL-BOOKING .rectangle-4 {
+    position: absolute;
+    width: 67px;
+    height: 61px;
+    top: 14px;
+    left: 11px;
+    object-fit: cover;
+}
+
+.DETAIL-BOOKING .line-2 {
+    width: 1px;
+    height: 88px;
+    top: 0;
+    left: 87px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.DETAIL-BOOKING .overlap-6 {
+    position: absolute;
+    width: 167px;
+    height: 34px;
+    top: 27px;
+    left: 94px;
+}
+
+.DETAIL-BOOKING .text-wrapper-8 {
+    position: absolute;
+    width: 86px;
+    top: 0;
+    left: 0;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.DETAIL-BOOKING .text-wrapper-9 {
+    position: absolute;
+    width: 161px;
+    height: 23px;
+    top: 11px;
+    left: 6px;
+    font-family: "Roboto-Thin", Helvetica;
+    font-weight: 100;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.DETAIL-BOOKING .tabler-edit {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 31px;
+    left: 284px;
+}
+
+.DETAIL-BOOKING .WISATA-2 {
+    top: 273px;
+    background-color: var(--accent-1);
+    border-radius: 10px;
+    position: absolute;
+    width: 331px;
+    height: 88px;
+    left: 31px;
+}
+
+.DETAIL-BOOKING .rectangle-5 {
+    position: absolute;
+    width: 67px;
+    height: 62px;
+    top: 13px;
+    left: 10px;
+    object-fit: cover;
+}
+
+.DETAIL-BOOKING .overlap-7 {
+    position: absolute;
+    width: 124px;
+    height: 30px;
+    top: 27px;
+    left: 100px;
+}
+
+.DETAIL-BOOKING .text-wrapper-10 {
+    position: absolute;
+    height: 14px;
+    top: 0;
+    left: 0;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.DETAIL-BOOKING .text-wrapper-11 {
+    position: absolute;
+    height: 16px;
+    top: 14px;
+    left: 0;
+    font-family: "Roboto-Thin", Helvetica;
+    font-weight: 100;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.DETAIL-BOOKING .WISATA-3 {
+    top: 367px;
+    position: absolute;
+    width: 331px;
+    height: 88px;
+    left: 31px;
+}
+
+.DETAIL-BOOKING .overlap-8 {
+    position: relative;
+    height: 88px;
+    border-radius: 10px;
+}
+
+.DETAIL-BOOKING .tabler-edit-wrapper {
+    position: absolute;
+    width: 331px;
+    height: 88px;
+    top: 0;
+    left: 0;
+    background-color: var(--accent-1);
+    border-radius: 10px;
+}
+
+.DETAIL-BOOKING .text-wrapper-12 {
+    position: absolute;
+    width: 86px;
+    top: 27px;
+    left: 89px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.DETAIL-BOOKING .text-wrapper-13 {
+    position: absolute;
+    width: 161px;
+    height: 23px;
+    top: 38px;
+    left: 100px;
+    font-family: "Roboto-Thin", Helvetica;
+    font-weight: 100;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.DETAIL-BOOKING .rectangle-6 {
+    position: absolute;
+    width: 67px;
+    height: 61px;
+    top: 13px;
+    left: 10px;
+    object-fit: cover;
+}
+
+.DETAIL-BOOKING .WISATA-4 {
+    top: 461px;
+    background-color: var(--accent-1);
+    border-radius: 10px;
+    position: absolute;
+    width: 331px;
+    height: 88px;
+    left: 31px;
+}
+
+.DETAIL-BOOKING .overlap-9 {
+    position: absolute;
+    width: 163px;
+    height: 34px;
+    top: 27px;
+    left: 99px;
+}
+
+.DETAIL-BOOKING .text-wrapper-14 {
+    position: absolute;
+    width: 161px;
+    height: 23px;
+    top: 11px;
+    left: 1px;
+    font-family: "Roboto-Thin", Helvetica;
+    font-weight: 100;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.DETAIL-BOOKING .WISATA-5 {
+    top: 555px;
+    position: absolute;
+    width: 331px;
+    height: 88px;
+    left: 31px;
+}
+
+.DETAIL-BOOKING .text-wrapper-15 {
+    position: absolute;
+    top: 26px;
+    left: 100px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+
+
+
+
+
+
+
+
+
+

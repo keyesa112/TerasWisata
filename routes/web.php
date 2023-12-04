@@ -105,3 +105,49 @@ Route::get('/booking-list', function () {
 Route::get('/profile-saved', function () {
     return view('profile/sukses');
 });
+
+// ADMIN WOY 
+Route::get('/home-admin', function () {
+    return view('admin/home-admin');
+});
+
+Route::get('/tambah-wisata', function () {
+    return view('admin/tambah-wisata');
+});
+
+Route::get('/tambah-promo', function () {
+    return view('admin/tambah-promo');
+});
+
+Route::get('/booking-schedule', function () {
+    return view('admin/booking-schedule');
+});
+
+Route::get('/peta', function () {
+    return view('admin/peta');
+});
+
+Route::get('/verifikasi', function () {
+    return view('admin/verifikasi');
+});
+
+Route::get('/detil-wisata', function () {
+    return view('admin/detil-wisata');
+});
+
+Route::get('/edit-detail-wisata', function () {
+    return view('admin/edit-detail-wisata');
+});
+
+Route::get('/savebook', function () {
+    return view('admin/savebook');
+});
+
+Route::get('/detail-booking', function () {
+    return view('admin/detail-booking');
+});
+
+Route::get('/detil-pembeli-tiket', function () {
+    return view('admin/detil-pembeli-tiket');
+});
+
