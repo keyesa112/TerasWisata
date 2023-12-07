@@ -18,7 +18,7 @@
                 <div class="rectangle-2"></div>
                 <div class="rectangle-3"></div>
                 <div class="overlap-2">
-                    <img class="line" src="img/line-69.svg" />
+                 
                     <div class="rectangle-4"></div>
                     <div class="MENU-BAR">
                         <div class="overlap-3">
@@ -35,7 +35,7 @@
                                 <div class="overlap-group-2">
                                     <div class="div-wrapper">
                                         <div class="tab-2">
-                                            <img class="img" src="img/ic-outline-table-restaurant-2.png" />
+                               
                                             <div class="booking-2"></div>
                                         </div>
                                     </div>
@@ -49,7 +49,7 @@
                             <div class="overlap-wrapper">
                                 <div class="overlap-5">
                                     <div class="tab">
-                                        <img class="img" src="img/ic-outline-table-restaurant.svg" />
+                                        <img class="img" src="img/ic-outline-table-restaurant.png" />
                                         <div class="booking-2"></div>
                                     </div>
                                     <div class="group-4"><div class="text-wrapper-4">Maps</div></div>
@@ -60,32 +60,32 @@
                                     <div class="group-5">
                                         <div class="group-6">
                                             <div class="overlap-group-3">
-                                                <div class="tab-3"><img class="img" src="img/carbon-favorite-filled.png" /></div>
+                                                <div class="tab-3"><img class="img" src="img/edit.png" /></div>
                                                 <div class="text-wrapper-5">Edit</div>
                                             </div>
                                         </div>
                                     </div>
-                                    <img class="vector" src="img/vector.svg" />
-                                    <img class="vector" src="img/vector-2.svg" />
+
+
                                 </div>
                             </div>
                             <img class="rectangle-5" src="img/rectangle-22.svg" />
                         </div>
                         <div class="div-wrapper">
                             <div class="overlap-6">
-                                <div class="tab"><img class="img" src="img/home.svg" /></div>
+                                <div class="tab"><img class="img" src="img/home.png" /></div>
                                 <div class="overlap-group-wrapper">
                                     <div class="overlap-group-2">
-                                        <div class="tab"><img class="img" src="img/home.svg" /></div>
+                                        <div class="tab"><img class="img" src="img/home.png" /></div>
                                         <div class="text-wrapper-6">Home</div>
-                                        <img class="img" src="img/home.svg" />
+                                        <img class="img" src="img/home.png" />
                                     </div>
                                 </div>
                                 <div class="div-wrapper">
                                     <div class="group-wrapper">
                                         <div class="group-7">
                                             <div class="overlap-group-2">
-                                                <div class="tab"><img class="img" src="img/home.svg" /></div>
+                                                <div class="tab"><img class="img" src="img/home.png" /></div>
                                                 <div class="text-wrapper-7">Home</div>
                                             </div>
                                         </div>

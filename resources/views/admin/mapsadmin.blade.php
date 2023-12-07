@@ -17,7 +17,7 @@
                             <div class="group">
                                 <div class="div">
                                     <div class="tab">
-                                        <img class="img" src="img/Group-33836.jpg" />
+                                   
                                         <div class="booking"></div>
                                     </div>
                                     <div class="text-wrapper">Profile</div>
@@ -51,7 +51,7 @@
                                 </div>
                             </div>
                             <div class="rectangle-2"></div>
-                            <img class="group-6" src="img/group-33836.png" />
+                            <img class="group-6" src="img/pfp.png" />
                         </div>
                         <div class="div-wrapper">
                             <div class="overlap-4">

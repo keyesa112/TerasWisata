@@ -10,7 +10,7 @@
             <div class="div">
                 <div class="overlap">
                     <div class="text-wrapper">Tambah Promo</div>
-                    <img class="arrow" src="img/arrow-3.svg" />
+                    <img class="arrow" src="img/Arrow-3.png" />
                 </div>
                 <div class="rectangle"></div>
                 <div class="overlap-group">

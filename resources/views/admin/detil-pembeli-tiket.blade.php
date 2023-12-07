@@ -34,7 +34,7 @@
               <div class="group">
                 <div class="overlap-group-2">
                   <div class="tab">
-                    <img class="img-2" src="img/image.png" />
+                    <img class="img-2" src="img/pfp.png" />
                     <div class="booking"></div>
                   </div>
                   <div class="text-wrapper-4">Profile</div>
@@ -44,21 +44,20 @@
                 <div class="overlap-group-2">
                   <div class="div-wrapper">
                     <div class="tab-2">
-                      <img class="img-2" src="img/ic-outline-table-restaurant.png" />
+                      <img class="img-2" src="img/Group-33837.png" />
                       <div class="booking-2"></div>
                     </div>
                   </div>
-                  <img class="group-2" src="img/group-33837.png" />
+                
                   <div class="text-wrapper-5">Booking</div>
                 </div>
               </div>
-              <img class="group-3" src="img/group-33836.png" />
-              <img class="rectangle-5" src="img/rectangle-20.svg" />
+          
             </div>
             <div class="overlap-wrapper">
               <div class="overlap-4">
                 <div class="tab">
-                  <img class="img-2" src="img/ic-outline-table-restaurant.svg" />
+                  <img class="img-2" src="img/ic-outline-table-restaurant.png" />
                   <div class="booking-2"></div>
                 </div>
                 <div class="group-4"><div class="text-wrapper-6">Maps</div></div>
@@ -69,16 +68,15 @@
                 <div class="tab"><img class="img-2" src="img/home.svg" /></div>
                 <div class="overlap-group-wrapper">
                   <div class="overlap-group-2">
-                    <div class="tab"><img class="img-2" src="img/home.svg" /></div>
-                    <div class="text-wrapper-7">Home</div>
-                    <img class="img-2" src="img/home.svg" />
+                    <div class="tab"><img class="img-2" src="img/home.png" /></div>
+        
                   </div>
                 </div>
                 <div class="div-wrapper">
                   <div class="group-wrapper">
                     <div class="group-5">
                       <div class="overlap-group-2">
-                        <div class="tab"><img class="img-2" src="img/home.svg" /></div>
+                        <div class="tab"><img class="img-2" src="img/home.png" /></div>
                         <div class="text-wrapper-8">Home</div>
                       </div>
                     </div>
@@ -91,12 +89,12 @@
                 <div class="group-7">
                   <div class="group-8">
                     <div class="overlap-group-3">
-                      <div class="tab-3"><img class="img-2" src="img/carbon-favorite-filled.png" /></div>
+                      <div class="tab-3"><img class="img-2" src="img/edit.png" /></div>
                       <div class="text-wrapper-9">Edit</div>
                     </div>
                   </div>
                 </div>
-                <img class="vector-2" src="img/vector 2.png" />
+          
               </div>
             </div>
           </div>
@@ -104,7 +102,7 @@
         </div>
         <div class="user-2">
           <div class="div-2">
-            <img class="line" src="img/image.svg" /> <img class="vector" src="img/vector 2.png" />
+            <img class="line" src="img/Group-33836.png" /> <img class="vector" src="img/vector 2.png" />
           </div>
           <div class="overlap-6">
             <div class="text-wrapper-3">Rafika Rahma Y</div>
