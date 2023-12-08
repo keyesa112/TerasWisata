@@ -32,6 +32,8 @@
                                             <div class="booking-2"></div>
                                         </div>
                                     </div>
+                                    
+                                    <a href="/detail-booking">
                                     <div class="text-wrapper-2">Booking</div>
                                 </div>
                             </div>
@@ -46,8 +48,8 @@
                             </div>
                             <div class="group-5">
                                 <div class="overlap-3">
-                                    <a href="/wishlist"><div class="tab-3"><img class="img" src="img/carbon-favorite-filled.png" /></div>
-                                    <div class="text-wrapper-4">Wishlist</div>
+                                    <a href="/detil-wisata"><div class="tab-3"><img class="img" src="img/edit.png" /></div>
+                                    <div class="text-wrapper-4">Edit</div>
                                 </div>
                             </div>
                             <div class="rectangle-2"></div>
@@ -58,6 +60,8 @@
                                 <div class="tab"><img class="img" src="img/home.png" /></div>
                                 <div class="group-7">
                                     <div class="div">
+                                        
+                                        <a href="/home-admin">
                                         <div class="tab"><img class="img" src="img/home.png" /></div>
                                         <div class="text-wrapper-5">Home</div>
                                         <img class="img" src="img/home.png" />

@@ -178,3 +178,7 @@ Route::get('/loginadmin', function () {
 Route::get('/signupadmin', function () {
     return view('admin/signupadmin');
 });
+
+Route::get('/landing-page-admin', function () {
+    return view('admin/landing-page-admin');
+});

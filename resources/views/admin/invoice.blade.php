@@ -36,6 +36,7 @@
           <div class="text-wrapper-8">Total Pesanan : 2</div>
           <div class="waktu-pm">Waktu&nbsp;&nbsp;: 09.00 pm</div>
         </div>
+        <a href="/detil-pembeli-tiket">
         <img class="arrow" src="img/arrow-3.svg" />
         <div class="text-wrapper-9">Invoice Pemesanan Tiket</div>
       </div>

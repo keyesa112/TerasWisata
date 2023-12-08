@@ -25,6 +25,7 @@
                 </div>
                 <div class="text-wrapper-2">Gambar</div>
                 <div class="text-wrapper-3">Deskripsi</div>
+                <a href="/verifikasi">
                 <button class="button"><div class="text-wrapper-4">Save</div></button>
             </div>
         </div>

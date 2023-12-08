@@ -104,6 +104,7 @@
                         <div class="text-wrapper-8">Gunung Bromo</div>
                         <div class="text-wrapper-9">Probolinggo, Jawa Timur</div>
                     </div>
+                
                     <img class="tabler-edit" src="img/tabler_edit.png" />
                 </div>
                 <div class="WISATA-2">
@@ -118,6 +119,7 @@
                 </div>
                 <div class="WISATA-3">
                     <div class="overlap-9">
+                        <a href="/detil-pembeli-tiket">
                         <div class="tabler-edit-wrapper"><img class="tabler-edit" src="img/tabler_edit.png" /></div>
                         <div class="div-2"></div>
                         <div class="text-wrapper-12">Kenjeran Park</div>

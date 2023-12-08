@@ -17,6 +17,7 @@
           <img class="img" src="img/Rectangle-36.png" />
           <img class="rectangle-4" src="img/Rectangle-36.png" />
           <div class="user">
+            <a href="/invoice">
             <div class="div-2">
               <img class="line" src="img/line-88.svg" /> <img class="vector" src="img/vector 2.png" />
             </div>
@@ -26,6 +27,7 @@
             </div>
           </div>
         </div>
+        <a href="/detail-booking">
         <img class="arrow" src="img/arrow-3.svg" />
         <img class="line-2" src="img/line-69.svg" />
         <div class="overlap-2">
@@ -127,6 +129,7 @@
             <img class="vector" src="img/vector 2.png" />
           </div>
         </div>
+        <a href="/detail-booking">
         <div class="text-wrapper-14">Detail Booking</div>
       </div>
     </div>

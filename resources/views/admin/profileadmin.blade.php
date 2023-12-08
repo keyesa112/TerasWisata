@@ -3,7 +3,7 @@
     <head>
         <link rel="stylesheet" href="globals.css" />
         <link rel="stylesheet" href="css/styleguide.css" />
-        <link rel="stylesheet" href="css/style.css" />
+        <link rel="stylesheet" href="css/admin.css" />
     </head>
     <body>
         <div class="akunmu">
@@ -13,13 +13,10 @@
                 <a href="/home">
                 <div class="back"><img class="arrow" src="img/arrow-3.svg" /></div>
                 <a href="/detail-profile">
+                    
                 <div class="image"><img class="pensil-removebg" src="img/pensil-removebg-preview-1.png" /></div>
             </div>
-            <div class="overlap-group">
-                <a href="/booking-list">
-                <div class="div"></div>
-                <div class="text-wrapper">Booking Schedule</div>
-            </div>
+      
             <img class="line" src="img/line-89.svg" />
             <img class="img" src="img/line-89.svg" />
             <img class="line-2" src="img/line-89.svg" />

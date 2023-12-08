@@ -39,6 +39,7 @@
                                             <div class="booking-2"></div>
                                         </div>
                                     </div>
+                                    <a href="/detail-booking">
                                     <img class="group-2" src="img/group-33837.png" />
                                     <div class="text-wrapper-3">Booking</div>
                                 </div>
@@ -52,7 +53,11 @@
                                         <img class="img" src="img/ic-outline-table-restaurant.png" />
                                         <div class="booking-2"></div>
                                     </div>
-                                    <div class="group-4"><div class="text-wrapper-4">Maps</div></div>
+                                    
+                                    <a href="/mapsadmin">
+                                    <div class="group-4">
+                                        <a href="/mapsadmin">
+                                        <div class="text-wrapper-4">Maps</div></div>
                                 </div>
                             </div>
                             <div class="group-5">
@@ -77,6 +82,7 @@
                                 <div class="overlap-group-wrapper">
                                     <div class="overlap-group-2">
                                         <div class="tab"><img class="img" src="img/home.png" /></div>
+                                        <a href="/home-admin">
                                         <div class="text-wrapper-6">Home</div>
                                         <img class="img" src="img/home.png" />
                                     </div>
@@ -118,6 +124,7 @@
                 </div>
                 <div class="WISATA-3">
                     <div class="overlap-9">
+                        <a href="/edit-detail-wisata">
                         <div class="tabler-edit-wrapper"><img class="tabler-edit" src="img/tabler_edit.png" /></div>
                         <div class="div-2"></div>
                         <div class="text-wrapper-12">Kenjeran Park</div>

@@ -1941,17 +1941,18 @@
 }
 
 .detail-wisata .text-wrapper-3 {
-    width: 51px;
-    top: 55px;
-    left: 20px;
-    font-family: "Mulish-Light", Helvetica;
-    color: #000000;
-    white-space: nowrap;
-    position: absolute;
-    font-weight: 300;
-    font-size: 12px;
-    letter-spacing: 0;
-    line-height: normal;
+  position: absolute;
+  width: 51px;
+  top: 55px;
+  left: 20px;
+  font-family: "Mulish-Light", Helvetica;
+  color: #000000;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 300;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
 }
 
 .detail-wisata .group-3 {
@@ -2034,17 +2035,17 @@
 }
 
 .detail-wisata .text-wrapper-5 {
-    position: absolute;
-    width: 51px;
-    top: 55px;
-    left: 29px;
-    font-family: "Mulish-Bold", Helvetica;
-    font-weight: 700;
-    color: #000000;
-    font-size: 12px;
-    letter-spacing: 0;
-    line-height: normal;
-    white-space: nowrap;
+  position: absolute;
+  width: 51px;
+  top: 55px;
+  left: 29px;
+  font-family: "Mullish-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
 }
 
 .detail-wisata .vector {
@@ -4460,7 +4461,7 @@
   position: absolute;
   width: 51px;
   top: 55px;
-  left: 17px;
+  left: 26px;
   font-family: "Mulish-Light", Helvetica;
   font-weight: 300;
   color: #000000;
@@ -5751,6 +5752,300 @@
     width: 100%;
     max-width: 300px; 
   }
+
+  
+.akunmu {
+  position: absolute;
+  width: 400px;
+  height: 900px;
+  background-color: #4788d7;
+  overflow: hidden;
+  top: 403px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.akunmu .overlap {
+  position: absolute;
+  width: 458px;
+  height: 146px;
+  top: 51px;
+  left: -14px;
+}
+
+.akunmu .rectangle {
+  width: 458px;
+  height: 88px;
+  background-color: #539cdf66;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.akunmu .ellipse {
+  position: absolute;
+  width: 97px;
+  height: 99px;
+  top: 47px;
+  left: 165px;
+  object-fit: cover;
+  color: #000000;
+}
+
+.akunmu .back {
+  position: absolute;
+  width: 92px;
+  height: 60px;
+  top: 9px;
+  left: 23px;
+  background-color: #4788d74c;
+}
+
+.akunmu .arrow {
+  position: absolute;
+  width: 36px;
+  height: 29px;
+  top: 31px;
+  left: 12px;
+}
+
+.akunmu .image {
+  width: 32px;
+  height: 26px;
+}
+
+.akunmu .image .pensil-removebg {
+  position: fixed;
+  width: 32px;
+  height: 26px;
+  top: 140px;
+  left: 185px;
+}
+
+
+.akunmu .overlap-group {
+  position: absolute;
+  width: 292px;
+  height: 36px;
+  top: 531px;
+  left: 49px;
+  border-radius: 15px;
+}
+
+.akunmu .div {
+  width: 292px;
+  height: 36px;
+  background-color: var(--grayscale-1);
+  border-radius: 15px;
+  border: 1px solid;
+  border-color: #000000;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.akunmu .text-wrapper {
+  position: absolute;
+  top: 6px;
+  left: 18px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: var(--grayscale-9);
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.akunmu .line {
+  top: 275px;
+  position: absolute;
+  width: 268px;
+  height: 1px;
+  left: 64px;
+  object-fit: cover;
+}
+
+.akunmu .img {
+  top: 329px;
+  position: absolute;
+  width: 268px;
+  height: 1px;
+  left: 64px;
+  object-fit: cover;
+}
+
+.akunmu .line-2 {
+  top: 383px;
+  position: absolute;
+  width: 268px;
+  height: 1px;
+  left: 64px;
+  object-fit: cover;
+}
+
+.akunmu .line-3 {
+  top: 437px;
+  position: absolute;
+  width: 268px;
+  height: 1px;
+  left: 64px;
+  object-fit: cover;
+}
+
+.akunmu .line-4 {
+  top: 491px;
+  position: absolute;
+  width: 268px;
+  height: 1px;
+  left: 64px;
+  object-fit: cover;
+}
+
+.akunmu .text-wrapper-2 {
+  position: absolute;
+  top: 254px;
+  left: 64px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.akunmu .text-wrapper-3 {
+  position: absolute;
+  top: 417px;
+  left: 64px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.akunmu .p {
+  position: absolute;
+  top: 350px;
+  left: 64px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.akunmu .text-wrapper-4 {
+  position: absolute;
+  top: 308px;
+  left: 64px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.akunmu .text-wrapper-5 {
+  position: absolute;
+  top: 469px;
+  left: 64px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.akunmu .button {
+  top: 759px;
+  left: 106px;
+  background-color: #ffffff;
+  border-radius: 25px;
+  position: absolute;
+  width: 185px;
+  height: 41px;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.akunmu .text-wrapper-6 {
+  position: absolute;
+  width: 99px;
+  top: 4px;
+  left: 43px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #4788d7;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.akunmu .overlap-group-wrapper {
+  top: 699px;
+  left: 104px;
+  position: absolute;
+  width: 185px;
+  height: 41px;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.akunmu .overlap-group-2 {
+  position: relative;
+  top: 700px;
+  left: -90px;
+  height: 41px;
+  border-radius: 25px;
+}
+
+.akunmu .overlap-group-3 {
+  position: relative;
+  top: 730px;
+  left: 100px;
+  height: 41px;
+  border-radius: 25px;
+  width: 185px;
+  background-color: #ffffff;
+}
+
+.akunmu .rectangle-2 {
+  width: 185px;
+  height: 41px;
+  background-color: #ffffff;
+  border-radius: 25px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.akunmu .text-wrapper-7 {
+  position: absolute;
+  width: 69px;
+  top: 5px;
+  left: 58px;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #4788d7;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+  
   
 
 

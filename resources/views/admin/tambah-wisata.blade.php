@@ -27,6 +27,7 @@
                 <div class="text-wrapper-3">Deskripsi</div>
                 <div class="rectangle-7"></div>
                 <div class="text-wrapper-4">Maps</div>
+                <a href="/verifikasi">
                 <button class="button"><div class="text-wrapper-5">Save</div></button>
             </div>
         </div>

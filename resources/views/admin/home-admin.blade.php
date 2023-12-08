@@ -15,6 +15,7 @@
                             <div class="group">
                                 <div class="overlap-group-2">
                                     <div class="tab">
+                                        <a href="/profileadmin">
                                         <img class="img" src="img/Group-33836.jpg" />
                                         <div class="booking"></div>
                                     </div>
@@ -28,6 +29,7 @@
                                             <div class="booking-2"></div>
                                         </div>
                                     </div>
+                                    <a href="/detail-booking">
                                     <img class="group-2" src="img/group-33837.png" />
                                     <div class="text-wrapper-2">Booking</div>
                                 </div>
@@ -36,9 +38,11 @@
                         <div class="overlap-wrapper">
                             <div class="overlap-2">
                                 <div class="tab">
+                                    <a href="/mapsadmin">
                                     <img class="img" src="img/ic-outline-table-restaurant.png" />
                                     <div class="booking-2"></div>
                                 </div>
+                           
                                 <div class="group-4"><div class="text-wrapper-3">Maps</div></div>
                             </div>
                         </div>
@@ -70,6 +74,7 @@
                                     <div class="group-7">
                                         <div class="group-8">
                                             <div class="overlap-group-3">
+                                                <a href="/detil-wisata">
                                                 <div class="tab-3"><img class="img" src="img/edit-1.svg" /></div>
                                                 <div class="text-wrapper-5">Edit</div>
                                             </div>
@@ -116,6 +121,7 @@
                     </div>
                     <div class="slideshow-2">
                         <div class="group-10">
+                            <a href="/tambah-wisata">
                             <div class="text-wrapper-6">Nama Wisata</div>
                             <div class="overlap-group-6">
                                 <div class="div-2">RATING</div>
@@ -135,6 +141,7 @@
                     <div class="text-wrapper-11">Upcoming Promo</div>
                     <div class="promo"><a href="/detail-promo"><img class="promo-variant" src="img/Rectangle-29.png" /></div>
                         <div class="promo-2"><img class="promo-variant" src="img/Rectangle-79.png" /></div>
+                        <a href="/tambah-promo">
                     <img class="basil-add-outline" src="img/basil-add-outline.png" />
                 </div>
                 <div class="notif">
