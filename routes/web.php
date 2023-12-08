@@ -162,3 +162,19 @@ Route::get('/petaadmin', function () {
 Route::get('/mapsadmin', function () {
     return view('admin/mapsadmin');
 });
+
+Route::get('/profileadmin', function () {
+    return view('admin/profileadmin');
+});
+
+Route::get('/profileadminsukses', function () {
+    return view('admin/profileadminsukses');
+});
+
+Route::get('/loginadmin', function () {
+    return view('admin/loginadmin');
+});
+
+Route::get('/signupadmin', function () {
+    return view('admin/signupadmin');
+});
