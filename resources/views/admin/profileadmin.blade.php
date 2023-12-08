@@ -27,7 +27,7 @@
             <p class="p">(Semoga dlancarkan semua urusan )</p>
             <div class="text-wrapper-4">Admin 1</div>
             <div class="text-wrapper-5">3 Tahun</div>
-            <a href="/login">
+            <a href="/loginadmin">
             <button class="overlap-group-3">
                 <div class="rectangle-2"></div>
                 <div class="text-wrapper-6">Logout</div></button>

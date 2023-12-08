@@ -26,6 +26,7 @@
                                 <div class="overlap-group-2">
                                     <div class="div-wrapper">
                                         <div class="tab-2">
+                                            <a href="/detail-booking">
                                             <div class="booking-2"></div>
                                         </div>
                                     </div>
@@ -63,6 +64,7 @@
                                                 <div class="overlap-group-2">
                                                     <div class="tab"><img class="img" src="img/home.png" /></div>
                                                     <div class="text-wrapper-4">Home</div>
+                                                    <img class="img" src="img/home.png" />
                                                 </div>
                                             </div>
                                         </div>
@@ -74,7 +76,7 @@
                                     <div class="group-7">
                                         <div class="group-8">
                                             <div class="overlap-group-3">
-                                                <a href="/detil-wisata">
+                                                <a href="/edit-detail-wisata">
                                                 <div class="tab-3"><img class="img" src="img/edit-1.svg" /></div>
                                                 <div class="text-wrapper-5">Edit</div>
                                             </div>
@@ -128,7 +130,7 @@
                                 <div class="text"></div>
                             </div>
                             <div class="overlap-group-4"><div class="text-wrapper-8">DISKON</div></div>
-                            <div class="text-wrapper-9">Alamat Wisata</div>
+                            <div class="text-wrapper-20">Alamat Wisata</div>
                             <img class="star" src="img/star.svg" />
                         </div>
                         <div class="overlap-8">

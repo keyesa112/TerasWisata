@@ -10,7 +10,8 @@
             <div class="div">
                 <div class="overlap-group">
                     <div class="text-wrapper">Edit Wisata</div>
-                    <img class="arrow" src="img/arrow-3.svg" />
+                    <a href="/home-admin">
+                    <img class="arrow" src="img/arrow-3.png" />
                 </div>
                 <div class="overlap">
                     <p class="seperti-area-taman">
@@ -45,6 +46,7 @@
                 <div class="text-wrapper-3">Deskripsi</div>
                 <div class="div-wrapper"><p class="p">PQXW+3MP, Sukolilo Baru, Kec. Bulak, Surabaya, Jawa Timur 60122</p></div>
                 <div class="text-wrapper-4">Maps</div>
+                <a href="/verifikasi">
                 <button class="button"><div class="text-wrapper-5">Save</div></button>
             </div>
         </div>

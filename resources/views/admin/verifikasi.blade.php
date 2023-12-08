@@ -10,7 +10,7 @@
             <div class="SUKSES-wrapper">
                 <div class="SUKSES">
                     <div class="group">
-                        <a href="/ticket">
+                        <a href="/home-admin">
                         <img class="centang-verifiy" src="img/centang-verifiy-removebg-preview-1.png" />
                         <div class="your-payment-have">Your changes<br />have been saved</div>
                     </div>

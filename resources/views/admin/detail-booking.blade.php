@@ -13,7 +13,7 @@
                         <img class="ellipse" src="img/ellipse-4.svg" /> <img class="rectangle" src="img/rectangle-36.png" />
                     </div>
                     <img class="arrow" src="img/arrow-3.png" />
-                    <div class="text-wrapper">Edit Tempat Wisata</div>
+                    <div class="text-wrapper">Detail Booking</div>
                 </div>
                 <div class="rectangle-2"></div>
                 <div class="rectangle-3"></div>
@@ -25,6 +25,7 @@
                             <div class="group">
                                 <div class="overlap-group-2">
                                     <div class="tab">
+                                        <a href="/profileadmin">
                                         <img class="img" src="img/profile.png" />
                                         <div class="booking"></div>
                                     </div>
@@ -43,12 +44,16 @@
                                     <div class="text-wrapper-3">Booking</div>
                                 </div>
                             </div>
-                            <img class="group-3"  />
+                            <img class="group-2" src="img/group-33837.png" />
+                            <img class="group-2" src="img/group-33837.png" />
+                            <img class="group-2" src="img/group-33837.png" />
                         </div>
+                        <img class="group-2" src="img/group-33837.png" />
                         <div class="overlap-4">
                             <div class="overlap-wrapper">
                                 <div class="overlap-5">
                                     <div class="tab">
+                                        <a href="/mapsadmin">
                                         <img class="img" src="img/ic-outline-table-restaurant.png" />
                                         <div class="booking-2"></div>
                                     </div>
@@ -60,6 +65,7 @@
                                     <div class="group-5">
                                         <div class="group-6">
                                             <div class="overlap-group-3">
+                                                <a href="/edit-detail-wisata">
                                                 <div class="tab-3"><img class="img" src="img/edit.png" /></div>
                                                 <div class="text-wrapper-5">Edit</div>
                                             </div>
@@ -69,10 +75,11 @@
 
                                 </div>
                             </div>
-                            <img class="rectangle-5" src="img/rectangle-22.svg" />
+                            <img class="rectangle-5" />
                         </div>
                         <div class="div-wrapper">
                             <div class="overlap-6">
+                                <a href="/home-admin">
                                 <div class="tab"><img class="img" src="img/home.png" /></div>
                                 <div class="overlap-group-wrapper">
                                     <div class="overlap-group-2">
@@ -85,6 +92,7 @@
                                     <div class="group-wrapper">
                                         <div class="group-7">
                                             <div class="overlap-group-2">
+                                                <a href="/home-admin">
                                                 <div class="tab"><img class="img" src="img/home.png" /></div>
                                                 <div class="text-wrapper-7">Home</div>
                                             </div>
@@ -133,7 +141,7 @@
                         <img class="rectangle-6" src="img/rectangle-88.png" /> <img class="line-2" src="img/line-88-5.svg" />
                     </div>
                     <div class="overlap-10">
-                        <div class="text-wrapper-8">Kebun Binatang</div>
+                        <div class="text-wrapper-20">Kebun Binatang</div>
                         <div class="text-wrapper-14">Surabaya, Jawa Timur</div>
                     </div>
                     <img class="tabler-edit" src="img/tabler_edit.png" />

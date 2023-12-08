@@ -179,6 +179,6 @@ Route::get('/signupadmin', function () {
     return view('admin/signupadmin');
 });
 
-Route::get('/landing-page-admin', function () {
+Route::get('/admin', function () {
     return view('admin/landing-page-admin');
 });

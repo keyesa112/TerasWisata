@@ -27,7 +27,7 @@
                                 <div class="div">
                                     <div class="div-wrapper">
                                         <div class="tab-2">
-                                            <a href="/booking">
+                                            <a href="/detail-booking">
                                             <img class="img" src="img/group-33837.png" />
                                             <div class="booking-2"></div>
                                         </div>
@@ -48,7 +48,7 @@
                             </div>
                             <div class="group-5">
                                 <div class="overlap-3">
-                                    <a href="/detil-wisata"><div class="tab-3"><img class="img" src="img/edit.png" /></div>
+                                    <a href="/edit-detail-wisata"><div class="tab-3"><img class="img" src="img/edit.png" /></div>
                                     <div class="text-wrapper-4">Edit</div>
                                 </div>
                             </div>
@@ -71,7 +71,7 @@
                                     <div class="group-wrapper">
                                         <div class="group-8">
                                             <div class="div">
-                                                <a href="/home"><div class="tab"><img class="img" src="img/home.png" /></div>
+                                                <a href="/home-admin"><div class="tab"><img class="img" src="img/home.png" /></div>
                                                 <div class="text-wrapper-6">Home</div>
                                             </div>
                                         </div>
@@ -81,7 +81,7 @@
                         </div>
                     </div>
                     <div class="rectangle-3"></div>
-                    <a href="/home"><img class="arrow" src="img/arrow-3.svg" />
+                    <a href="/home-admin"><img class="arrow" src="img/arrow-3.svg" />
                     <div class="text-wrapper-7">Maps</div>
                     <div class="find">
                         <div class="overlap-5">

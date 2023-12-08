@@ -10,7 +10,7 @@
             <div class="div">
                 <div class="overlap">
                     <div class="rectangle"></div>
-                    <a href="/login" class="button-wrapper">
+                    <a href="/loginadmin" class="button-wrapper">
                     <div class="text-wrapper">Register</div>
                 </div>
                 <p class="have-an-account-sign">

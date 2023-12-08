@@ -27,13 +27,13 @@
                     Plan your holidays easily, anytime, anywhere, <br />right from your smartphone!
                 </p>
                 <p class="already-have-an">
-                    <span class="span">Already have an account?</span> <span class="text-wrapper-3"><a href="/login" class="login-link">Login</a></span>
+                    <span class="span">Already have an account?</span> <span class="text-wrapper-3"><a href="/loginadmin" class="login-link">Login</a></span>
                 </p>
                 <a href="/signupadmin">
                 <div class="overlap-2">
                     <div class="text-wrapper-4">Get Started</div>
                     <div class="overlap-group-2">
-                        <a href="/signup" class="button-wrapper">
+                        <a href="/signupadmin" class="button-wrapper">
                             <div class="rectangle">
                                 <div class="rectangle-2"></div>
                             </div>

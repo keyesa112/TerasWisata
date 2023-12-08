@@ -15,7 +15,7 @@
                         <div class="text-wrapper-2">OR</div>
                         <div class="text-wrapper-3">sign in with</div>
                         <div class="overlap-group">
-                            <a href="/home" class="button-link">
+                            <a href="/home-admin" class="button-link">
                             <div class="rectangle"></div>
                             <div class="text-wrapper-4">Login</div>
                         </div>
