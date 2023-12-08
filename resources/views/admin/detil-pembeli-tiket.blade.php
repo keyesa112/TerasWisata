@@ -50,7 +50,6 @@
                       <div class="booking-2"></div>
                     </div>
                   </div>
-                
                   <div class="text-wrapper-5">Booking</div>
                 </div>
               </div>
@@ -96,7 +95,7 @@
                     </div>
                   </div>
                 </div>
-          
+                <img class="rectangle-7"/>
               </div>
             </div>
           </div>
